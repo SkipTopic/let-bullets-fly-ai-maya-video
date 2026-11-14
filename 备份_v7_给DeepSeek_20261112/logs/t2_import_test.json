@@ -1,0 +1,1075 @@
+{
+ "step": "t2_import_test",
+ "errors": [
+  "RuntimeError('setAttr: 没有与名称匹配的对象: hardwareRenderingGlobals.backgroundColorR\\n')"
+ ],
+ "meshes": [
+  "FBXASC227FBXASC129FBXASC171FBXASC227FBXASC130FBXASC132FBXASC227FBXASC130FBXASC138FBXASC239FBXASC188FBXASC146Shape",
+  "MakotoFBXASC032Yuki_meshShape",
+  "angerShape",
+  "blinkShape",
+  "eye_downShape",
+  "eye_upShape",
+  "gentleShape",
+  "half_eyeShape",
+  "keenShape",
+  "laughShape",
+  "mmd_sdef_cShape",
+  "mmd_sdef_r0Shape",
+  "mmd_sdef_r1Shape",
+  "mouth_AShape",
+  "mouth_EShape",
+  "mouth_IShape",
+  "mouth_NShape",
+  "mouth_OShape",
+  "mouth_UShape",
+  "mouth_corner_downShape",
+  "mouth_corner_upShape",
+  "mouth_wideShape",
+  "pupil_smallShape",
+  "seriousShape",
+  "smile2Shape",
+  "smileShape",
+  "surpriseShape",
+  "troubleShape",
+  "wink2_LShape",
+  "wink2_RShape",
+  "wink_LShape",
+  "wink_RShape"
+ ],
+ "joint_count": 183,
+ "poly_counts": {
+  "FBXASC227FBXASC129FBXASC171FBXASC227FBXASC130FBXASC132FBXASC227FBXASC130FBXASC138FBXASC239FBXASC188FBXASC146Shape": 9676,
+  "MakotoFBXASC032Yuki_meshShape": 9676,
+  "angerShape": 9676,
+  "blinkShape": 9676,
+  "eye_downShape": 9676,
+  "eye_upShape": 9676,
+  "gentleShape": 9676,
+  "half_eyeShape": 9676,
+  "keenShape": 9676,
+  "laughShape": 9676,
+  "mmd_sdef_cShape": 9676,
+  "mmd_sdef_r0Shape": 9676,
+  "mmd_sdef_r1Shape": 9676,
+  "mouth_AShape": 9676,
+  "mouth_EShape": 9676,
+  "mouth_IShape": 9676,
+  "mouth_NShape": 9676,
+  "mouth_OShape": 9676,
+  "mouth_UShape": 9676,
+  "mouth_corner_downShape": 9676,
+  "mouth_corner_upShape": 9676,
+  "mouth_wideShape": 9676,
+  "pupil_smallShape": 9676,
+  "seriousShape": 9676,
+  "smile2Shape": 9676,
+  "smileShape": 9676,
+  "surpriseShape": 9676,
+  "troubleShape": 9676,
+  "wink2_LShape": 9676,
+  "wink2_RShape": 9676,
+  "wink_LShape": 9676,
+  "wink_RShape": 9676
+ },
+ "world_bbox": [
+  -64.53,
+  -0.194,
+  -14.435,
+  64.53,
+  175.54,
+  19.271
+ ],
+ "mesh_info": [
+  {
+   "transform": "FBXASC227FBXASC129FBXASC171FBXASC227FBXASC130FBXASC132FBXASC227FBXASC130FBXASC138FBXASC239FBXASC188FBXASC146",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "MakotoFBXASC032Yuki_mesh",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    100.0,
+    100.0,
+    100.0
+   ],
+   "rotate": [
+    -90.0,
+    -0.0,
+    0.0
+   ],
+   "visibility": true,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "MakotoFBXASC032Yuki_meshSG",
+     "MakotoFBXASC032Yuki_meshSG",
+     "MakotoFBXASC032Yuki_meshSG1",
+     "MakotoFBXASC032Yuki_meshSG1",
+     "MakotoFBXASC032Yuki_meshSG2",
+     "MakotoFBXASC032Yuki_meshSG2",
+     "MakotoFBXASC032Yuki_meshSG3",
+     "MakotoFBXASC032Yuki_meshSG3",
+     "MakotoFBXASC032Yuki_meshSG4",
+     "MakotoFBXASC032Yuki_meshSG4",
+     "MakotoFBXASC032Yuki_meshSG5",
+     "MakotoFBXASC032Yuki_meshSG5",
+     "MakotoFBXASC032Yuki_meshSG6",
+     "MakotoFBXASC032Yuki_meshSG6",
+     "MakotoFBXASC032Yuki_meshSG7",
+     "MakotoFBXASC032Yuki_meshSG7",
+     "MakotoFBXASC032Yuki_meshSG8",
+     "MakotoFBXASC032Yuki_meshSG8",
+     "MakotoFBXASC032Yuki_meshSG9",
+     "MakotoFBXASC032Yuki_meshSG9",
+     "MakotoFBXASC032Yuki_meshSG10",
+     "MakotoFBXASC032Yuki_meshSG10",
+     "MakotoFBXASC032Yuki_meshSG11",
+     "MakotoFBXASC032Yuki_meshSG11",
+     "MakotoFBXASC032Yuki_meshSG12",
+     "MakotoFBXASC032Yuki_meshSG12",
+     "MakotoFBXASC032Yuki_meshSG13",
+     "MakotoFBXASC032Yuki_meshSG13",
+     "MakotoFBXASC032Yuki_meshSG14",
+     "MakotoFBXASC032Yuki_meshSG14",
+     "MakotoFBXASC032Yuki_meshSG15",
+     "MakotoFBXASC032Yuki_meshSG15",
+     "MakotoFBXASC032Yuki_meshSG16",
+     "MakotoFBXASC032Yuki_meshSG16",
+     "MakotoFBXASC032Yuki_meshSG17",
+     "MakotoFBXASC032Yuki_meshSG17",
+     "MakotoFBXASC032Yuki_meshSG18",
+     "MakotoFBXASC032Yuki_meshSG18",
+     "MakotoFBXASC032Yuki_meshSG19",
+     "MakotoFBXASC032Yuki_meshSG19",
+     "MakotoFBXASC032Yuki_meshSG20",
+     "MakotoFBXASC032Yuki_meshSG20",
+     "MakotoFBXASC032Yuki_meshSG21",
+     "MakotoFBXASC032Yuki_meshSG21",
+     "MakotoFBXASC032Yuki_meshSG22",
+     "MakotoFBXASC032Yuki_meshSG22",
+     "MakotoFBXASC032Yuki_meshSG23",
+     "MakotoFBXASC032Yuki_meshSG23",
+     "MakotoFBXASC032Yuki_meshSG24",
+     "MakotoFBXASC032Yuki_meshSG24",
+     "MakotoFBXASC032Yuki_meshSG25",
+     "MakotoFBXASC032Yuki_meshSG25",
+     "MakotoFBXASC032Yuki_meshSG26",
+     "MakotoFBXASC032Yuki_meshSG26",
+     "MakotoFBXASC032Yuki_meshSG27",
+     "MakotoFBXASC032Yuki_meshSG27"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "anger",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "blink",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "eye_down",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "eye_up",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "gentle",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "half_eye",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "keen",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "laugh",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mmd_sdef_c",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mmd_sdef_r0",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mmd_sdef_r1",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_A",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_E",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_I",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_N",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_O",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_U",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_corner_down",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_corner_up",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "mouth_wide",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "pupil_small",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "serious",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "smile2",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "smile",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "surprise",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "trouble",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "wink2_L",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "wink2_R",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "wink_L",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  },
+  {
+   "transform": "wink_R",
+   "translate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "rotate": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "visibility": false,
+   "lodVisibility": true,
+   "overrideEnabled": false,
+   "overrideDisplayType": 0,
+   "shadingGroups": [
+    [
+     "initialShadingGroup"
+    ]
+   ],
+   "displayLayer": null,
+   "intermediate": false
+  }
+ ],
+ "center": [
+  -0.0,
+  87.67,
+  2.42
+ ],
+ "height": 33.71,
+ "trace": "Traceback (most recent call last):\n  File \"C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scripts/t2_import_test.py\", line 71, in <module>\n    cmds.setAttr(\"hardwareRenderingGlobals.backgroundColorR\", 0.55)\nRuntimeError: setAttr: 没有与名称匹配的对象: hardwareRenderingGlobals.backgroundColorR\n\n"
+}

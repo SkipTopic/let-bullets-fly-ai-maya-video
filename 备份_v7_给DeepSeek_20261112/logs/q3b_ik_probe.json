@@ -1,0 +1,928 @@
+{
+ "errors": [],
+ "rp": {
+  "handle": [
+   6.7814,
+   10.1,
+   -67.2828
+  ],
+  "end": [
+   6.781401007114079,
+   -4.637433763505381,
+   -55.2868743955717
+  ],
+  "start": [
+   6.781396999999999,
+   53.99999400000002,
+   -103.01636599999999
+  ],
+  "handle_attrs": {
+   "ikBlend": 1.0,
+   "priority": 1,
+   "weight": 1.0,
+   "poWeight": 1.0
+  },
+  "effectors": [
+   {
+    "name": "effector1",
+    "world": [
+     6.781401007114079,
+     -4.637433763505381,
+     -55.2868743955717
+    ]
+   }
+  ],
+  "handle_connections": [
+   "Bip001LThigh",
+   "effector1",
+   "ikRPsolver",
+   "ikHandle1_poleVectorConstraint1",
+   "ikHandle1_poleVectorConstraint1",
+   "ikHandle1_poleVectorConstraint1",
+   "ikHandle1_poleVectorConstraint1"
+  ],
+  "before": {
+   "Bip001LThigh": {
+    "world": [
+     6.781396999999999,
+     53.99999400000002,
+     -103.01636599999999
+    ],
+    "rotate": [
+     [
+      -0.0001882692435533718,
+      -72.52865305810775,
+      140.85549540357889
+     ]
+    ],
+    "translate": [
+     [
+      -1.3493947759846137e-05,
+      -6.067833311362847e-06,
+      6.781396999981048
+     ]
+    ],
+    "scale": [
+     [
+      1.0000004408552545,
+      0.9999998559653441,
+      1.0000000614271265
+     ]
+    ],
+    "jointOrient": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "preferredAngle": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "stiffness": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "minRotLimit": [
+     [
+      -45.0,
+      -45.0,
+      -45.0
+     ]
+    ],
+    "maxRotLimit": [
+     [
+      45.0,
+      45.0,
+      45.0
+     ]
+    ],
+    "minRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "maxRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "segmentScaleCompensate": false,
+    "locked": {
+     "rotateX": false,
+     "rotateY": false,
+     "rotateZ": false
+    },
+    "connections": []
+   },
+   "Bip001LFoot": {
+    "world": [
+     6.7813969999999815,
+     -4.637455355212403,
+     -55.28690092178901
+    ],
+    "rotate": [
+     [
+      117.36075417292318,
+      -47.31255918235464,
+      -111.41050211934478
+     ]
+    ],
+    "translate": [
+     [
+      7.227764244888135e-07,
+      38.38480415171394,
+      9.846668260315994e-06
+     ]
+    ],
+    "scale": [
+     [
+      1.0000000114739633,
+      0.9999999480089471,
+      0.9999999076187714
+     ]
+    ],
+    "jointOrient": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "preferredAngle": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "stiffness": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "minRotLimit": [
+     [
+      -45.0,
+      -45.0,
+      -45.0
+     ]
+    ],
+    "maxRotLimit": [
+     [
+      45.0,
+      45.0,
+      45.0
+     ]
+    ],
+    "minRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "maxRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "segmentScaleCompensate": false,
+    "locked": {
+     "rotateX": false,
+     "rotateY": false,
+     "rotateZ": false
+    },
+    "connections": []
+   }
+  },
+  "after_start": {
+   "world": [
+    6.781396999999999,
+    53.99999400000002,
+    -103.01636599999999
+   ],
+   "rotate": [
+    [
+     -179.99995084079333,
+     34.13152345960218,
+     -39.14467934396771
+    ]
+   ],
+   "translate": [
+    [
+     -1.3493947759846137e-05,
+     -6.067833311362847e-06,
+     6.781396999981048
+    ]
+   ],
+   "scale": [
+    [
+     1.0000004408552545,
+     0.9999998559653441,
+     1.0000000614271265
+    ]
+   ],
+   "jointOrient": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "preferredAngle": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "stiffness": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "minRotLimit": [
+    [
+     -45.0,
+     -45.0,
+     -45.0
+    ]
+   ],
+   "maxRotLimit": [
+    [
+     45.0,
+     45.0,
+     45.0
+    ]
+   ],
+   "minRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "maxRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "segmentScaleCompensate": false,
+   "locked": {
+    "rotateX": false,
+    "rotateY": false,
+    "rotateZ": false
+   },
+   "connections": []
+  },
+  "after_end": {
+   "world": [
+    6.781401007114079,
+    -4.637433763505381,
+    -55.2868743955717
+   ],
+   "rotate": [
+    [
+     117.36075417292318,
+     -47.31255918235464,
+     -111.41050211934478
+    ]
+   ],
+   "translate": [
+    [
+     7.227764244888135e-07,
+     38.38480415171394,
+     9.846668260315994e-06
+    ]
+   ],
+   "scale": [
+    [
+     1.0000000114739633,
+     0.9999999480089471,
+     0.9999999076187714
+    ]
+   ],
+   "jointOrient": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "preferredAngle": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "stiffness": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "minRotLimit": [
+    [
+     -45.0,
+     -45.0,
+     -45.0
+    ]
+   ],
+   "maxRotLimit": [
+    [
+     45.0,
+     45.0,
+     45.0
+    ]
+   ],
+   "minRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "maxRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "segmentScaleCompensate": false,
+   "locked": {
+    "rotateX": false,
+    "rotateY": false,
+    "rotateZ": false
+   },
+   "connections": []
+  },
+  "middle": {
+   "world": [
+    6.781398972755062,
+    25.132019591180736,
+    -79.51850591084245
+   ],
+   "rotate": [
+    [
+     0.0,
+     90.0,
+     0.0
+    ]
+   ],
+   "translate": [
+    [
+     2.4021659594808398e-06,
+     37.22244001434868,
+     4.1432871871194266e-06
+    ]
+   ],
+   "scale": [
+    [
+     0.9999999652871538,
+     0.9999999446015091,
+     1.0000000219224239
+    ]
+   ],
+   "jointOrient": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "preferredAngle": [
+    [
+     0.0,
+     90.0,
+     0.0
+    ]
+   ],
+   "stiffness": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "minRotLimit": [
+    [
+     -45.0,
+     -45.0,
+     -45.0
+    ]
+   ],
+   "maxRotLimit": [
+    [
+     45.0,
+     45.0,
+     45.0
+    ]
+   ],
+   "minRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "maxRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "segmentScaleCompensate": false,
+   "locked": {
+    "rotateX": false,
+    "rotateY": false,
+    "rotateZ": false
+   },
+   "connections": []
+  }
+ },
+ "sc": {
+  "handle": [
+   -6.781401007113334,
+   -4.637426991640712,
+   -55.286883186777146
+  ],
+  "end": [
+   -6.781401007113334,
+   -4.637426991640712,
+   -55.286883186777146
+  ],
+  "start": [
+   -6.781396999999998,
+   54.000006000000006,
+   -103.01636599999999
+  ],
+  "handle_attrs": {
+   "ikBlend": 1.0,
+   "priority": 1,
+   "weight": 1.0,
+   "poWeight": 1.0
+  },
+  "effectors": [
+   {
+    "name": "effector1",
+    "world": [
+     -6.781401007113334,
+     -4.637426991640712,
+     -55.286883186777146
+    ]
+   }
+  ],
+  "handle_connections": [
+   "Bip001RThigh",
+   "effector1",
+   "ikSCsolver"
+  ],
+  "before": {
+   "Bip001RThigh": {
+    "world": [
+     -6.781396999999998,
+     54.000006000000006,
+     -103.01636599999999
+    ],
+    "rotate": [
+     [
+      -0.0014670033186715275,
+      88.12479149668896,
+      140.85386805604642
+     ]
+    ],
+    "translate": [
+     [
+      5.4939472797777e-06,
+      6.067822269528733e-06,
+      -6.781396999992247
+     ]
+    ],
+    "scale": [
+     [
+      1.0000005004078998,
+      0.999999904618728,
+      1.0000000487455254
+     ]
+    ],
+    "jointOrient": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "preferredAngle": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "stiffness": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "minRotLimit": [
+     [
+      -45.0,
+      -45.0,
+      -45.0
+     ]
+    ],
+    "maxRotLimit": [
+     [
+      45.0,
+      45.0,
+      45.0
+     ]
+    ],
+    "minRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "maxRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "segmentScaleCompensate": false,
+    "locked": {
+     "rotateX": false,
+     "rotateY": false,
+     "rotateZ": false
+    },
+    "connections": []
+   },
+   "Bip001RFoot": {
+    "world": [
+     -6.781396999999998,
+     -4.6374476142405925,
+     -55.28690852241701
+    ],
+    "rotate": [
+     [
+      -94.05056339993804,
+      50.76341861662273,
+      -93.69518091627009
+     ]
+    ],
+    "translate": [
+     [
+      1.709502919666761e-06,
+      38.38479778864841,
+      -1.0796226217912874e-05
+     ]
+    ],
+    "scale": [
+     [
+      1.0000000683397845,
+      0.9999999218688951,
+      0.9999999481165676
+     ]
+    ],
+    "jointOrient": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "preferredAngle": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "stiffness": [
+     [
+      0.0,
+      0.0,
+      0.0
+     ]
+    ],
+    "minRotLimit": [
+     [
+      -45.0,
+      -45.0,
+      -45.0
+     ]
+    ],
+    "maxRotLimit": [
+     [
+      45.0,
+      45.0,
+      45.0
+     ]
+    ],
+    "minRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "maxRotLimitEnable": [
+     [
+      false,
+      false,
+      false
+     ]
+    ],
+    "segmentScaleCompensate": false,
+    "locked": {
+     "rotateX": false,
+     "rotateY": false,
+     "rotateZ": false
+    },
+    "connections": []
+   }
+  },
+  "after_start": {
+   "world": [
+    -6.781396999999998,
+    54.000006000000006,
+    -103.01636599999999
+   ],
+   "rotate": [
+    [
+     -0.0015598014982891066,
+     88.12478997742356,
+     140.85375055162578
+    ]
+   ],
+   "translate": [
+    [
+     5.4939472797777e-06,
+     6.067822269528733e-06,
+     -6.781396999992247
+    ]
+   ],
+   "scale": [
+    [
+     1.0000005004078998,
+     0.999999904618728,
+     1.0000000487455254
+    ]
+   ],
+   "jointOrient": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "preferredAngle": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "stiffness": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "minRotLimit": [
+    [
+     -45.0,
+     -45.0,
+     -45.0
+    ]
+   ],
+   "maxRotLimit": [
+    [
+     45.0,
+     45.0,
+     45.0
+    ]
+   ],
+   "minRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "maxRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "segmentScaleCompensate": false,
+   "locked": {
+    "rotateX": false,
+    "rotateY": false,
+    "rotateZ": false
+   },
+   "connections": []
+  },
+  "after_end": {
+   "world": [
+    -6.781401007113334,
+    -4.637426991640712,
+    -55.286883186777146
+   ],
+   "rotate": [
+    [
+     -94.05056339993804,
+     50.76341861662273,
+     -93.69518091627009
+    ]
+   ],
+   "translate": [
+    [
+     1.709502919666761e-06,
+     38.38479778864841,
+     -1.0796226217912874e-05
+    ]
+   ],
+   "scale": [
+    [
+     1.0000000683397845,
+     0.9999999218688951,
+     0.9999999481165676
+    ]
+   ],
+   "jointOrient": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "preferredAngle": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "stiffness": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "minRotLimit": [
+    [
+     -45.0,
+     -45.0,
+     -45.0
+    ]
+   ],
+   "maxRotLimit": [
+    [
+     45.0,
+     45.0,
+     45.0
+    ]
+   ],
+   "minRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "maxRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "segmentScaleCompensate": false,
+   "locked": {
+    "rotateX": false,
+    "rotateY": false,
+    "rotateZ": false
+   },
+   "connections": []
+  },
+  "middle": {
+   "world": [
+    -6.781398972754405,
+    25.132032336363267,
+    -79.5185025500744
+   ],
+   "rotate": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "translate": [
+    [
+     2.459667794774134e-06,
+     37.222439747013205,
+     1.4023655312556116e-05
+    ]
+   ],
+   "scale": [
+    [
+     0.9999999692693355,
+     0.9999999825545591,
+     0.9999999951962961
+    ]
+   ],
+   "jointOrient": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "preferredAngle": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "stiffness": [
+    [
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   "minRotLimit": [
+    [
+     -45.0,
+     -45.0,
+     -45.0
+    ]
+   ],
+   "maxRotLimit": [
+    [
+     45.0,
+     45.0,
+     45.0
+    ]
+   ],
+   "minRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "maxRotLimitEnable": [
+    [
+     false,
+     false,
+     false
+    ]
+   ],
+   "segmentScaleCompensate": false,
+   "locked": {
+    "rotateX": false,
+    "rotateY": false,
+    "rotateZ": false
+   },
+   "connections": []
+  }
+ },
+ "ok": true
+}

@@ -1,0 +1,63 @@
+{
+ "attempts": {
+  "panel_cam": {
+   "ok": true,
+   "active": "|front"
+  },
+  "cam_panel": {
+   "ok": true,
+   "active": "|front"
+  },
+  "keyword": {
+   "ok": false,
+   "error": "Traceback (most recent call last):\n  File \"C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\cmd\\run_cmd_q4bview2.py\", line 25, in <module>\n    eval(code)\n  File \"<string>\", line 1, in <module>\nTypeError: 标志“camera”无效\n"
+  },
+  "mel": {
+   "ok": true,
+   "active": "|front"
+  }
+ },
+ "panel": "modelPanel4",
+ "panels": {
+  "modelPanel1": {
+   "visible": false,
+   "camera": "|top"
+  },
+  "modelPanel2": {
+   "visible": false,
+   "camera": "|side"
+  },
+  "modelPanel3": {
+   "visible": false,
+   "camera": "|front"
+  },
+  "modelPanel4": {
+   "visible": true,
+   "camera": "|persp"
+  }
+ },
+ "doc": null,
+ "camera_shapes": [
+  "|POSE_REVIEW_CAMERAS|REVIEW_Huang_front1|REVIEW_Huang_frontShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Huang_left1|REVIEW_Huang_leftShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Huang_right1|REVIEW_Huang_rightShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Huang_top1|REVIEW_Huang_topShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Ma_front1|REVIEW_Ma_frontShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Ma_left1|REVIEW_Ma_leftShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Ma_right1|REVIEW_Ma_rightShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Ma_top1|REVIEW_Ma_topShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Scene_front1|REVIEW_Scene_frontShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Scene_left1|REVIEW_Scene_leftShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Scene_right1|REVIEW_Scene_rightShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Scene_top1|REVIEW_Scene_topShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Shiye_front1|REVIEW_Shiye_frontShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Shiye_left1|REVIEW_Shiye_leftShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Shiye_right1|REVIEW_Shiye_rightShape1",
+  "|POSE_REVIEW_CAMERAS|REVIEW_Shiye_top1|REVIEW_Shiye_topShape1",
+  "|front|frontShape",
+  "|persp|perspShape",
+  "|side|sideShape",
+  "|top|topShape"
+ ],
+ "ok": true
+}

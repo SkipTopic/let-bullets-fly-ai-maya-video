@@ -1,0 +1,21 @@
+{
+ "errors": [],
+ "imported_meshes": 148,
+ "base": "NH_MaleM_140_LOD0Shape",
+ "base_verts": 28575,
+ "base_transform": "NH_MaleM_140_LOD0",
+ "to_delete": 147,
+ "remaining_meshes": 1,
+ "bbox": [
+  -43.2,
+  -0.0,
+  -16.3,
+  43.2,
+  160.8,
+  12.8
+ ],
+ "height": 160.8,
+ "sg": 12,
+ "joints": 242,
+ "ok": true
+}

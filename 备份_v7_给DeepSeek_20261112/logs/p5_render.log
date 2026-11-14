@@ -1,0 +1,88 @@
+render chunks=12
+执行 MEL 脚本过程中出错
+line 1: RuntimeError: file <string> line 8: setAttr: 没有与名称匹配的对象: CAM_WIDE.translate
+render chunk 0 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 1 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 2 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 3 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 4 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 5 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 6 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 7 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 8 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 9 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 10 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render chunk 11 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 8, in <module>
+NameError: name 'SHOTS' is not defined
+
+RC_FAIL
+render ok=0 fail=12 [0, 1, 2, 3, 4]

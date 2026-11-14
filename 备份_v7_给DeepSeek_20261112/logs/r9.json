@@ -1,0 +1,41 @@
+{
+ "errors": [],
+ "refs": [],
+ "top": [
+  "Ma_mmd_sdef_c",
+  "Ma_mmd_sdef_r0",
+  "Ma_mmd_sdef_r1",
+  "Huang_mmd_sdef_c",
+  "Huang_mmd_sdef_r0",
+  "Huang_mmd_sdef_r1",
+  "Shiye_mmd_sdef_c",
+  "Shiye_mmd_sdef_r0",
+  "Shiye_mmd_sdef_r1",
+  "SCENE"
+ ],
+ "chars": [
+  "CHR_Ma",
+  "CHR_Huang",
+  "CHR_Shiye"
+ ],
+ "cams": 71,
+ "char_child": {
+  "CHR_Ma": [
+   "Ma_MakotoFBXASC032Yuki_arm",
+   "Ma_MakotoFBXASC032Yuki_mesh"
+  ],
+  "CHR_Huang": [
+   "Huang_AragakiFBXASC032Shinjiro_arm",
+   "Huang_AragakiFBXASC032Shinjiro_mesh"
+  ],
+  "CHR_Shiye": [
+   "Shiye_JunpeiFBXASC032Iori_arm",
+   "Shiye_JunpeiFBXASC032Iori_mesh"
+  ]
+ },
+ "move": {
+  "mesh_dx": 50.0,
+  "head_dx": 50.0
+ },
+ "ok": true
+}

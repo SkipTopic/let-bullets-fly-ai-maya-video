@@ -1,0 +1,2862 @@
+{
+ "errors": [],
+ "scenes": {
+  "hand_v2": {
+   "file": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/手工摆位_v2.mb",
+   "roots": [
+    "persp",
+    "top",
+    "front",
+    "side",
+    "SCENE"
+   ],
+   "chars_children": [
+    "CHR_Ma",
+    "CHR_Huang",
+    "CHR_Shiye",
+    "Ma_MakotoFBXASC032Yuki_mesh",
+    "Huang_AragakiFBXASC032Shinjiro_mesh",
+    "Shiye_JunpeiFBXASC032Iori_mesh"
+   ],
+   "meshes": [
+    {
+     "shape": "|SCENE|CHARS|Huang_AragakiFBXASC032Shinjiro_mesh|Huang_AragakiFBXASC032Shinjiro_meshShape",
+     "transform": "|SCENE|CHARS|Huang_AragakiFBXASC032Shinjiro_mesh",
+     "bbox": [
+      38.897,
+      -24.527,
+      15.445,
+      121.347,
+      126.329,
+      81.251
+     ],
+     "vertices": 10284,
+     "skins": [
+      "skinCluster2"
+     ]
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Huang_mmd_sdef_c|Huang_mmd_sdef_cShape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Huang_mmd_sdef_c",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 10284,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Huang_mmd_sdef_r0|Huang_mmd_sdef_r0Shape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Huang_mmd_sdef_r0",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 10284,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Huang_mmd_sdef_r1|Huang_mmd_sdef_r1Shape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Huang_mmd_sdef_r1",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 10284,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|CHARS|Ma_MakotoFBXASC032Yuki_mesh|Ma_MakotoFBXASC032Yuki_meshShape",
+     "transform": "|SCENE|CHARS|Ma_MakotoFBXASC032Yuki_mesh",
+     "bbox": [
+      -18.575,
+      -17.83,
+      -122.6,
+      18.776,
+      115.256,
+      -55.349
+     ],
+     "vertices": 7516,
+     "skins": [
+      "skinCluster1"
+     ]
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Ma_mmd_sdef_c|Ma_mmd_sdef_cShape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Ma_mmd_sdef_c",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 7516,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Ma_mmd_sdef_r0|Ma_mmd_sdef_r0Shape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Ma_mmd_sdef_r0",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 7516,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Ma_mmd_sdef_r1|Ma_mmd_sdef_r1Shape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Ma_mmd_sdef_r1",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 7516,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_back_0|SET_back_0Shape",
+     "transform": "|SCENE|GRP_SET|SET_back_0",
+     "bbox": [
+      -23.0,
+      45.0,
+      -124.5,
+      23.0,
+      99.0,
+      -119.5
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_back_1|SET_back_1Shape",
+     "transform": "|SCENE|GRP_SET|SET_back_1",
+     "bbox": [
+      91.99,
+      45.0,
+      39.831,
+      119.32,
+      99.0,
+      82.169
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_back_2|SET_back_2Shape",
+     "transform": "|SCENE|GRP_SET|SET_back_2",
+     "bbox": [
+      -119.32,
+      45.0,
+      39.831,
+      -91.99,
+      99.0,
+      82.169
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_bottle|SET_bottleShape",
+     "transform": "|SCENE|GRP_SET|SET_bottle",
+     "bbox": [
+      23.6,
+      75.0,
+      -8.364,
+      28.4,
+      87.0,
+      -3.636
+     ],
+     "vertices": 36,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_bowl_0|SET_bowl_0Shape",
+     "transform": "|SCENE|GRP_SET|SET_bowl_0",
+     "bbox": [
+      -41.0,
+      75.0,
+      1.0,
+      -27.0,
+      78.2,
+      15.0
+     ],
+     "vertices": 48,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_col_0|SET_col_0Shape",
+     "transform": "|SCENE|GRP_SET|SET_col_0",
+     "bbox": [
+      -231.0,
+      0.0,
+      -291.0,
+      -209.0,
+      300.0,
+      -269.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_col_1|SET_col_1Shape",
+     "transform": "|SCENE|GRP_SET|SET_col_1",
+     "bbox": [
+      -143.0,
+      0.0,
+      -291.0,
+      -121.0,
+      300.0,
+      -269.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_col_2|SET_col_2Shape",
+     "transform": "|SCENE|GRP_SET|SET_col_2",
+     "bbox": [
+      -55.0,
+      0.0,
+      -291.0,
+      -33.0,
+      300.0,
+      -269.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_col_3|SET_col_3Shape",
+     "transform": "|SCENE|GRP_SET|SET_col_3",
+     "bbox": [
+      33.0,
+      0.0,
+      -291.0,
+      55.0,
+      300.0,
+      -269.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_col_4|SET_col_4Shape",
+     "transform": "|SCENE|GRP_SET|SET_col_4",
+     "bbox": [
+      121.0,
+      0.0,
+      -291.0,
+      143.0,
+      300.0,
+      -269.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_col_5|SET_col_5Shape",
+     "transform": "|SCENE|GRP_SET|SET_col_5",
+     "bbox": [
+      209.0,
+      0.0,
+      -291.0,
+      231.0,
+      300.0,
+      -269.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_contact_shadow|SET_contact_shadowShape",
+     "transform": "|SCENE|GRP_SET|SET_contact_shadow",
+     "bbox": [
+      -150.0,
+      0.2,
+      -150.0,
+      150.0,
+      0.6,
+      150.0
+     ],
+     "vertices": 96,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_cup_0|SET_cup_0Shape",
+     "transform": "|SCENE|GRP_SET|SET_cup_0",
+     "bbox": [
+      -14.6,
+      75.9,
+      19.465,
+      -9.4,
+      82.9,
+      24.535
+     ],
+     "vertices": 28,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_floor|SET_floorShape",
+     "transform": "|SCENE|GRP_SET|SET_floor",
+     "bbox": [
+      -700.0,
+      0.0,
+      -700.0,
+      700.0,
+      0.0,
+      700.0
+     ],
+     "vertices": 4,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_house_body|SET_house_bodyShape",
+     "transform": "|SCENE|GRP_SET|SET_house_body",
+     "bbox": [
+      -280.0,
+      0.0,
+      -560.0,
+      280.0,
+      300.0,
+      -300.0
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_house_eave|SET_house_eaveShape",
+     "transform": "|SCENE|GRP_SET|SET_house_eave",
+     "bbox": [
+      -320.0,
+      293.0,
+      -595.0,
+      320.0,
+      319.0,
+      -265.0
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_leg_0|SET_leg_0Shape",
+     "transform": "|SCENE|GRP_SET|SET_leg_0",
+     "bbox": [
+      -5.0,
+      -0.5,
+      59.0,
+      5.0,
+      72.5,
+      69.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_leg_1|SET_leg_1Shape",
+     "transform": "|SCENE|GRP_SET|SET_leg_1",
+     "bbox": [
+      -60.426,
+      -0.5,
+      -37.0,
+      -50.426,
+      72.5,
+      -27.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_leg_2|SET_leg_2Shape",
+     "transform": "|SCENE|GRP_SET|SET_leg_2",
+     "bbox": [
+      50.426,
+      -0.5,
+      -37.0,
+      60.426,
+      72.5,
+      -27.0
+     ],
+     "vertices": 24,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_lowwall_L|SET_lowwall_LShape",
+     "transform": "|SCENE|GRP_SET|SET_lowwall_L",
+     "bbox": [
+      -429.0,
+      -0.5,
+      -380.0,
+      -411.0,
+      94.5,
+      140.0
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_lowwall_R|SET_lowwall_RShape",
+     "transform": "|SCENE|GRP_SET|SET_lowwall_R",
+     "bbox": [
+      411.0,
+      -0.5,
+      -380.0,
+      429.0,
+      94.5,
+      140.0
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_roof|SET_roofShape",
+     "transform": "|SCENE|GRP_SET|SET_roof",
+     "bbox": [
+      -300.0,
+      317.0,
+      -580.0,
+      300.0,
+      407.0,
+      -280.0
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_seat_0|SET_seat_0Shape",
+     "transform": "|SCENE|GRP_SET|SET_seat_0",
+     "bbox": [
+      -23.0,
+      41.5,
+      -124.0,
+      23.0,
+      46.5,
+      -80.0
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_seat_1|SET_seat_1Shape",
+     "transform": "|SCENE|GRP_SET|SET_seat_1",
+     "bbox": [
+      57.782,
+      41.5,
+      20.081,
+      118.887,
+      46.5,
+      81.919
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_seat_2|SET_seat_2Shape",
+     "transform": "|SCENE|GRP_SET|SET_seat_2",
+     "bbox": [
+      -118.887,
+      41.5,
+      20.081,
+      -57.782,
+      46.5,
+      81.919
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_sky1|SET_sky1Shape",
+     "transform": "|SCENE|GRP_SET|SET_sky1",
+     "bbox": [
+      -900.0,
+      -900.0,
+      -900.0,
+      900.0,
+      900.0,
+      900.0
+     ],
+     "vertices": 266,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_step|SET_stepShape",
+     "transform": "|SCENE|GRP_SET|SET_step",
+     "bbox": [
+      -280.0,
+      0.0,
+      -295.0,
+      280.0,
+      16.0,
+      -175.0
+     ],
+     "vertices": 8,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_table_top|SET_table_topShape",
+     "transform": "|SCENE|GRP_SET|SET_table_top",
+     "bbox": [
+      -88.0,
+      71.25,
+      -88.0,
+      88.0,
+      75.75,
+      88.0
+     ],
+     "vertices": 96,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_tree_0|SET_tree_0Shape",
+     "transform": "|SCENE|GRP_SET|SET_tree_0",
+     "bbox": [
+      -370.0,
+      -21.0,
+      -368.245,
+      -230.0,
+      140.0,
+      -231.755
+     ],
+     "vertices": 128,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|GRP_SET|SET_tree_1|SET_tree_1Shape",
+     "transform": "|SCENE|GRP_SET|SET_tree_1",
+     "bbox": [
+      200.0,
+      -24.0,
+      -397.994,
+      360.0,
+      160.0,
+      -242.006
+     ],
+     "vertices": 128,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|CHARS|Shiye_JunpeiFBXASC032Iori_mesh|Shiye_JunpeiFBXASC032Iori_meshShape",
+     "transform": "|SCENE|CHARS|Shiye_JunpeiFBXASC032Iori_mesh",
+     "bbox": [
+      -115.541,
+      -18.699,
+      17.408,
+      -40.472,
+      128.362,
+      72.242
+     ],
+     "vertices": 7227,
+     "skins": [
+      "skinCluster3"
+     ]
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Shiye_mmd_sdef_c|Shiye_mmd_sdef_cShape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Shiye_mmd_sdef_c",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 7227,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Shiye_mmd_sdef_r0|Shiye_mmd_sdef_r0Shape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Shiye_mmd_sdef_r0",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 7227,
+     "skins": []
+    },
+    {
+     "shape": "|SCENE|HIDDEN_HELPERS|Shiye_mmd_sdef_r1|Shiye_mmd_sdef_r1Shape",
+     "transform": "|SCENE|HIDDEN_HELPERS|Shiye_mmd_sdef_r1",
+     "bbox": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+     ],
+     "vertices": 7227,
+     "skins": []
+    }
+   ],
+   "delta_mush": [],
+   "cameras": [
+    "|SCENE|OBSERVATION_CAMERAS|OV_front1|OV_frontShape1",
+    "|SCENE|OBSERVATION_CAMERAS|OV_left1|OV_leftShape1",
+    "|SCENE|OBSERVATION_CAMERAS|OV_right1|OV_rightShape1",
+    "|SCENE|OBSERVATION_CAMERAS|OV_top1|OV_topShape1",
+    "|SCENE|CAMERAS|S001_CAM1|S001_CAMShape1",
+    "|SCENE|CAMERAS|S002_CAM1|S002_CAMShape1",
+    "|SCENE|CAMERAS|S003_CAM1|S003_CAMShape1",
+    "|SCENE|CAMERAS|S004_CAM1|S004_CAMShape1",
+    "|SCENE|CAMERAS|S005_CAM1|S005_CAMShape1",
+    "|SCENE|CAMERAS|S006_CAM1|S006_CAMShape1",
+    "|SCENE|CAMERAS|S007_CAM1|S007_CAMShape1",
+    "|SCENE|CAMERAS|S008_CAM1|S008_CAMShape1",
+    "|SCENE|CAMERAS|S009_CAM1|S009_CAMShape1",
+    "|SCENE|CAMERAS|S010_CAM1|S010_CAMShape1",
+    "|SCENE|CAMERAS|S011_CAM1|S011_CAMShape1",
+    "|SCENE|CAMERAS|S012_CAM1|S012_CAMShape1",
+    "|SCENE|CAMERAS|S013_CAM1|S013_CAMShape1",
+    "|SCENE|CAMERAS|S014_CAM1|S014_CAMShape1",
+    "|SCENE|CAMERAS|S015_CAM1|S015_CAMShape1",
+    "|SCENE|CAMERAS|S016_CAM1|S016_CAMShape1",
+    "|SCENE|CAMERAS|S017_CAM1|S017_CAMShape1",
+    "|SCENE|CAMERAS|S018_CAM1|S018_CAMShape1",
+    "|SCENE|CAMERAS|S019_CAM1|S019_CAMShape1",
+    "|SCENE|CAMERAS|S020_CAM1|S020_CAMShape1",
+    "|SCENE|CAMERAS|S021_CAM1|S021_CAMShape1",
+    "|SCENE|CAMERAS|S022_CAM1|S022_CAMShape1",
+    "|SCENE|CAMERAS|S023_CAM1|S023_CAMShape1",
+    "|SCENE|CAMERAS|S024_CAM1|S024_CAMShape1",
+    "|SCENE|CAMERAS|S025_CAM1|S025_CAMShape1",
+    "|SCENE|CAMERAS|S026_CAM1|S026_CAMShape1",
+    "|SCENE|CAMERAS|S027_CAM1|S027_CAMShape1",
+    "|SCENE|CAMERAS|S028_CAM1|S028_CAMShape1",
+    "|SCENE|CAMERAS|S029_CAM1|S029_CAMShape1",
+    "|SCENE|CAMERAS|S030_CAM1|S030_CAMShape1",
+    "|SCENE|CAMERAS|S031_CAM1|S031_CAMShape1",
+    "|SCENE|CAMERAS|S032_CAM1|S032_CAMShape1",
+    "|SCENE|CAMERAS|S033_CAM1|S033_CAMShape1",
+    "|SCENE|CAMERAS|S034_CAM1|S034_CAMShape1",
+    "|SCENE|CAMERAS|S035_CAM1|S035_CAMShape1",
+    "|SCENE|CAMERAS|S036_CAM1|S036_CAMShape1",
+    "|SCENE|CAMERAS|S037_CAM1|S037_CAMShape1",
+    "|SCENE|CAMERAS|S038_CAM1|S038_CAMShape1",
+    "|SCENE|CAMERAS|S039_CAM1|S039_CAMShape1",
+    "|SCENE|CAMERAS|S040_CAM1|S040_CAMShape1",
+    "|SCENE|CAMERAS|S041_CAM1|S041_CAMShape1",
+    "|SCENE|CAMERAS|S042_CAM1|S042_CAMShape1",
+    "|SCENE|CAMERAS|S043_CAM1|S043_CAMShape1",
+    "|SCENE|CAMERAS|S044_CAM1|S044_CAMShape1",
+    "|SCENE|CAMERAS|S045_CAM1|S045_CAMShape1",
+    "|SCENE|CAMERAS|S046_CAM1|S046_CAMShape1",
+    "|SCENE|CAMERAS|S047_CAM1|S047_CAMShape1",
+    "|SCENE|CAMERAS|S048_CAM1|S048_CAMShape1",
+    "|SCENE|CAMERAS|S049_CAM1|S049_CAMShape1",
+    "|SCENE|CAMERAS|S050_CAM1|S050_CAMShape1",
+    "|SCENE|CAMERAS|S051_CAM1|S051_CAMShape1",
+    "|SCENE|CAMERAS|S052_CAM1|S052_CAMShape1",
+    "|SCENE|CAMERAS|S053_CAM1|S053_CAMShape1",
+    "|SCENE|CAMERAS|S054_CAM1|S054_CAMShape1",
+    "|SCENE|CAMERAS|S055_CAM1|S055_CAMShape1",
+    "|SCENE|CAMERAS|S056_CAM1|S056_CAMShape1",
+    "|SCENE|CAMERAS|S057_CAM1|S057_CAMShape1",
+    "|SCENE|CAMERAS|S058_CAM1|S058_CAMShape1",
+    "|SCENE|CAMERAS|S059_CAM1|S059_CAMShape1",
+    "|SCENE|CAMERAS|S060_CAM1|S060_CAMShape1",
+    "|SCENE|CAMERAS|S061_CAM1|S061_CAMShape1",
+    "|SCENE|CAMERAS|S062_CAM1|S062_CAMShape1",
+    "|SCENE|CAMERAS|S063_CAM1|S063_CAMShape1",
+    "|SCENE|CAMERAS|S064_CAM1|S064_CAMShape1",
+    "|SCENE|CAMERAS|S065_CAM1|S065_CAMShape1",
+    "|SCENE|CAMERAS|S066_CAM1|S066_CAMShape1",
+    "|SCENE|CAMERAS|S067_CAM1|S067_CAMShape1",
+    "|SCENE|CAMERAS|S068_CAM1|S068_CAMShape1",
+    "|SCENE|CAMERAS|S069_CAM1|S069_CAMShape1",
+    "|SCENE|CAMERAS|S070_CAM1|S070_CAMShape1",
+    "|SCENE|CAMERAS|S071_CAM1|S071_CAMShape1",
+    "|front|frontShape",
+    "|persp|perspShape",
+    "|side|sideShape",
+    "|top|topShape"
+   ],
+   "groups": {
+    "CHR_Ma": {
+     "translate": [
+      0.0,
+      0.0,
+      -102.0
+     ],
+     "rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "CHR_Huang": {
+     "translate": [
+      88.3346,
+      0.0,
+      51.0
+     ],
+     "rotate": [
+      0.0,
+      -120.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "CHR_Shiye": {
+     "translate": [
+      -88.3346,
+      0.0,
+      51.0
+     ],
+     "rotate": [
+      0.0,
+      120.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    }
+   },
+   "joints": {
+    "Ma_Root": {
+     "rotate": [
+      90.0,
+      -0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0,
+      -47.5996,
+      -102.0
+     ],
+     "world_rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_Spine": {
+     "rotate": [
+      1.5,
+      -0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0,
+      57.5548,
+      -102.0
+     ],
+     "world_rotate": [
+      42.1013,
+      0.0,
+      0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_Spine1": {
+     "rotate": [
+      1.0,
+      -0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0,
+      72.6915,
+      -88.3223
+     ],
+     "world_rotate": [
+      43.1013,
+      0.0,
+      -0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_Neck": {
+     "rotate": [
+      -9.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0,
+      85.987,
+      -75.3387
+     ],
+     "world_rotate": [
+      34.1013,
+      0.0,
+      0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_Head": {
+     "rotate": [
+      -7.0,
+      -0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0,
+      94.8547,
+      -69.3345
+     ],
+     "world_rotate": [
+      27.1013,
+      0.0,
+      0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1|Ma_Neck"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_LeftArm": {
+     "rotate": [
+      -88.0,
+      0.0,
+      6.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      12.0782,
+      83.9947,
+      -78.1555
+     ],
+     "world_rotate": [
+      -116.122,
+      -34.0571,
+      -63.5118
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1|Ma_LeftShoulder"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_LeftForeArm": {
+     "rotate": [
+      12.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      12.1877,
+      83.9752,
+      -78.1632
+     ],
+     "world_rotate": [
+      -104.122,
+      -34.0571,
+      -63.5118
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1|Ma_LeftShoulder|Ma_LeftArm|Ma_LeftArmTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_LeftHand": {
+     "rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      12.7818,
+      69.4482,
+      -97.7292
+     ],
+     "world_rotate": [
+      -104.1219,
+      -34.0571,
+      -63.5118
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1|Ma_LeftShoulder|Ma_LeftArm|Ma_LeftArmTwist|Ma_LeftForeArm|Ma_LeftHandTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_RightArm": {
+     "rotate": [
+      88.0,
+      0.0,
+      -6.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -12.0782,
+      83.9947,
+      -78.1554
+     ],
+     "world_rotate": [
+      -72.0283,
+      -38.9743,
+      -102.8457
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1|Ma_RightShoulder"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_RightForeArm": {
+     "rotate": [
+      -12.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -12.1045,
+      83.8809,
+      -78.0609
+     ],
+     "world_rotate": [
+      -84.0283,
+      -38.9743,
+      -102.8457
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1|Ma_RightShoulder|Ma_RightArm|Ma_RightArmTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_RightHand": {
+     "rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -12.4092,
+      78.8315,
+      -84.1754
+     ],
+     "world_rotate": [
+      -84.0283,
+      -38.9743,
+      -102.8457
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_Spine|Ma_Spine1|Ma_RightShoulder|Ma_RightArm|Ma_RightArmTwist|Ma_RightForeArm|Ma_RightHandTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_LeftUpLeg": {
+     "rotate": [
+      -92.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      6.9355,
+      45.898,
+      -102.0
+     ],
+     "world_rotate": [
+      -272.0,
+      0.0,
+      -0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_LowerBody|Ma_Left_Bone_2"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_LeftLeg": {
+     "rotate": [
+      92.0,
+      0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      6.9355,
+      47.2841,
+      -62.307
+     ],
+     "world_rotate": [
+      180.0,
+      0.0,
+      0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_LowerBody|Ma_Left_Bone_2|Ma_LeftUpLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_LeftFoot": {
+     "rotate": [
+      -6.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      6.9355,
+      2.8207,
+      -62.307
+     ],
+     "world_rotate": [
+      -186.0,
+      0.0,
+      -0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_LowerBody|Ma_Left_Bone_2|Ma_LeftUpLeg|Ma_LeftLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_RightUpLeg": {
+     "rotate": [
+      -92.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -6.9355,
+      45.898,
+      -102.0
+     ],
+     "world_rotate": [
+      -272.0,
+      0.0,
+      -0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_LowerBody|Ma_Right_Bone_2"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_RightLeg": {
+     "rotate": [
+      92.0,
+      0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -6.9355,
+      47.2841,
+      -62.307
+     ],
+     "world_rotate": [
+      180.0,
+      0.0,
+      0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_LowerBody|Ma_Right_Bone_2|Ma_RightUpLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Ma_RightFoot": {
+     "rotate": [
+      -6.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -6.9355,
+      2.8207,
+      -62.307
+     ],
+     "world_rotate": [
+      -186.0,
+      0.0,
+      -0.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Ma|Ma_MakotoFBXASC032Yuki_arm|Ma_Root|Ma_Center|Ma_Groove|Ma_Bone|Ma_LowerBody|Ma_Right_Bone_2|Ma_RightUpLeg|Ma_RightLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_Root": {
+     "rotate": [
+      90.0,
+      -0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      88.3346,
+      -58.359,
+      51.0
+     ],
+     "world_rotate": [
+      180.0,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_Spine": {
+     "rotate": [
+      1.5,
+      -0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      88.3346,
+      57.576,
+      51.0
+     ],
+     "world_rotate": [
+      -152.0829,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_Spine1": {
+     "rotate": [
+      1.0,
+      -0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      80.0191,
+      75.6978,
+      46.199
+     ],
+     "world_rotate": [
+      -151.0829,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_Neck": {
+     "rotate": [
+      -9.0,
+      0.0001,
+      0.0001
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      70.6221,
+      97.4077,
+      40.7737
+     ],
+     "world_rotate": [
+      -160.0827,
+      -60.0,
+      179.9997
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_Head": {
+     "rotate": [
+      -7.0,
+      0.002,
+      0.0016
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      67.9892,
+      105.7987,
+      39.2535
+     ],
+     "world_rotate": [
+      -167.0789,
+      -60.0014,
+      179.9953
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1|Huang_Neck"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_LeftArm": {
+     "rotate": [
+      -88.0,
+      0.0,
+      6.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      65.2814,
+      93.4601,
+      56.1122
+     ],
+     "world_rotate": [
+      10.2722,
+      6.9821,
+      -145.7745
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1|Huang_LeftShoulder"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_LeftForeArm": {
+     "rotate": [
+      12.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      65.2391,
+      93.4321,
+      56.1067
+     ],
+     "world_rotate": [
+      22.2722,
+      6.9821,
+      -145.7745
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1|Huang_LeftShoulder|Huang_LeftArm|Huang_LeftArmTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_LeftHand": {
+     "rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      69.3536,
+      86.6191,
+      59.3339
+     ],
+     "world_rotate": [
+      22.2722,
+      6.9821,
+      -145.7745
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1|Huang_LeftShoulder|Huang_LeftArm|Huang_LeftArmTwist|Huang_LeftForeArm|Huang_LeftHandTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_RightArm": {
+     "rotate": [
+      88.0,
+      0.0,
+      -6.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      81.2353,
+      93.4601,
+      28.4793
+     ],
+     "world_rotate": [
+      25.3901,
+      30.0775,
+      -139.9558
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1|Huang_RightShoulder"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_RightForeArm": {
+     "rotate": [
+      -12.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      81.2008,
+      93.4317,
+      28.4532
+     ],
+     "world_rotate": [
+      13.3901,
+      30.0775,
+      -139.9558
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1|Huang_RightShoulder|Huang_RightArm|Huang_RightArmTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_RightHand": {
+     "rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      85.7904,
+      86.3752,
+      30.1565
+     ],
+     "world_rotate": [
+      13.3901,
+      30.0775,
+      -139.9558
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_Spine|Huang_Spine1|Huang_RightShoulder|Huang_RightArm|Huang_RightArmTwist|Huang_RightForeArm|Huang_RightHandTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_LeftUpLeg": {
+     "rotate": [
+      -92.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      84.2549,
+      45.898,
+      58.0663
+     ],
+     "world_rotate": [
+      -92.0,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_LowerBody|Huang_Left_Bone_2"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_LeftLeg": {
+     "rotate": [
+      92.0,
+      0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      47.0084,
+      47.3999,
+      36.562
+     ],
+     "world_rotate": [
+      0.0,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_LowerBody|Huang_Left_Bone_2|Huang_LeftUpLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_LeftFoot": {
+     "rotate": [
+      -6.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      47.0084,
+      -1.3745,
+      36.562
+     ],
+     "world_rotate": [
+      -6.0,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_LowerBody|Huang_Left_Bone_2|Huang_LeftUpLeg|Huang_LeftLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_RightUpLeg": {
+     "rotate": [
+      -92.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      92.4143,
+      45.898,
+      43.9337
+     ],
+     "world_rotate": [
+      -92.0,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_LowerBody|Huang_Right_Bone_2"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_RightLeg": {
+     "rotate": [
+      92.0,
+      0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      55.1678,
+      47.3999,
+      22.4294
+     ],
+     "world_rotate": [
+      0.0,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_LowerBody|Huang_Right_Bone_2|Huang_RightUpLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Huang_RightFoot": {
+     "rotate": [
+      -6.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      55.1678,
+      -1.3745,
+      22.4294
+     ],
+     "world_rotate": [
+      -6.0,
+      -60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Huang|Huang_AragakiFBXASC032Shinjiro_arm|Huang_Root|Huang_Center|Huang_Groove|Huang_Bone|Huang_LowerBody|Huang_Right_Bone_2|Huang_RightUpLeg|Huang_RightLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_Root": {
+     "rotate": [
+      90.0,
+      -0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -84.2972,
+      -51.4752,
+      48.669
+     ],
+     "world_rotate": [
+      180.0,
+      60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_Spine": {
+     "rotate": [
+      1.5,
+      -0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -88.3346,
+      59.004,
+      51.0
+     ],
+     "world_rotate": [
+      -155.5765,
+      60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_Spine1": {
+     "rotate": [
+      1.0,
+      -0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -81.3714,
+      76.7097,
+      46.9798
+     ],
+     "world_rotate": [
+      -154.5765,
+      60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_Neck": {
+     "rotate": [
+      -9.0,
+      -0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -72.9032,
+      97.2808,
+      42.0907
+     ],
+     "world_rotate": [
+      -163.5765,
+      60.0,
+      180.0
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_Head": {
+     "rotate": [
+      -7.0,
+      0.0021,
+      0.0021
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -70.229,
+      107.7569,
+      40.5467
+     ],
+     "world_rotate": [
+      -170.5811,
+      59.9985,
+      179.9947
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1|Shiye_Neck"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_LeftArm": {
+     "rotate": [
+      -88.0,
+      0.0,
+      6.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -82.8043,
+      94.3318,
+      29.3851
+     ],
+     "world_rotate": [
+      -208.5709,
+      41.336,
+      -44.6871
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1|Shiye_LeftShoulder"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_LeftForeArm": {
+     "rotate": [
+      12.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -92.7328,
+      72.6554,
+      38.4263
+     ],
+     "world_rotate": [
+      163.4291,
+      41.336,
+      -44.6871
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1|Shiye_LeftShoulder|Shiye_LeftArm|Shiye_LeftArmTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_LeftHand": {
+     "rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -106.3749,
+      51.9114,
+      43.7724
+     ],
+     "world_rotate": [
+      163.4291,
+      41.336,
+      -44.6871
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1|Shiye_LeftShoulder|Shiye_LeftArm|Shiye_LeftArmTwist|Shiye_LeftForeArm|Shiye_LeftHandTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_RightArm": {
+     "rotate": [
+      88.0,
+      0.0,
+      -6.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -66.8504,
+      94.3318,
+      57.018
+     ],
+     "world_rotate": [
+      170.2826,
+      19.4866,
+      -33.8014
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1|Shiye_RightShoulder"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_RightForeArm": {
+     "rotate": [
+      -12.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -66.714,
+      94.2405,
+      56.96
+     ],
+     "world_rotate": [
+      158.2826,
+      19.4866,
+      -33.8014
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1|Shiye_RightShoulder|Shiye_RightArm|Shiye_RightArmTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_RightHand": {
+     "rotate": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -70.0268,
+      87.2222,
+      59.7951
+     ],
+     "world_rotate": [
+      158.2826,
+      19.4866,
+      -33.8014
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_Spine|Shiye_Spine1|Shiye_RightShoulder|Shiye_RightArm|Shiye_RightArmTwist|Shiye_RightForeArm|Shiye_RightHandTwist"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_LeftUpLeg": {
+     "rotate": [
+      -92.0,
+      -0.0613,
+      0.0616
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -92.1593,
+      46.0,
+      44.3754
+     ],
+     "world_rotate": [
+      -91.8935,
+      59.9386,
+      -179.877
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_LowerBody|Shiye_Left_Bone_2"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_LeftLeg": {
+     "rotate": [
+      92.0,
+      0.0,
+      -0.001
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -54.755,
+      47.5092,
+      22.7247
+     ],
+     "world_rotate": [
+      180.1066,
+      120.0624,
+      0.123
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_LowerBody|Shiye_Left_Bone_2|Shiye_LeftUpLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_LeftFoot": {
+     "rotate": [
+      -6.0,
+      0.1243,
+      -0.3758
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -54.7308,
+      2.6322,
+      22.7665
+     ],
+     "world_rotate": [
+      -6.5447,
+      60.0605,
+      -180.6294
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_LowerBody|Shiye_Left_Bone_2|Shiye_LeftUpLeg|Shiye_LeftLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_RightUpLeg": {
+     "rotate": [
+      -92.0,
+      0.0729,
+      -0.0733
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -84.5099,
+      46.102,
+      57.6246
+     ],
+     "world_rotate": [
+      -92.1272,
+      60.0729,
+      -180.1469
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_LowerBody|Shiye_Right_Bone_2"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_RightLeg": {
+     "rotate": [
+      92.0,
+      -0.0,
+      0.0012
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -46.9648,
+      47.6147,
+      36.0139
+     ],
+     "world_rotate": [
+      -0.1273,
+      60.074,
+      179.853
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_LowerBody|Shiye_Right_Bone_2|Shiye_RightUpLeg"
+     ],
+     "rotate_animation": []
+    },
+    "Shiye_RightFoot": {
+     "rotate": [
+      -6.0,
+      -0.1956,
+      0.6814
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -46.9935,
+      2.7378,
+      35.9641
+     ],
+     "world_rotate": [
+      -4.9498,
+      59.8729,
+      181.2116
+     ],
+     "parents": [
+      "|SCENE|CHARS|CHR_Shiye|Shiye_JunpeiFBXASC032Iori_arm|Shiye_Root|Shiye_Center|Shiye_Groove|Shiye_Bone|Shiye_LowerBody|Shiye_Right_Bone_2|Shiye_RightUpLeg|Shiye_RightLeg"
+     ],
+     "rotate_animation": []
+    }
+   }
+  },
+  "new_ma": {
+   "file": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/NEWM_test.mb",
+   "roots": [
+    "persp",
+    "top",
+    "front",
+    "side",
+    "NH_MaleM_140_LOD0",
+    "Root"
+   ],
+   "chars_children": [],
+   "meshes": [
+    {
+     "shape": "|NH_MaleM_140_LOD0|NH_MaleM_140_LOD0Shape",
+     "transform": "|NH_MaleM_140_LOD0",
+     "bbox": [
+      -43.208,
+      -0.039,
+      -16.302,
+      43.208,
+      160.751,
+      12.806
+     ],
+     "vertices": 28575,
+     "skins": [
+      "skinCluster1"
+     ]
+    }
+   ],
+   "delta_mush": [],
+   "cameras": [
+    "|front|frontShape",
+    "|persp|perspShape",
+    "|side|sideShape",
+    "|top|topShape"
+   ],
+   "groups": {},
+   "joints": {
+    "Bip001": {
+     "rotate": [
+      -90.0,
+      -0.0,
+      -0.0
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0,
+      85.3512,
+      -1.0164
+     ],
+     "world_rotate": [
+      -90.0,
+      -0.0,
+      0.0
+     ],
+     "parents": [
+      "|Root"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001Pelvis": {
+     "rotate": [
+      90.0,
+      0.0001,
+      90.0001
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -0.0,
+      85.3512,
+      -1.0164
+     ],
+     "world_rotate": [
+      -0.0,
+      89.9999,
+      0.0
+     ],
+     "parents": [
+      "|Root|Bip001"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001Spine": {
+     "rotate": [
+      0.0001,
+      -0.0003,
+      2.4016
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0003,
+      89.293,
+      -0.1595
+     ],
+     "world_rotate": [
+      89.9914,
+      87.5984,
+      89.9913
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001Spine1": {
+     "rotate": [
+      -0.0,
+      0.0,
+      -6.9196
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0003,
+      102.617,
+      0.3906
+     ],
+     "world_rotate": [
+      90.0018,
+      94.5181,
+      90.0017
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001Spine2": {
+     "rotate": [
+      -0.0,
+      -0.0,
+      -5.4572
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0003,
+      113.563,
+      -0.4872
+     ],
+     "world_rotate": [
+      -89.999,
+      80.0247,
+      -89.9991
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001Neck": {
+     "rotate": [
+      0.0001,
+      -0.0,
+      24.1288
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0001,
+      131.5965,
+      -5.0002
+     ],
+     "world_rotate": [
+      -90.0007,
+      104.1535,
+      -90.0008
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001Head": {
+     "rotate": [
+      0.0,
+      0.0,
+      75.8465
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      0.0001,
+      140.5551,
+      -2.9187
+     ],
+     "world_rotate": [
+      89.9998,
+      0.0,
+      89.9999
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2|Bip001Neck"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001LUpperArm": {
+     "rotate": [
+      -49.4232,
+      5.4589,
+      -7.8845
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      13.9588,
+      126.1708,
+      -5.3529
+     ],
+     "world_rotate": [
+      -201.2971,
+      -83.4902,
+      55.608
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2|Bip001LClavicle"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001LForearm": {
+     "rotate": [
+      -0.0001,
+      0.0001,
+      -9.822
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      25.8358,
+      108.8484,
+      -4.4873
+     ],
+     "world_rotate": [
+      116.6955,
+      -76.401,
+      98.1381
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2|Bip001LClavicle|Bip001LUpperArm"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001LHand": {
+     "rotate": [
+      -35.8248,
+      -80.4108,
+      33.5888
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      37.7936,
+      92.0798,
+      -0.0622
+     ],
+     "world_rotate": [
+      -14.5288,
+      -177.1293,
+      210.6971
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2|Bip001LClavicle|Bip001LUpperArm|Bip001LForearm"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001RUpperArm": {
+     "rotate": [
+      49.4237,
+      -5.4583,
+      -7.8843
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -13.959,
+      126.1709,
+      -5.3529
+     ],
+     "world_rotate": [
+      21.2966,
+      -83.4901,
+      124.3923
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2|Bip001RClavicle"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001RForearm": {
+     "rotate": [
+      0.0,
+      -0.0002,
+      -9.822
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -25.836,
+      108.8485,
+      -4.4873
+     ],
+     "world_rotate": [
+      63.3044,
+      -76.401,
+      81.8619
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2|Bip001RClavicle|Bip001RUpperArm"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001RHand": {
+     "rotate": [
+      35.8259,
+      80.4109,
+      33.59
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -37.7939,
+      92.0799,
+      -0.0622
+     ],
+     "world_rotate": [
+      14.5286,
+      -2.8706,
+      149.3029
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001Spine|Bip001Spine1|Bip001Spine2|Bip001RClavicle|Bip001RUpperArm|Bip001RForearm"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001LThigh": {
+     "rotate": [
+      179.2102,
+      -0.0041,
+      2.1391
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      6.7814,
+      85.3512,
+      -1.0164
+     ],
+     "world_rotate": [
+      269.0969,
+      87.8609,
+      89.8867
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001LCalf": {
+     "rotate": [
+      0.0002,
+      0.0,
+      -4.2714
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      7.2945,
+      48.1582,
+      -2.4055
+     ],
+     "world_rotate": [
+      -90.3003,
+      83.5898,
+      90.4905
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001LThigh"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001LFoot": {
+     "rotate": [
+      0.7909,
+      -0.9157,
+      6.3979
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      7.8222,
+      10.017,
+      -6.691
+     ],
+     "world_rotate": [
+      -0.008,
+      89.1178,
+      179.9901
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001LThigh|Bip001LCalf"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001RThigh": {
+     "rotate": [
+      -179.2105,
+      0.0039,
+      2.1391
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -6.7814,
+      85.3512,
+      -1.0164
+     ],
+     "world_rotate": [
+      -89.1083,
+      87.8609,
+      90.1023
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001RCalf": {
+     "rotate": [
+      0.0002,
+      0.0001,
+      -4.2714
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -7.2943,
+      48.1582,
+      -2.4055
+     ],
+     "world_rotate": [
+      -89.7004,
+      83.5897,
+      89.5087
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001RThigh"
+     ],
+     "rotate_animation": []
+    },
+    "Bip001RFoot": {
+     "rotate": [
+      -0.7914,
+      0.9156,
+      6.3979
+     ],
+     "jointOrient": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "world_translate": [
+      -7.8221,
+      10.0171,
+      -6.691
+     ],
+     "world_rotate": [
+      0.0079,
+      90.8822,
+      180.0101
+     ],
+     "parents": [
+      "|Root|Bip001|Bip001Pelvis|Bip001RThigh|Bip001RCalf"
+     ],
+     "rotate_animation": []
+    }
+   },
+   "joint_count": 242,
+   "joint_names": [
+    "Bip001",
+    "Bip001Head",
+    "Bip001LCalf",
+    "Bip001LClavicle",
+    "Bip001LFinger0",
+    "Bip001LFinger01",
+    "Bip001LFinger02",
+    "Bip001LFinger1",
+    "Bip001LFinger2",
+    "Bip001LFinger3",
+    "Bip001LFinger4",
+    "Bip001LFinger11",
+    "Bip001LFinger12",
+    "Bip001LFinger21",
+    "Bip001LFinger22",
+    "Bip001LFinger31",
+    "Bip001LFinger32",
+    "Bip001LFinger41",
+    "Bip001LFinger42",
+    "Bip001LFoot",
+    "Bip001LForeTwist",
+    "Bip001LForeTwist1",
+    "Bip001LForearm",
+    "Bip001LHand",
+    "Bip001LThigh",
+    "Bip001LThighTwist",
+    "Bip001LThighTwist1",
+    "Bip001LToe0",
+    "Bip001LUpArmTwist",
+    "Bip001LUpArmTwist1",
+    "Bip001LUpArmTwist2",
+    "Bip001LUpperArm",
+    "Bip001Neck",
+    "Bip001Pelvis",
+    "Bip001RCalf",
+    "Bip001RClavicle",
+    "Bip001RFinger0",
+    "Bip001RFinger01",
+    "Bip001RFinger02",
+    "Bip001RFinger1",
+    "Bip001RFinger2",
+    "Bip001RFinger3",
+    "Bip001RFinger4",
+    "Bip001RFinger11",
+    "Bip001RFinger12",
+    "Bip001RFinger21",
+    "Bip001RFinger22",
+    "Bip001RFinger31",
+    "Bip001RFinger32",
+    "Bip001RFinger41",
+    "Bip001RFinger42",
+    "Bip001RFoot",
+    "Bip001RForeTwist",
+    "Bip001RForeTwist1",
+    "Bip001RForearm",
+    "Bip001RHand",
+    "Bip001RThigh",
+    "Bip001RThighTwist",
+    "Bip001RThighTwist1",
+    "Bip001RToe0",
+    "Bip001RUpArmTwist",
+    "Bip001RUpArmTwist1",
+    "Bip001RUpArmTwist2",
+    "Bip001RUpperArm",
+    "Bip001Spine",
+    "Bip001Spine1",
+    "Bip001Spine2",
+    "Bip001_L_Calf",
+    "Bip001_L_CalfTwist",
+    "Bip001_L_Elbow_B",
+    "Bip001_L_Elbow_F",
+    "Bip001_L_Knee_B",
+    "Bip001_L_Knee_F",
+    "Bip001_Leg_L_B",
+    "Bip001_Leg_L_F",
+    "Bip001_Leg_L_M",
+    "Bip001_Leg_R_B",
+    "Bip001_Leg_R_F",
+    "Bip001_Leg_R_M",
+    "Bip001_R_Calf",
+    "Bip001_R_CalfTwist",
+    "Bip001_R_Elbow_B",
+    "Bip001_R_Elbow_F",
+    "Bip001_R_Knee_B",
+    "Bip001_R_Knee_F",
+    "Bip001_Shoulder_L_B",
+    "Bip001_Shoulder_L_F",
+    "Bip001_Shoulder_L_M",
+    "Bip001_Shoulder_R_B",
+    "Bip001_Shoulder_R_F",
+    "Bip001_Shoulder_R_M",
+    "Bone_Hair001_L",
+    "Bone_Hair001_M",
+    "Bone_Hair001_R",
+    "Bone_Hair002_L",
+    "Bone_Hair002_M",
+    "Bone_Hair002_R",
+    "Bone_Hair011_L",
+    "Bone_Hair011_M",
+    "Bone_Hair011_R",
+    "Bone_Hair012_L",
+    "Bone_Hair012_M",
+    "Bone_Hair012_R",
+    "Bone_Hair021_L",
+    "Bone_Hair021_R",
+    "Bone_Hair022_L",
+    "Bone_Hair022_R",
+    "Bone_Hair031_L",
+    "Bone_Hair031_R",
+    "Bone_Hair032_L",
+    "Bone_Hair032_R",
+    "Bone_Hair041_M",
+    "Bone_Hair042_M",
+    "Bone_HandTwist_L",
+    "Bone_HandTwist_R",
+    "Bone_Piao001_L",
+    "Bone_Piao001_R",
+    "Bone_Piao002_L",
+    "Bone_Piao002_R",
+    "Bone_Piao011_L",
+    "Bone_Piao011_R",
+    "Bone_Piao012_L",
+    "Bone_Piao012_R",
+    "Bone_Piao021_L",
+    "Bone_Piao021_M",
+    "Bone_Piao021_R",
+    "Bone_Piao022_L",
+    "Bone_Piao022_M",
+    "Bone_Piao022_R",
+    "Bone_Piao031_L",
+    "Bone_Piao031_R",
+    "Bone_Piao032_L",
+    "Bone_Piao032_R",
+    "Bone_Piao033_L",
+    "Bone_Piao033_R",
+    "Bone_Piao034_L",
+    "Bone_Piao034_R",
+    "Bone_Piao041_L",
+    "Bone_Piao041_R",
+    "Bone_Piao042_L",
+    "Bone_Piao042_R",
+    "Bone_Piao043_L",
+    "Bone_Piao043_R",
+    "Bone_Piao044_L",
+    "Bone_Piao044_R",
+    "Bone_Piao051_L",
+    "Bone_Piao051_R",
+    "Bone_Piao052_L",
+    "Bone_Piao052_R",
+    "Bone_Piao053_L",
+    "Bone_Piao053_R",
+    "Bone_Piao054_L",
+    "Bone_Piao054_R",
+    "Bone_Piao061_L",
+    "Bone_Piao061_M",
+    "Bone_Piao061_R",
+    "Bone_Piao062_L",
+    "Bone_Piao062_M",
+    "Bone_Piao062_R",
+    "Bone_Piao063_L",
+    "Bone_Piao063_M",
+    "Bone_Piao063_R",
+    "Bone_Piao064_L",
+    "Bone_Piao064_M",
+    "Bone_Piao064_R",
+    "Bone_Piao071_L",
+    "Bone_Piao071_R",
+    "Bone_Piao073_L",
+    "Bone_Piao073_R",
+    "Bone_Piao075_L",
+    "Bone_Piao075_R",
+    "Bone_Piao077_L",
+    "Bone_Piao077_R",
+    "Bone_Piao081_L",
+    "Bone_Piao081_R",
+    "Bone_Piao082_L",
+    "Bone_Piao082_R",
+    "Bone_Piao083_L",
+    "Bone_Piao083_R",
+    "Bone_Piao091_L",
+    "Bone_Piao091_R",
+    "Bone_Piao092_L",
+    "Bone_Piao092_R",
+    "Bone_Piao093_L",
+    "Bone_Piao093_R",
+    "Bone_Piao101_L",
+    "Bone_Piao101_R",
+    "Bone_Piao102_L",
+    "Bone_Piao102_R",
+    "Bone_Piao103_L",
+    "Bone_Piao103_R",
+    "Bone_Piao111_L",
+    "Bone_Piao111_R",
+    "Bone_Piao112_L",
+    "Bone_Piao112_R",
+    "Bone_Piao121_M",
+    "Bone_Piao122_M",
+    "Bone_Piao123_M",
+    "Bone_Piao124_M",
+    "Bone_Piao131_L",
+    "Bone_Piao131_R",
+    "Bone_Piao133_L",
+    "Bone_Piao133_R",
+    "Bone_Piao135_L",
+    "Bone_Piao135_R",
+    "Bone_Piao137_L",
+    "Bone_Piao137_R",
+    "CameraPosition",
+    "Facial_Cheek_a_01_L",
+    "Facial_Cheek_a_01_R",
+    "Facial_Elbow_a_01_L",
+    "Facial_Elbow_a_02_R",
+    "Facial_Elbow_b_01_L",
+    "Facial_Elbow_b_02_R",
+    "Facial_Elbow_c_01_L",
+    "Facial_Elbow_c_02_R",
+    "Facial_FaceLine_a_01_M",
+    "Facial_FaceLine_b_01_L",
+    "Facial_FaceLine_b_01_R",
+    "Facial_FaceLine_c_01_L",
+    "Facial_FaceLine_c_01_R",
+    "Facial_FaceLine_d_01_L",
+    "Facial_FaceLine_d_01_R",
+    "Facial_FaceLine_e_01_L",
+    "Facial_FaceLine_e_01_R",
+    "Facial_Mouth_a_01_L",
+    "Facial_Mouth_a_02_R",
+    "Facial_Mouth_a_03_M",
+    "HitCase",
+    "HuluProp01",
+    "LeftSuspensionCase",
+    "MarkCase",
+    "MiddleCase",
+    "RightSuspensionCase",
+    "Root",
+    "WeaponProp01",
+    "WeaponProp02",
+    "WeaponProp03",
+    "WeaponProp04",
+    "WeaponProp05",
+    "WeaponProp06",
+    "WeaponProp07"
+   ]
+  }
+ },
+ "ok": true
+}

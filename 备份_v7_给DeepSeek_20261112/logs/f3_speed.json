@@ -1,0 +1,10 @@
+{
+ "errors": [],
+ "attr_err": [
+  "hardwareRenderingGlobals.shadowMapEnable"
+ ],
+ "aa": false,
+ "no_aa_per_frame": 1.4,
+ "last": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/tmp/v7_final.png",
+ "ok": true
+}

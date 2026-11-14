@@ -1,0 +1,22 @@
+{
+ "errors": [],
+ "head_pos": {
+  "Ma": [
+   0.0,
+   94.6,
+   -85.3
+  ],
+  "Huang": [
+   81.5,
+   105.5,
+   47.1
+  ],
+  "Shiye": [
+   -83.9,
+   107.5,
+   48.5
+  ]
+ },
+ "test": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/tmp/无标题.png",
+ "ok": true
+}

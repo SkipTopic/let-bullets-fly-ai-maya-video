@@ -1,0 +1,43 @@
+{
+ "Left": [
+  "Ma_LeftHand",
+  "Ma_LeftHandTwist",
+  "Ma_LeftForeArm",
+  "Ma_LeftArmTwist",
+  "Ma_LeftArm",
+  "Ma_LeftShoulder",
+  "Ma_Spine1",
+  "Ma_Spine",
+  "Ma_Bone",
+  "Ma_Groove",
+  "Ma_Center",
+  "Ma_Root"
+ ],
+ "Right": [
+  "Ma_RightHand",
+  "Ma_RightHandTwist",
+  "Ma_RightForeArm",
+  "Ma_RightArmTwist",
+  "Ma_RightArm",
+  "Ma_RightShoulder",
+  "Ma_Spine1",
+  "Ma_Spine",
+  "Ma_Bone",
+  "Ma_Groove",
+  "Ma_Center",
+  "Ma_Root"
+ ],
+ "right_forearm_exists": true,
+ "right_arm_rot_order": 0,
+ "left_arm_rot_order": 0,
+ "right_arm_joint_orient": [
+  0.0,
+  0.0,
+  0.0
+ ],
+ "left_arm_joint_orient": [
+  0.0,
+  0.0,
+  0.0
+ ]
+}

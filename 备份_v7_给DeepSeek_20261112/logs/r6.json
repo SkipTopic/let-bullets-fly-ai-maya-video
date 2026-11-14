@@ -1,0 +1,28 @@
+{
+ "errors": [],
+ "panels": [
+  "modelPanel1",
+  "modelPanel2",
+  "modelPanel3",
+  "modelPanel4"
+ ],
+ "visible": {
+  "modelPanel1": false,
+  "modelPanel2": false,
+  "modelPanel3": false,
+  "modelPanel4": true
+ },
+ "modelPanel1": [
+  "PN_modelPanel1.0000.png"
+ ],
+ "modelPanel2": [
+  "PN_modelPanel2.0000.png"
+ ],
+ "modelPanel3": [
+  "PN_modelPanel3.0000.png"
+ ],
+ "modelPanel4": [
+  "PN_modelPanel4.0000.png"
+ ],
+ "ok": true
+}

@@ -1,0 +1,15 @@
+{
+ "step": "done",
+ "errors": [],
+ "hand": [
+  4.7,
+  89.7,
+  -100.6
+ ],
+ "A": "A",
+ "dm": [
+  "deltaMush1"
+ ],
+ "B": "B",
+ "ok": true
+}

@@ -1,0 +1,2587 @@
+{
+ "CH_Ma": {
+  "fbx": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_fbx2\\CH_Ma.fbx",
+  "size_mb": 1.09,
+  "bone_count": 179,
+  "renames": {
+   "全ての親": "Root",
+   "センター": "Center",
+   "グルーブ": "Groove",
+   "腰": "Bone",
+   "上半身": "Spine",
+   "上半身2": "Spine1",
+   "首": "Neck",
+   "頭": "Head",
+   "head eyebrow 1.R": "Right_head_eyebrow_1",
+   "head eyebrow 2.R": "Right_head_eyebrow_2",
+   "head eyebrow 1.L": "Left_head_eyebrow_1",
+   "head eyebrow 2.L": "Left_head_eyebrow_2",
+   "head eyelid right both": "head_eyelid_right_both",
+   "head eyelid upper.R": "Right_head_eyelid_upper",
+   "head eyelid lower.R": "Right_head_eyelid_lower",
+   "head lip upper.R": "Right_head_lip_upper",
+   "head lip upper middle": "head_lip_upper_middle",
+   "head lip upper.L": "Left_head_lip_upper",
+   "head eyelid left both": "head_eyelid_left_both",
+   "head eyelid upper.L": "Left_head_eyelid_upper",
+   "head eyelid lower.L": "Left_head_eyelid_lower",
+   "head jaw": "head_jaw",
+   "head lip lower middle": "head_lip_lower_middle",
+   "head lip lower.R": "Right_head_lip_lower",
+   "head lip lower.L": "Left_head_lip_lower",
+   "舌１": "Bone_1",
+   "head lip corner.R": "Right_head_lip_corner",
+   "head lip corner.L": "Left_head_lip_corner",
+   "hair 1 middle back 01": "hair_1_middle_back_01",
+   "hair 1 front middle 01": "hair_1_front_middle_01",
+   "hair 1 front middle 02": "hair_1_front_middle_02",
+   "hair 1 left back 01": "hair_1_left_back_01",
+   "hair 1 left front 01": "hair_1_left_front_01",
+   "hair 1 left front 02": "hair_1_left_front_02",
+   "hair 1 right back 01": "hair_1_right_back_01",
+   "hair 1 right front 01": "hair_1_right_front_01",
+   "hair 1 right front 02": "hair_1_right_front_02",
+   "両目": "Eyes",
+   "_dummy_目.R": "Right_dummy",
+   "_dummy_目.L": "Left_dummy",
+   "目.R": "Right_Bone",
+   "目戻.R": "Right_Bone_1",
+   "目.L": "Left_Bone",
+   "目戻.L": "Left_Bone_1",
+   "_shadow_目.R": "Right_shadow",
+   "_shadow_目.L": "Left_shadow",
+   "肩.L": "LeftShoulder",
+   "腕.L": "LeftArm",
+   "腕捩.L": "LeftArmTwist",
+   "ひじ.L": "LeftForeArm",
+   "手捩.L": "LeftHandTwist",
+   "手首.L": "LeftHand",
+   "人指１.L": "LeftIndex1",
+   "人指２.L": "LeftIndex2",
+   "人指３.L": "LeftIndex3",
+   "中指１.L": "LeftMiddle1",
+   "中指２.L": "LeftMiddle2",
+   "中指３.L": "LeftMiddle3",
+   "小指１.L": "LeftPinky1",
+   "小指２.L": "LeftPinky2",
+   "小指３.L": "LeftPinky3",
+   "薬指１.L": "LeftRing1",
+   "薬指２.L": "LeftRing2",
+   "薬指３.L": "LeftRing3",
+   "親指０.L": "LeftThumb0",
+   "親指１.L": "LeftThumb1",
+   "親指２.L": "LeftThumb2",
+   "肩.R": "RightShoulder",
+   "腕.R": "RightArm",
+   "腕捩.R": "RightArmTwist",
+   "ひじ.R": "RightForeArm",
+   "手捩.R": "RightHandTwist",
+   "手首.R": "RightHand",
+   "人指１.R": "RightIndex1",
+   "人指２.R": "RightIndex2",
+   "人指３.R": "RightIndex3",
+   "中指１.R": "RightMiddle1",
+   "中指２.R": "RightMiddle2",
+   "中指３.R": "RightMiddle3",
+   "小指１.R": "RightPinky1",
+   "小指２.R": "RightPinky2",
+   "小指３.R": "RightPinky3",
+   "薬指１.R": "RightRing1",
+   "薬指２.R": "RightRing2",
+   "薬指３.R": "RightRing3",
+   "親指０.R": "RightThumb0",
+   "親指１.R": "RightThumb1",
+   "親指２.R": "RightThumb2",
+   "musicplayer 1": "musicplayer_1",
+   "musicplayer 2": "musicplayer_2",
+   "musicplayer 3": "musicplayer_3",
+   "earphone left 1": "earphone_left_1",
+   "earphone left 2": "earphone_left_2",
+   "neck ribbon 01.L": "Left_neck_ribbon_01",
+   "neck ribbon 02.L": "Left_neck_ribbon_02",
+   "earphone right 1": "earphone_right_1",
+   "earphone right 2": "earphone_right_2",
+   "neck ribbon 01.R": "Right_neck_ribbon_01",
+   "neck ribbon 02.R": "Right_neck_ribbon_02",
+   "スカート_0_1": "0_1",
+   "スカート_1_1": "1_1",
+   "スカート_2_1": "2_1",
+   "スカート_3_1": "3_1",
+   "スカート_4_1": "4_1",
+   "スカート_5_1": "5_1",
+   "スカート_0_2": "0_2",
+   "スカート_1_2": "1_2",
+   "スカート_2_2": "2_2",
+   "スカート_3_2": "3_2",
+   "スカート_4_2": "4_2",
+   "スカート_5_2": "5_2",
+   "スカート_0_3": "0_3",
+   "スカート_1_3": "1_3",
+   "スカート_2_3": "2_3",
+   "スカート_3_3": "3_3",
+   "スカート_4_3": "4_3",
+   "スカート_5_3": "5_3",
+   "スカート_0_4": "0_4",
+   "スカート_1_4": "1_4",
+   "スカート_2_4": "2_4",
+   "スカート_3_4": "3_4",
+   "スカート_4_4": "4_4",
+   "スカート_5_4": "5_4",
+   "スカート_0_5": "0_5",
+   "スカート_1_5": "1_5",
+   "スカート_2_5": "2_5",
+   "スカート_3_5": "3_5",
+   "スカート_4_5": "4_5",
+   "スカート_5_5": "5_5",
+   "スカート_0_6": "0_6",
+   "スカート_1_6": "1_6",
+   "スカート_2_6": "2_6",
+   "スカート_3_6": "3_6",
+   "スカート_4_6": "4_6",
+   "スカート_5_6": "5_6",
+   "スカート_0_7": "0_7",
+   "スカート_1_7": "1_7",
+   "スカート_2_7": "2_7",
+   "スカート_3_7": "3_7",
+   "スカート_4_7": "4_7",
+   "スカート_5_7": "5_7",
+   "スカート_0_8": "0_8",
+   "スカート_1_8": "1_8",
+   "スカート_2_8": "2_8",
+   "スカート_3_8": "3_8",
+   "スカート_4_8": "4_8",
+   "スカート_5_8": "5_8",
+   "スカート_0_9": "0_9",
+   "スカート_1_9": "1_9",
+   "スカート_2_9": "2_9",
+   "スカート_3_9": "3_9",
+   "スカート_4_9": "4_9",
+   "スカート_5_9": "5_9",
+   "スカート_0_10": "0_10",
+   "スカート_1_10": "1_10",
+   "スカート_2_10": "2_10",
+   "スカート_3_10": "3_10",
+   "スカート_4_10": "4_10",
+   "スカート_5_10": "5_10",
+   "下半身": "LowerBody",
+   "gunholder left 01": "gunholder_left_01",
+   "腰キャンセル.L": "Left_Bone_2",
+   "足.L": "LeftUpLeg",
+   "ひざ.L": "LeftLeg",
+   "足首.L": "LeftFoot",
+   "つま先.L": "LeftToeBase",
+   "足先EX.L": "LeftUpLegEX",
+   "腰キャンセル.R": "Right_Bone_2",
+   "足.R": "RightUpLeg",
+   "ひざ.R": "RightLeg",
+   "足首.R": "RightFoot",
+   "つま先.R": "RightToeBase",
+   "足先EX.R": "RightUpLegEX",
+   "_dummy_腰キャンセル.L": "Left_dummy_1",
+   "_dummy_腰キャンセル.R": "Right_dummy_1",
+   "_shadow_腰キャンセル.L": "Left_shadow_1",
+   "_shadow_腰キャンセル.R": "Right_shadow_1",
+   "足IK親.L": "LeftUpLegIK",
+   "足IK親.R": "RightUpLegIK"
+  },
+  "bones": [
+   {
+    "name": "Root",
+    "parent": null
+   },
+   {
+    "name": "Center",
+    "parent": "Root"
+   },
+   {
+    "name": "Groove",
+    "parent": "Center"
+   },
+   {
+    "name": "Bone",
+    "parent": "Groove"
+   },
+   {
+    "name": "Spine",
+    "parent": "Bone"
+   },
+   {
+    "name": "Spine1",
+    "parent": "Spine"
+   },
+   {
+    "name": "Neck",
+    "parent": "Spine1"
+   },
+   {
+    "name": "Head",
+    "parent": "Neck"
+   },
+   {
+    "name": "Right_head_eyebrow_1",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_head_eyebrow_2",
+    "parent": "Right_head_eyebrow_1"
+   },
+   {
+    "name": "Left_head_eyebrow_1",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_eyebrow_2",
+    "parent": "Left_head_eyebrow_1"
+   },
+   {
+    "name": "head_eyelid_right_both",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_head_eyelid_upper",
+    "parent": "head_eyelid_right_both"
+   },
+   {
+    "name": "Right_head_eyelid_lower",
+    "parent": "head_eyelid_right_both"
+   },
+   {
+    "name": "Right_head_lip_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "head_lip_upper_middle",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_lip_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "head_eyelid_left_both",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_eyelid_upper",
+    "parent": "head_eyelid_left_both"
+   },
+   {
+    "name": "Left_head_eyelid_lower",
+    "parent": "head_eyelid_left_both"
+   },
+   {
+    "name": "head_jaw",
+    "parent": "Head"
+   },
+   {
+    "name": "head_lip_lower_middle",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Right_head_lip_lower",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Left_head_lip_lower",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Bone_1",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Right_head_lip_corner",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_lip_corner",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_middle_back_01",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_front_middle_01",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_front_middle_02",
+    "parent": "hair_1_front_middle_01"
+   },
+   {
+    "name": "hair_1_left_back_01",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_left_front_01",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_left_front_02",
+    "parent": "hair_1_left_front_01"
+   },
+   {
+    "name": "hair_1_right_back_01",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_right_front_01",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_right_front_02",
+    "parent": "hair_1_right_front_01"
+   },
+   {
+    "name": "Eyes",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_dummy",
+    "parent": "Eyes"
+   },
+   {
+    "name": "Left_dummy",
+    "parent": "Eyes"
+   },
+   {
+    "name": "Right_Bone",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_Bone_1",
+    "parent": "Right_Bone"
+   },
+   {
+    "name": "Left_Bone",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_Bone_1",
+    "parent": "Left_Bone"
+   },
+   {
+    "name": "Right_shadow",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_shadow",
+    "parent": "Head"
+   },
+   {
+    "name": "LeftShoulder",
+    "parent": "Spine1"
+   },
+   {
+    "name": "LeftArm",
+    "parent": "LeftShoulder"
+   },
+   {
+    "name": "LeftArmTwist",
+    "parent": "LeftArm"
+   },
+   {
+    "name": "LeftForeArm",
+    "parent": "LeftArmTwist"
+   },
+   {
+    "name": "LeftHandTwist",
+    "parent": "LeftForeArm"
+   },
+   {
+    "name": "LeftHand",
+    "parent": "LeftHandTwist"
+   },
+   {
+    "name": "LeftIndex1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftIndex2",
+    "parent": "LeftIndex1"
+   },
+   {
+    "name": "LeftIndex3",
+    "parent": "LeftIndex2"
+   },
+   {
+    "name": "LeftMiddle1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftMiddle2",
+    "parent": "LeftMiddle1"
+   },
+   {
+    "name": "LeftMiddle3",
+    "parent": "LeftMiddle2"
+   },
+   {
+    "name": "LeftPinky1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftPinky2",
+    "parent": "LeftPinky1"
+   },
+   {
+    "name": "LeftPinky3",
+    "parent": "LeftPinky2"
+   },
+   {
+    "name": "LeftRing1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftRing2",
+    "parent": "LeftRing1"
+   },
+   {
+    "name": "LeftRing3",
+    "parent": "LeftRing2"
+   },
+   {
+    "name": "LeftThumb0",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftThumb1",
+    "parent": "LeftThumb0"
+   },
+   {
+    "name": "LeftThumb2",
+    "parent": "LeftThumb1"
+   },
+   {
+    "name": "RightShoulder",
+    "parent": "Spine1"
+   },
+   {
+    "name": "RightArm",
+    "parent": "RightShoulder"
+   },
+   {
+    "name": "RightArmTwist",
+    "parent": "RightArm"
+   },
+   {
+    "name": "RightForeArm",
+    "parent": "RightArmTwist"
+   },
+   {
+    "name": "RightHandTwist",
+    "parent": "RightForeArm"
+   },
+   {
+    "name": "RightHand",
+    "parent": "RightHandTwist"
+   },
+   {
+    "name": "RightIndex1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightIndex2",
+    "parent": "RightIndex1"
+   },
+   {
+    "name": "RightIndex3",
+    "parent": "RightIndex2"
+   },
+   {
+    "name": "RightMiddle1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightMiddle2",
+    "parent": "RightMiddle1"
+   },
+   {
+    "name": "RightMiddle3",
+    "parent": "RightMiddle2"
+   },
+   {
+    "name": "RightPinky1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightPinky2",
+    "parent": "RightPinky1"
+   },
+   {
+    "name": "RightPinky3",
+    "parent": "RightPinky2"
+   },
+   {
+    "name": "RightRing1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightRing2",
+    "parent": "RightRing1"
+   },
+   {
+    "name": "RightRing3",
+    "parent": "RightRing2"
+   },
+   {
+    "name": "RightThumb0",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightThumb1",
+    "parent": "RightThumb0"
+   },
+   {
+    "name": "RightThumb2",
+    "parent": "RightThumb1"
+   },
+   {
+    "name": "musicplayer_1",
+    "parent": "Spine1"
+   },
+   {
+    "name": "musicplayer_2",
+    "parent": "musicplayer_1"
+   },
+   {
+    "name": "musicplayer_3",
+    "parent": "musicplayer_2"
+   },
+   {
+    "name": "earphone_left_1",
+    "parent": "Spine1"
+   },
+   {
+    "name": "earphone_left_2",
+    "parent": "earphone_left_1"
+   },
+   {
+    "name": "Left_neck_ribbon_01",
+    "parent": "Spine1"
+   },
+   {
+    "name": "Left_neck_ribbon_02",
+    "parent": "Left_neck_ribbon_01"
+   },
+   {
+    "name": "earphone_right_1",
+    "parent": "Spine1"
+   },
+   {
+    "name": "earphone_right_2",
+    "parent": "earphone_right_1"
+   },
+   {
+    "name": "Right_neck_ribbon_01",
+    "parent": "Spine1"
+   },
+   {
+    "name": "Right_neck_ribbon_02",
+    "parent": "Right_neck_ribbon_01"
+   },
+   {
+    "name": "0_1",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_1",
+    "parent": "0_1"
+   },
+   {
+    "name": "2_1",
+    "parent": "1_1"
+   },
+   {
+    "name": "3_1",
+    "parent": "2_1"
+   },
+   {
+    "name": "4_1",
+    "parent": "3_1"
+   },
+   {
+    "name": "5_1",
+    "parent": "4_1"
+   },
+   {
+    "name": "0_2",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_2",
+    "parent": "0_2"
+   },
+   {
+    "name": "2_2",
+    "parent": "1_2"
+   },
+   {
+    "name": "3_2",
+    "parent": "2_2"
+   },
+   {
+    "name": "4_2",
+    "parent": "3_2"
+   },
+   {
+    "name": "5_2",
+    "parent": "4_2"
+   },
+   {
+    "name": "0_3",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_3",
+    "parent": "0_3"
+   },
+   {
+    "name": "2_3",
+    "parent": "1_3"
+   },
+   {
+    "name": "3_3",
+    "parent": "2_3"
+   },
+   {
+    "name": "4_3",
+    "parent": "3_3"
+   },
+   {
+    "name": "5_3",
+    "parent": "4_3"
+   },
+   {
+    "name": "0_4",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_4",
+    "parent": "0_4"
+   },
+   {
+    "name": "2_4",
+    "parent": "1_4"
+   },
+   {
+    "name": "3_4",
+    "parent": "2_4"
+   },
+   {
+    "name": "4_4",
+    "parent": "3_4"
+   },
+   {
+    "name": "5_4",
+    "parent": "4_4"
+   },
+   {
+    "name": "0_5",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_5",
+    "parent": "0_5"
+   },
+   {
+    "name": "2_5",
+    "parent": "1_5"
+   },
+   {
+    "name": "3_5",
+    "parent": "2_5"
+   },
+   {
+    "name": "4_5",
+    "parent": "3_5"
+   },
+   {
+    "name": "5_5",
+    "parent": "4_5"
+   },
+   {
+    "name": "0_6",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_6",
+    "parent": "0_6"
+   },
+   {
+    "name": "2_6",
+    "parent": "1_6"
+   },
+   {
+    "name": "3_6",
+    "parent": "2_6"
+   },
+   {
+    "name": "4_6",
+    "parent": "3_6"
+   },
+   {
+    "name": "5_6",
+    "parent": "4_6"
+   },
+   {
+    "name": "0_7",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_7",
+    "parent": "0_7"
+   },
+   {
+    "name": "2_7",
+    "parent": "1_7"
+   },
+   {
+    "name": "3_7",
+    "parent": "2_7"
+   },
+   {
+    "name": "4_7",
+    "parent": "3_7"
+   },
+   {
+    "name": "5_7",
+    "parent": "4_7"
+   },
+   {
+    "name": "0_8",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_8",
+    "parent": "0_8"
+   },
+   {
+    "name": "2_8",
+    "parent": "1_8"
+   },
+   {
+    "name": "3_8",
+    "parent": "2_8"
+   },
+   {
+    "name": "4_8",
+    "parent": "3_8"
+   },
+   {
+    "name": "5_8",
+    "parent": "4_8"
+   },
+   {
+    "name": "0_9",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_9",
+    "parent": "0_9"
+   },
+   {
+    "name": "2_9",
+    "parent": "1_9"
+   },
+   {
+    "name": "3_9",
+    "parent": "2_9"
+   },
+   {
+    "name": "4_9",
+    "parent": "3_9"
+   },
+   {
+    "name": "5_9",
+    "parent": "4_9"
+   },
+   {
+    "name": "0_10",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_10",
+    "parent": "0_10"
+   },
+   {
+    "name": "2_10",
+    "parent": "1_10"
+   },
+   {
+    "name": "3_10",
+    "parent": "2_10"
+   },
+   {
+    "name": "4_10",
+    "parent": "3_10"
+   },
+   {
+    "name": "5_10",
+    "parent": "4_10"
+   },
+   {
+    "name": "LowerBody",
+    "parent": "Bone"
+   },
+   {
+    "name": "gunholder_left_01",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "Left_Bone_2",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "LeftUpLeg",
+    "parent": "Left_Bone_2"
+   },
+   {
+    "name": "LeftLeg",
+    "parent": "LeftUpLeg"
+   },
+   {
+    "name": "LeftFoot",
+    "parent": "LeftLeg"
+   },
+   {
+    "name": "LeftToeBase",
+    "parent": "LeftFoot"
+   },
+   {
+    "name": "LeftUpLegEX",
+    "parent": "LeftFoot"
+   },
+   {
+    "name": "Right_Bone_2",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "RightUpLeg",
+    "parent": "Right_Bone_2"
+   },
+   {
+    "name": "RightLeg",
+    "parent": "RightUpLeg"
+   },
+   {
+    "name": "RightFoot",
+    "parent": "RightLeg"
+   },
+   {
+    "name": "RightToeBase",
+    "parent": "RightFoot"
+   },
+   {
+    "name": "RightUpLegEX",
+    "parent": "RightFoot"
+   },
+   {
+    "name": "Left_dummy_1",
+    "parent": "Bone"
+   },
+   {
+    "name": "Right_dummy_1",
+    "parent": "Bone"
+   },
+   {
+    "name": "Left_shadow_1",
+    "parent": "Groove"
+   },
+   {
+    "name": "Right_shadow_1",
+    "parent": "Groove"
+   },
+   {
+    "name": "LeftUpLegIK",
+    "parent": "Root"
+   },
+   {
+    "name": "RightUpLegIK",
+    "parent": "Root"
+   }
+  ],
+  "mesh_count": 1
+ },
+ "CH_Huang": {
+  "fbx": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_fbx2\\CH_Huang.fbx",
+  "size_mb": 1.39,
+  "bone_count": 176,
+  "renames": {
+   "全ての親": "Root",
+   "センター": "Center",
+   "グルーブ": "Groove",
+   "腰": "Bone",
+   "上半身": "Spine",
+   "上半身2": "Spine1",
+   "首": "Neck",
+   "頭": "Head",
+   "head eyebrow 1.R": "Right_head_eyebrow_1",
+   "head eyebrow 2.R": "Right_head_eyebrow_2",
+   "head eyebrow 1.L": "Left_head_eyebrow_1",
+   "head eyebrow 2.L": "Left_head_eyebrow_2",
+   "head eyelid right both": "head_eyelid_right_both",
+   "head eyelid upper.R": "Right_head_eyelid_upper",
+   "head eyelid lower.R": "Right_head_eyelid_lower",
+   "head lip upper.R": "Right_head_lip_upper",
+   "head lip upper middle": "head_lip_upper_middle",
+   "head lip upper.L": "Left_head_lip_upper",
+   "head eyelid left both": "head_eyelid_left_both",
+   "head eyelid upper.L": "Left_head_eyelid_upper",
+   "head eyelid lower.L": "Left_head_eyelid_lower",
+   "head jaw": "head_jaw",
+   "head lip lower middle": "head_lip_lower_middle",
+   "head lip lower.R": "Right_head_lip_lower",
+   "head lip lower.L": "Left_head_lip_lower",
+   "舌１": "Bone_1",
+   "head mouth corner.R": "Right_head_mouth_corner",
+   "head mouth corner.L": "Left_head_mouth_corner",
+   "hair 1 middle back": "hair_1_middle_back",
+   "hair 1 middle front": "hair_1_middle_front",
+   "hair 1 left front": "hair_1_left_front",
+   "hair 1 left side": "hair_1_left_side",
+   "hair 1 right front": "hair_1_right_front",
+   "hair 1 right side": "hair_1_right_side",
+   "両目": "Eyes",
+   "_dummy_目.R": "Right_dummy",
+   "_dummy_目.L": "Left_dummy",
+   "目.R": "Right_Bone",
+   "目戻.R": "Right_Bone_1",
+   "目.L": "Left_Bone",
+   "目戻.L": "Left_Bone_1",
+   "_shadow_目.R": "Right_shadow",
+   "_shadow_目.L": "Left_shadow",
+   "肩.L": "LeftShoulder",
+   "腕.L": "LeftArm",
+   "腕捩.L": "LeftArmTwist",
+   "ひじ.L": "LeftForeArm",
+   "手捩.L": "LeftHandTwist",
+   "手首.L": "LeftHand",
+   "人指１.L": "LeftIndex1",
+   "人指２.L": "LeftIndex2",
+   "人指３.L": "LeftIndex3",
+   "中指１.L": "LeftMiddle1",
+   "中指２.L": "LeftMiddle2",
+   "中指３.L": "LeftMiddle3",
+   "小指１.L": "LeftPinky1",
+   "小指２.L": "LeftPinky2",
+   "小指３.L": "LeftPinky3",
+   "薬指１.L": "LeftRing1",
+   "薬指２.L": "LeftRing2",
+   "薬指３.L": "LeftRing3",
+   "親指０.L": "LeftThumb0",
+   "親指１.L": "LeftThumb1",
+   "親指２.L": "LeftThumb2",
+   "肩.R": "RightShoulder",
+   "腕.R": "RightArm",
+   "腕捩.R": "RightArmTwist",
+   "ひじ.R": "RightForeArm",
+   "手捩.R": "RightHandTwist",
+   "手首.R": "RightHand",
+   "人指１.R": "RightIndex1",
+   "人指２.R": "RightIndex2",
+   "人指３.R": "RightIndex3",
+   "中指１.R": "RightMiddle1",
+   "中指２.R": "RightMiddle2",
+   "中指３.R": "RightMiddle3",
+   "小指１.R": "RightPinky1",
+   "小指２.R": "RightPinky2",
+   "小指３.R": "RightPinky3",
+   "薬指１.R": "RightRing1",
+   "薬指２.R": "RightRing2",
+   "薬指３.R": "RightRing3",
+   "親指０.R": "RightThumb0",
+   "親指１.R": "RightThumb1",
+   "親指２.R": "RightThumb2",
+   "スカート_0_0": "0_0",
+   "スカート_1_0": "1_0",
+   "スカート_2_0": "2_0",
+   "スカート_3_0": "3_0",
+   "スカート_4_0": "4_0",
+   "スカート_5_0": "5_0",
+   "スカート_0_1": "0_1",
+   "スカート_1_1": "1_1",
+   "スカート_2_1": "2_1",
+   "スカート_3_1": "3_1",
+   "スカート_4_1": "4_1",
+   "スカート_5_1": "5_1",
+   "スカート_0_2": "0_2",
+   "スカート_1_2": "1_2",
+   "スカート_2_2": "2_2",
+   "スカート_3_2": "3_2",
+   "スカート_4_2": "4_2",
+   "スカート_5_2": "5_2",
+   "スカート_0_3": "0_3",
+   "スカート_1_3": "1_3",
+   "スカート_2_3": "2_3",
+   "スカート_3_3": "3_3",
+   "スカート_4_3": "4_3",
+   "スカート_5_3": "5_3",
+   "スカート_0_4": "0_4",
+   "スカート_1_4": "1_4",
+   "スカート_2_4": "2_4",
+   "スカート_3_4": "3_4",
+   "スカート_4_4": "4_4",
+   "スカート_5_4": "5_4",
+   "スカート_0_5": "0_5",
+   "スカート_1_5": "1_5",
+   "スカート_2_5": "2_5",
+   "スカート_3_5": "3_5",
+   "スカート_4_5": "4_5",
+   "スカート_5_5": "5_5",
+   "スカート_0_6": "0_6",
+   "スカート_1_6": "1_6",
+   "スカート_2_6": "2_6",
+   "スカート_3_6": "3_6",
+   "スカート_4_6": "4_6",
+   "スカート_5_6": "5_6",
+   "スカート_0_7": "0_7",
+   "スカート_1_7": "1_7",
+   "スカート_2_7": "2_7",
+   "スカート_3_7": "3_7",
+   "スカート_4_7": "4_7",
+   "スカート_5_7": "5_7",
+   "スカート_0_8": "0_8",
+   "スカート_1_8": "1_8",
+   "スカート_2_8": "2_8",
+   "スカート_3_8": "3_8",
+   "スカート_4_8": "4_8",
+   "スカート_5_8": "5_8",
+   "スカート_0_9": "0_9",
+   "スカート_1_9": "1_9",
+   "スカート_2_9": "2_9",
+   "スカート_3_9": "3_9",
+   "スカート_4_9": "4_9",
+   "スカート_5_9": "5_9",
+   "スカート_0_10": "0_10",
+   "スカート_1_10": "1_10",
+   "スカート_2_10": "2_10",
+   "スカート_3_10": "3_10",
+   "スカート_4_10": "4_10",
+   "スカート_5_10": "5_10",
+   "スカート_0_11": "0_11",
+   "スカート_1_11": "1_11",
+   "スカート_2_11": "2_11",
+   "スカート_3_11": "3_11",
+   "スカート_4_11": "4_11",
+   "スカート_5_11": "5_11",
+   "下半身": "LowerBody",
+   "腰キャンセル.L": "Left_Bone_2",
+   "足.L": "LeftUpLeg",
+   "ひざ.L": "LeftLeg",
+   "足首.L": "LeftFoot",
+   "足先EX.L": "LeftUpLegEX",
+   "つま先.L": "LeftToeBase",
+   "腰キャンセル.R": "Right_Bone_2",
+   "足.R": "RightUpLeg",
+   "ひざ.R": "RightLeg",
+   "足首.R": "RightFoot",
+   "足先EX.R": "RightUpLegEX",
+   "つま先.R": "RightToeBase",
+   "_dummy_腰キャンセル.L": "Left_dummy_1",
+   "_dummy_腰キャンセル.R": "Right_dummy_1",
+   "_shadow_腰キャンセル.L": "Left_shadow_1",
+   "_shadow_腰キャンセル.R": "Right_shadow_1",
+   "足IK親.L": "LeftUpLegIK",
+   "足IK親.R": "RightUpLegIK"
+  },
+  "bones": [
+   {
+    "name": "Root",
+    "parent": null
+   },
+   {
+    "name": "Center",
+    "parent": "Root"
+   },
+   {
+    "name": "Groove",
+    "parent": "Center"
+   },
+   {
+    "name": "Bone",
+    "parent": "Groove"
+   },
+   {
+    "name": "Spine",
+    "parent": "Bone"
+   },
+   {
+    "name": "Spine1",
+    "parent": "Spine"
+   },
+   {
+    "name": "Neck",
+    "parent": "Spine1"
+   },
+   {
+    "name": "Head",
+    "parent": "Neck"
+   },
+   {
+    "name": "Right_head_eyebrow_1",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_head_eyebrow_2",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_eyebrow_1",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_eyebrow_2",
+    "parent": "Head"
+   },
+   {
+    "name": "head_eyelid_right_both",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_head_eyelid_upper",
+    "parent": "head_eyelid_right_both"
+   },
+   {
+    "name": "Right_head_eyelid_lower",
+    "parent": "head_eyelid_right_both"
+   },
+   {
+    "name": "Right_head_lip_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "head_lip_upper_middle",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_lip_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "head_eyelid_left_both",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_eyelid_upper",
+    "parent": "head_eyelid_left_both"
+   },
+   {
+    "name": "Left_head_eyelid_lower",
+    "parent": "head_eyelid_left_both"
+   },
+   {
+    "name": "head_jaw",
+    "parent": "Head"
+   },
+   {
+    "name": "head_lip_lower_middle",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Right_head_lip_lower",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Left_head_lip_lower",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Bone_1",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Right_head_mouth_corner",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_head_mouth_corner",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_middle_back",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_middle_front",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_left_front",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_left_side",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_right_front",
+    "parent": "Head"
+   },
+   {
+    "name": "hair_1_right_side",
+    "parent": "Head"
+   },
+   {
+    "name": "Eyes",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_dummy",
+    "parent": "Eyes"
+   },
+   {
+    "name": "Left_dummy",
+    "parent": "Eyes"
+   },
+   {
+    "name": "Right_Bone",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_Bone_1",
+    "parent": "Right_Bone"
+   },
+   {
+    "name": "Left_Bone",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_Bone_1",
+    "parent": "Left_Bone"
+   },
+   {
+    "name": "Right_shadow",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_shadow",
+    "parent": "Head"
+   },
+   {
+    "name": "LeftShoulder",
+    "parent": "Spine1"
+   },
+   {
+    "name": "LeftArm",
+    "parent": "LeftShoulder"
+   },
+   {
+    "name": "LeftArmTwist",
+    "parent": "LeftArm"
+   },
+   {
+    "name": "LeftForeArm",
+    "parent": "LeftArmTwist"
+   },
+   {
+    "name": "LeftHandTwist",
+    "parent": "LeftForeArm"
+   },
+   {
+    "name": "LeftHand",
+    "parent": "LeftHandTwist"
+   },
+   {
+    "name": "LeftIndex1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftIndex2",
+    "parent": "LeftIndex1"
+   },
+   {
+    "name": "LeftIndex3",
+    "parent": "LeftIndex2"
+   },
+   {
+    "name": "LeftMiddle1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftMiddle2",
+    "parent": "LeftMiddle1"
+   },
+   {
+    "name": "LeftMiddle3",
+    "parent": "LeftMiddle2"
+   },
+   {
+    "name": "LeftPinky1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftPinky2",
+    "parent": "LeftPinky1"
+   },
+   {
+    "name": "LeftPinky3",
+    "parent": "LeftPinky2"
+   },
+   {
+    "name": "LeftRing1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftRing2",
+    "parent": "LeftRing1"
+   },
+   {
+    "name": "LeftRing3",
+    "parent": "LeftRing2"
+   },
+   {
+    "name": "LeftThumb0",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftThumb1",
+    "parent": "LeftThumb0"
+   },
+   {
+    "name": "LeftThumb2",
+    "parent": "LeftThumb1"
+   },
+   {
+    "name": "RightShoulder",
+    "parent": "Spine1"
+   },
+   {
+    "name": "RightArm",
+    "parent": "RightShoulder"
+   },
+   {
+    "name": "RightArmTwist",
+    "parent": "RightArm"
+   },
+   {
+    "name": "RightForeArm",
+    "parent": "RightArmTwist"
+   },
+   {
+    "name": "RightHandTwist",
+    "parent": "RightForeArm"
+   },
+   {
+    "name": "RightHand",
+    "parent": "RightHandTwist"
+   },
+   {
+    "name": "RightIndex1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightIndex2",
+    "parent": "RightIndex1"
+   },
+   {
+    "name": "RightIndex3",
+    "parent": "RightIndex2"
+   },
+   {
+    "name": "RightMiddle1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightMiddle2",
+    "parent": "RightMiddle1"
+   },
+   {
+    "name": "RightMiddle3",
+    "parent": "RightMiddle2"
+   },
+   {
+    "name": "RightPinky1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightPinky2",
+    "parent": "RightPinky1"
+   },
+   {
+    "name": "RightPinky3",
+    "parent": "RightPinky2"
+   },
+   {
+    "name": "RightRing1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightRing2",
+    "parent": "RightRing1"
+   },
+   {
+    "name": "RightRing3",
+    "parent": "RightRing2"
+   },
+   {
+    "name": "RightThumb0",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightThumb1",
+    "parent": "RightThumb0"
+   },
+   {
+    "name": "RightThumb2",
+    "parent": "RightThumb1"
+   },
+   {
+    "name": "0_0",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_0",
+    "parent": "0_0"
+   },
+   {
+    "name": "2_0",
+    "parent": "1_0"
+   },
+   {
+    "name": "3_0",
+    "parent": "2_0"
+   },
+   {
+    "name": "4_0",
+    "parent": "3_0"
+   },
+   {
+    "name": "5_0",
+    "parent": "4_0"
+   },
+   {
+    "name": "0_1",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_1",
+    "parent": "0_1"
+   },
+   {
+    "name": "2_1",
+    "parent": "1_1"
+   },
+   {
+    "name": "3_1",
+    "parent": "2_1"
+   },
+   {
+    "name": "4_1",
+    "parent": "3_1"
+   },
+   {
+    "name": "5_1",
+    "parent": "4_1"
+   },
+   {
+    "name": "0_2",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_2",
+    "parent": "0_2"
+   },
+   {
+    "name": "2_2",
+    "parent": "1_2"
+   },
+   {
+    "name": "3_2",
+    "parent": "2_2"
+   },
+   {
+    "name": "4_2",
+    "parent": "3_2"
+   },
+   {
+    "name": "5_2",
+    "parent": "4_2"
+   },
+   {
+    "name": "0_3",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_3",
+    "parent": "0_3"
+   },
+   {
+    "name": "2_3",
+    "parent": "1_3"
+   },
+   {
+    "name": "3_3",
+    "parent": "2_3"
+   },
+   {
+    "name": "4_3",
+    "parent": "3_3"
+   },
+   {
+    "name": "5_3",
+    "parent": "4_3"
+   },
+   {
+    "name": "0_4",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_4",
+    "parent": "0_4"
+   },
+   {
+    "name": "2_4",
+    "parent": "1_4"
+   },
+   {
+    "name": "3_4",
+    "parent": "2_4"
+   },
+   {
+    "name": "4_4",
+    "parent": "3_4"
+   },
+   {
+    "name": "5_4",
+    "parent": "4_4"
+   },
+   {
+    "name": "0_5",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_5",
+    "parent": "0_5"
+   },
+   {
+    "name": "2_5",
+    "parent": "1_5"
+   },
+   {
+    "name": "3_5",
+    "parent": "2_5"
+   },
+   {
+    "name": "4_5",
+    "parent": "3_5"
+   },
+   {
+    "name": "5_5",
+    "parent": "4_5"
+   },
+   {
+    "name": "0_6",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_6",
+    "parent": "0_6"
+   },
+   {
+    "name": "2_6",
+    "parent": "1_6"
+   },
+   {
+    "name": "3_6",
+    "parent": "2_6"
+   },
+   {
+    "name": "4_6",
+    "parent": "3_6"
+   },
+   {
+    "name": "5_6",
+    "parent": "4_6"
+   },
+   {
+    "name": "0_7",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_7",
+    "parent": "0_7"
+   },
+   {
+    "name": "2_7",
+    "parent": "1_7"
+   },
+   {
+    "name": "3_7",
+    "parent": "2_7"
+   },
+   {
+    "name": "4_7",
+    "parent": "3_7"
+   },
+   {
+    "name": "5_7",
+    "parent": "4_7"
+   },
+   {
+    "name": "0_8",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_8",
+    "parent": "0_8"
+   },
+   {
+    "name": "2_8",
+    "parent": "1_8"
+   },
+   {
+    "name": "3_8",
+    "parent": "2_8"
+   },
+   {
+    "name": "4_8",
+    "parent": "3_8"
+   },
+   {
+    "name": "5_8",
+    "parent": "4_8"
+   },
+   {
+    "name": "0_9",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_9",
+    "parent": "0_9"
+   },
+   {
+    "name": "2_9",
+    "parent": "1_9"
+   },
+   {
+    "name": "3_9",
+    "parent": "2_9"
+   },
+   {
+    "name": "4_9",
+    "parent": "3_9"
+   },
+   {
+    "name": "5_9",
+    "parent": "4_9"
+   },
+   {
+    "name": "0_10",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_10",
+    "parent": "0_10"
+   },
+   {
+    "name": "2_10",
+    "parent": "1_10"
+   },
+   {
+    "name": "3_10",
+    "parent": "2_10"
+   },
+   {
+    "name": "4_10",
+    "parent": "3_10"
+   },
+   {
+    "name": "5_10",
+    "parent": "4_10"
+   },
+   {
+    "name": "0_11",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_11",
+    "parent": "0_11"
+   },
+   {
+    "name": "2_11",
+    "parent": "1_11"
+   },
+   {
+    "name": "3_11",
+    "parent": "2_11"
+   },
+   {
+    "name": "4_11",
+    "parent": "3_11"
+   },
+   {
+    "name": "5_11",
+    "parent": "4_11"
+   },
+   {
+    "name": "LowerBody",
+    "parent": "Bone"
+   },
+   {
+    "name": "Left_Bone_2",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "LeftUpLeg",
+    "parent": "Left_Bone_2"
+   },
+   {
+    "name": "LeftLeg",
+    "parent": "LeftUpLeg"
+   },
+   {
+    "name": "LeftFoot",
+    "parent": "LeftLeg"
+   },
+   {
+    "name": "LeftUpLegEX",
+    "parent": "LeftFoot"
+   },
+   {
+    "name": "LeftToeBase",
+    "parent": "LeftFoot"
+   },
+   {
+    "name": "Right_Bone_2",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "RightUpLeg",
+    "parent": "Right_Bone_2"
+   },
+   {
+    "name": "RightLeg",
+    "parent": "RightUpLeg"
+   },
+   {
+    "name": "RightFoot",
+    "parent": "RightLeg"
+   },
+   {
+    "name": "RightUpLegEX",
+    "parent": "RightFoot"
+   },
+   {
+    "name": "RightToeBase",
+    "parent": "RightFoot"
+   },
+   {
+    "name": "Left_dummy_1",
+    "parent": "Bone"
+   },
+   {
+    "name": "Right_dummy_1",
+    "parent": "Bone"
+   },
+   {
+    "name": "Left_shadow_1",
+    "parent": "Groove"
+   },
+   {
+    "name": "Right_shadow_1",
+    "parent": "Groove"
+   },
+   {
+    "name": "LeftUpLegIK",
+    "parent": "Root"
+   },
+   {
+    "name": "RightUpLegIK",
+    "parent": "Root"
+   }
+  ],
+  "mesh_count": 1
+ },
+ "CH_Shiye": {
+  "fbx": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_fbx2\\CH_Shiye.fbx",
+  "size_mb": 1.03,
+  "bone_count": 156,
+  "renames": {
+   "全ての親": "Root",
+   "センター": "Center",
+   "グルーブ": "Groove",
+   "腰": "Bone",
+   "上半身": "Spine",
+   "上半身2": "Spine1",
+   "首": "Neck",
+   "頭": "Head",
+   "eyebrow1.R": "Right_eyebrow1",
+   "eyebrow2.R": "Right_eyebrow2",
+   "eyebrow1.L": "Left_eyebrow1",
+   "eyebrow2.L": "Left_eyebrow2",
+   "eyelid upper.R": "Right_eyelid_upper",
+   "eyelid lower.R": "Right_eyelid_lower",
+   "lip upper.R": "Right_lip_upper",
+   "head lip upper middle": "head_lip_upper_middle",
+   "lip upper.L": "Left_lip_upper",
+   "eyelid upper.L": "Left_eyelid_upper",
+   "eyelid lower.L": "Left_eyelid_lower",
+   "head jaw": "head_jaw",
+   "head lip lower middle": "head_lip_lower_middle",
+   "lip lower.R": "Right_lip_lower",
+   "lip lower.L": "Left_lip_lower",
+   "舌１": "Bone_1",
+   "mouth corner.R": "Right_mouth_corner",
+   "mouth corner.L": "Left_mouth_corner",
+   "hat": "hat",
+   "両目": "Eyes",
+   "_dummy_目.R": "Right_dummy",
+   "_dummy_目.L": "Left_dummy",
+   "目.R": "Right_Bone",
+   "目戻.R": "Right_Bone_1",
+   "目.L": "Left_Bone",
+   "目戻.L": "Left_Bone_1",
+   "_shadow_目.R": "Right_shadow",
+   "_shadow_目.L": "Left_shadow",
+   "肩.L": "LeftShoulder",
+   "腕.L": "LeftArm",
+   "腕捩.L": "LeftArmTwist",
+   "ひじ.L": "LeftForeArm",
+   "手捩.L": "LeftHandTwist",
+   "手首.L": "LeftHand",
+   "人指１.L": "LeftIndex1",
+   "人指２.L": "LeftIndex2",
+   "人指３.L": "LeftIndex3",
+   "中指１.L": "LeftMiddle1",
+   "中指２.L": "LeftMiddle2",
+   "中指３.L": "LeftMiddle3",
+   "小指１.L": "LeftPinky1",
+   "小指２.L": "LeftPinky2",
+   "小指３.L": "LeftPinky3",
+   "薬指１.L": "LeftRing1",
+   "薬指２.L": "LeftRing2",
+   "薬指３.L": "LeftRing3",
+   "親指０.L": "LeftThumb0",
+   "親指１.L": "LeftThumb1",
+   "親指２.L": "LeftThumb2",
+   "肩.R": "RightShoulder",
+   "腕.R": "RightArm",
+   "腕捩.R": "RightArmTwist",
+   "ひじ.R": "RightForeArm",
+   "手捩.R": "RightHandTwist",
+   "手首.R": "RightHand",
+   "人指１.R": "RightIndex1",
+   "人指２.R": "RightIndex2",
+   "人指３.R": "RightIndex3",
+   "中指１.R": "RightMiddle1",
+   "中指２.R": "RightMiddle2",
+   "中指３.R": "RightMiddle3",
+   "小指１.R": "RightPinky1",
+   "小指２.R": "RightPinky2",
+   "小指３.R": "RightPinky3",
+   "薬指１.R": "RightRing1",
+   "薬指２.R": "RightRing2",
+   "薬指３.R": "RightRing3",
+   "親指０.R": "RightThumb0",
+   "親指１.R": "RightThumb1",
+   "親指２.R": "RightThumb2",
+   "necklace 1": "necklace_1",
+   "necklace 2": "necklace_2",
+   "gunholder left 01": "gunholder_left_01",
+   "スカート_0_1": "0_1",
+   "スカート_1_1": "1_1",
+   "スカート_2_1": "2_1",
+   "スカート_3_1": "3_1",
+   "スカート_4_1": "4_1",
+   "スカート_0_2": "0_2",
+   "スカート_1_2": "1_2",
+   "スカート_2_2": "2_2",
+   "スカート_3_2": "3_2",
+   "スカート_4_2": "4_2",
+   "スカート_0_3": "0_3",
+   "スカート_1_3": "1_3",
+   "スカート_2_3": "2_3",
+   "スカート_3_3": "3_3",
+   "スカート_4_3": "4_3",
+   "スカート_0_4": "0_4",
+   "スカート_1_4": "1_4",
+   "スカート_2_4": "2_4",
+   "スカート_3_4": "3_4",
+   "スカート_4_4": "4_4",
+   "スカート_0_5": "0_5",
+   "スカート_1_5": "1_5",
+   "スカート_2_5": "2_5",
+   "スカート_3_5": "3_5",
+   "スカート_4_5": "4_5",
+   "スカート_0_6": "0_6",
+   "スカート_1_6": "1_6",
+   "スカート_2_6": "2_6",
+   "スカート_3_6": "3_6",
+   "スカート_4_6": "4_6",
+   "スカート_0_7": "0_7",
+   "スカート_1_7": "1_7",
+   "スカート_2_7": "2_7",
+   "スカート_3_7": "3_7",
+   "スカート_4_7": "4_7",
+   "スカート_0_8": "0_8",
+   "スカート_1_8": "1_8",
+   "スカート_2_8": "2_8",
+   "スカート_3_8": "3_8",
+   "スカート_4_8": "4_8",
+   "スカート_0_9": "0_9",
+   "スカート_1_9": "1_9",
+   "スカート_2_9": "2_9",
+   "スカート_3_9": "3_9",
+   "スカート_4_9": "4_9",
+   "スカート_0_10": "0_10",
+   "スカート_1_10": "1_10",
+   "スカート_2_10": "2_10",
+   "スカート_3_10": "3_10",
+   "スカート_4_10": "4_10",
+   "下半身": "LowerBody",
+   "hip chain 1": "hip_chain_1",
+   "hip chain 2": "hip_chain_2",
+   "hip chain 3": "hip_chain_3",
+   "hip chain 4": "hip_chain_4",
+   "hip chain 5": "hip_chain_5",
+   "hip chain end": "hip_chain_end",
+   "腰キャンセル.L": "Left_Bone_2",
+   "足.L": "LeftUpLeg",
+   "ひざ.L": "LeftLeg",
+   "足首.L": "LeftFoot",
+   "足先EX.L": "LeftUpLegEX",
+   "つま先.L": "LeftToeBase",
+   "腰キャンセル.R": "Right_Bone_2",
+   "足.R": "RightUpLeg",
+   "ひざ.R": "RightLeg",
+   "足首.R": "RightFoot",
+   "足先EX.R": "RightUpLegEX",
+   "つま先.R": "RightToeBase",
+   "_dummy_腰キャンセル.L": "Left_dummy_1",
+   "_dummy_腰キャンセル.R": "Right_dummy_1",
+   "_shadow_腰キャンセル.L": "Left_shadow_1",
+   "_shadow_腰キャンセル.R": "Right_shadow_1",
+   "足IK親.L": "LeftUpLegIK",
+   "足IK親.R": "RightUpLegIK"
+  },
+  "bones": [
+   {
+    "name": "Root",
+    "parent": null
+   },
+   {
+    "name": "Center",
+    "parent": "Root"
+   },
+   {
+    "name": "Groove",
+    "parent": "Center"
+   },
+   {
+    "name": "Bone",
+    "parent": "Groove"
+   },
+   {
+    "name": "Spine",
+    "parent": "Bone"
+   },
+   {
+    "name": "Spine1",
+    "parent": "Spine"
+   },
+   {
+    "name": "Neck",
+    "parent": "Spine1"
+   },
+   {
+    "name": "Head",
+    "parent": "Neck"
+   },
+   {
+    "name": "Right_eyebrow1",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_eyebrow2",
+    "parent": "Right_eyebrow1"
+   },
+   {
+    "name": "Left_eyebrow1",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_eyebrow2",
+    "parent": "Left_eyebrow1"
+   },
+   {
+    "name": "Right_eyelid_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_eyelid_lower",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_lip_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "head_lip_upper_middle",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_lip_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_eyelid_upper",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_eyelid_lower",
+    "parent": "Head"
+   },
+   {
+    "name": "head_jaw",
+    "parent": "Head"
+   },
+   {
+    "name": "head_lip_lower_middle",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Right_lip_lower",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Left_lip_lower",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Bone_1",
+    "parent": "head_jaw"
+   },
+   {
+    "name": "Right_mouth_corner",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_mouth_corner",
+    "parent": "Head"
+   },
+   {
+    "name": "hat",
+    "parent": "Head"
+   },
+   {
+    "name": "Eyes",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_dummy",
+    "parent": "Eyes"
+   },
+   {
+    "name": "Left_dummy",
+    "parent": "Eyes"
+   },
+   {
+    "name": "Right_Bone",
+    "parent": "Head"
+   },
+   {
+    "name": "Right_Bone_1",
+    "parent": "Right_Bone"
+   },
+   {
+    "name": "Left_Bone",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_Bone_1",
+    "parent": "Left_Bone"
+   },
+   {
+    "name": "Right_shadow",
+    "parent": "Head"
+   },
+   {
+    "name": "Left_shadow",
+    "parent": "Head"
+   },
+   {
+    "name": "LeftShoulder",
+    "parent": "Spine1"
+   },
+   {
+    "name": "LeftArm",
+    "parent": "LeftShoulder"
+   },
+   {
+    "name": "LeftArmTwist",
+    "parent": "LeftArm"
+   },
+   {
+    "name": "LeftForeArm",
+    "parent": "LeftArmTwist"
+   },
+   {
+    "name": "LeftHandTwist",
+    "parent": "LeftForeArm"
+   },
+   {
+    "name": "LeftHand",
+    "parent": "LeftHandTwist"
+   },
+   {
+    "name": "LeftIndex1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftIndex2",
+    "parent": "LeftIndex1"
+   },
+   {
+    "name": "LeftIndex3",
+    "parent": "LeftIndex2"
+   },
+   {
+    "name": "LeftMiddle1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftMiddle2",
+    "parent": "LeftMiddle1"
+   },
+   {
+    "name": "LeftMiddle3",
+    "parent": "LeftMiddle2"
+   },
+   {
+    "name": "LeftPinky1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftPinky2",
+    "parent": "LeftPinky1"
+   },
+   {
+    "name": "LeftPinky3",
+    "parent": "LeftPinky2"
+   },
+   {
+    "name": "LeftRing1",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftRing2",
+    "parent": "LeftRing1"
+   },
+   {
+    "name": "LeftRing3",
+    "parent": "LeftRing2"
+   },
+   {
+    "name": "LeftThumb0",
+    "parent": "LeftHand"
+   },
+   {
+    "name": "LeftThumb1",
+    "parent": "LeftThumb0"
+   },
+   {
+    "name": "LeftThumb2",
+    "parent": "LeftThumb1"
+   },
+   {
+    "name": "RightShoulder",
+    "parent": "Spine1"
+   },
+   {
+    "name": "RightArm",
+    "parent": "RightShoulder"
+   },
+   {
+    "name": "RightArmTwist",
+    "parent": "RightArm"
+   },
+   {
+    "name": "RightForeArm",
+    "parent": "RightArmTwist"
+   },
+   {
+    "name": "RightHandTwist",
+    "parent": "RightForeArm"
+   },
+   {
+    "name": "RightHand",
+    "parent": "RightHandTwist"
+   },
+   {
+    "name": "RightIndex1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightIndex2",
+    "parent": "RightIndex1"
+   },
+   {
+    "name": "RightIndex3",
+    "parent": "RightIndex2"
+   },
+   {
+    "name": "RightMiddle1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightMiddle2",
+    "parent": "RightMiddle1"
+   },
+   {
+    "name": "RightMiddle3",
+    "parent": "RightMiddle2"
+   },
+   {
+    "name": "RightPinky1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightPinky2",
+    "parent": "RightPinky1"
+   },
+   {
+    "name": "RightPinky3",
+    "parent": "RightPinky2"
+   },
+   {
+    "name": "RightRing1",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightRing2",
+    "parent": "RightRing1"
+   },
+   {
+    "name": "RightRing3",
+    "parent": "RightRing2"
+   },
+   {
+    "name": "RightThumb0",
+    "parent": "RightHand"
+   },
+   {
+    "name": "RightThumb1",
+    "parent": "RightThumb0"
+   },
+   {
+    "name": "RightThumb2",
+    "parent": "RightThumb1"
+   },
+   {
+    "name": "necklace_1",
+    "parent": "Spine1"
+   },
+   {
+    "name": "necklace_2",
+    "parent": "necklace_1"
+   },
+   {
+    "name": "gunholder_left_01",
+    "parent": "Spine1"
+   },
+   {
+    "name": "0_1",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_1",
+    "parent": "0_1"
+   },
+   {
+    "name": "2_1",
+    "parent": "1_1"
+   },
+   {
+    "name": "3_1",
+    "parent": "2_1"
+   },
+   {
+    "name": "4_1",
+    "parent": "3_1"
+   },
+   {
+    "name": "0_2",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_2",
+    "parent": "0_2"
+   },
+   {
+    "name": "2_2",
+    "parent": "1_2"
+   },
+   {
+    "name": "3_2",
+    "parent": "2_2"
+   },
+   {
+    "name": "4_2",
+    "parent": "3_2"
+   },
+   {
+    "name": "0_3",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_3",
+    "parent": "0_3"
+   },
+   {
+    "name": "2_3",
+    "parent": "1_3"
+   },
+   {
+    "name": "3_3",
+    "parent": "2_3"
+   },
+   {
+    "name": "4_3",
+    "parent": "3_3"
+   },
+   {
+    "name": "0_4",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_4",
+    "parent": "0_4"
+   },
+   {
+    "name": "2_4",
+    "parent": "1_4"
+   },
+   {
+    "name": "3_4",
+    "parent": "2_4"
+   },
+   {
+    "name": "4_4",
+    "parent": "3_4"
+   },
+   {
+    "name": "0_5",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_5",
+    "parent": "0_5"
+   },
+   {
+    "name": "2_5",
+    "parent": "1_5"
+   },
+   {
+    "name": "3_5",
+    "parent": "2_5"
+   },
+   {
+    "name": "4_5",
+    "parent": "3_5"
+   },
+   {
+    "name": "0_6",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_6",
+    "parent": "0_6"
+   },
+   {
+    "name": "2_6",
+    "parent": "1_6"
+   },
+   {
+    "name": "3_6",
+    "parent": "2_6"
+   },
+   {
+    "name": "4_6",
+    "parent": "3_6"
+   },
+   {
+    "name": "0_7",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_7",
+    "parent": "0_7"
+   },
+   {
+    "name": "2_7",
+    "parent": "1_7"
+   },
+   {
+    "name": "3_7",
+    "parent": "2_7"
+   },
+   {
+    "name": "4_7",
+    "parent": "3_7"
+   },
+   {
+    "name": "0_8",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_8",
+    "parent": "0_8"
+   },
+   {
+    "name": "2_8",
+    "parent": "1_8"
+   },
+   {
+    "name": "3_8",
+    "parent": "2_8"
+   },
+   {
+    "name": "4_8",
+    "parent": "3_8"
+   },
+   {
+    "name": "0_9",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_9",
+    "parent": "0_9"
+   },
+   {
+    "name": "2_9",
+    "parent": "1_9"
+   },
+   {
+    "name": "3_9",
+    "parent": "2_9"
+   },
+   {
+    "name": "4_9",
+    "parent": "3_9"
+   },
+   {
+    "name": "0_10",
+    "parent": "Spine"
+   },
+   {
+    "name": "1_10",
+    "parent": "0_10"
+   },
+   {
+    "name": "2_10",
+    "parent": "1_10"
+   },
+   {
+    "name": "3_10",
+    "parent": "2_10"
+   },
+   {
+    "name": "4_10",
+    "parent": "3_10"
+   },
+   {
+    "name": "LowerBody",
+    "parent": "Bone"
+   },
+   {
+    "name": "hip_chain_1",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "hip_chain_2",
+    "parent": "hip_chain_1"
+   },
+   {
+    "name": "hip_chain_3",
+    "parent": "hip_chain_2"
+   },
+   {
+    "name": "hip_chain_4",
+    "parent": "hip_chain_3"
+   },
+   {
+    "name": "hip_chain_5",
+    "parent": "hip_chain_4"
+   },
+   {
+    "name": "hip_chain_end",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "Left_Bone_2",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "LeftUpLeg",
+    "parent": "Left_Bone_2"
+   },
+   {
+    "name": "LeftLeg",
+    "parent": "LeftUpLeg"
+   },
+   {
+    "name": "LeftFoot",
+    "parent": "LeftLeg"
+   },
+   {
+    "name": "LeftUpLegEX",
+    "parent": "LeftFoot"
+   },
+   {
+    "name": "LeftToeBase",
+    "parent": "LeftFoot"
+   },
+   {
+    "name": "Right_Bone_2",
+    "parent": "LowerBody"
+   },
+   {
+    "name": "RightUpLeg",
+    "parent": "Right_Bone_2"
+   },
+   {
+    "name": "RightLeg",
+    "parent": "RightUpLeg"
+   },
+   {
+    "name": "RightFoot",
+    "parent": "RightLeg"
+   },
+   {
+    "name": "RightUpLegEX",
+    "parent": "RightFoot"
+   },
+   {
+    "name": "RightToeBase",
+    "parent": "RightFoot"
+   },
+   {
+    "name": "Left_dummy_1",
+    "parent": "Bone"
+   },
+   {
+    "name": "Right_dummy_1",
+    "parent": "Bone"
+   },
+   {
+    "name": "Left_shadow_1",
+    "parent": "Groove"
+   },
+   {
+    "name": "Right_shadow_1",
+    "parent": "Groove"
+   },
+   {
+    "name": "LeftUpLegIK",
+    "parent": "Root"
+   },
+   {
+    "name": "RightUpLegIK",
+    "parent": "Root"
+   }
+  ],
+  "mesh_count": 1
+ }
+}

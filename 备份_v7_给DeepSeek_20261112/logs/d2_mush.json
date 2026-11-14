@@ -1,0 +1,15 @@
+{
+ "step": "done",
+ "errors": [],
+ "hand": [
+  4.7,
+  89.7,
+  -100.6
+ ],
+ "A": "DM_A.0000.png",
+ "dm_node": [
+  "deltaMush1"
+ ],
+ "B": "DM_B.0000.png",
+ "ok": true
+}

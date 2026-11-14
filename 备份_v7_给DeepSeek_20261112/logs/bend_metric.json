@@ -1,0 +1,24 @@
+{
+ "OLD_Ma": {
+  "upper": "LeftArm",
+  "fore": "LeftForeArm",
+  "bones": 179,
+  "edges": 16902,
+  "max_stretch": 4.28,
+  "p99": 1.0,
+  "p95": 1.0,
+  "over_1_8": 0.06,
+  "under_0_4": 0.02
+ },
+ "NEW_Male": {
+  "upper": "Bip001LUpperArm",
+  "fore": "Bip001LForearm",
+  "bones": 242,
+  "edges": 71722,
+  "max_stretch": 79.59,
+  "p99": 1.14,
+  "p95": 1.0,
+  "over_1_8": 0.18,
+  "under_0_4": 0.03
+ }
+}

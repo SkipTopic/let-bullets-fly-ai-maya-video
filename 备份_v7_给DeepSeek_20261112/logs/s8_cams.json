@@ -1,0 +1,24 @@
+{
+ "errors": [
+  "RuntimeError('给定的参数太少。\\n')"
+ ],
+ "head_pos": {
+  "Ma": [
+   0.0,
+   94.3,
+   -84.8
+  ],
+  "Huang": [
+   81.1,
+   105.3,
+   46.8
+  ],
+  "Shiye": [
+   -83.5,
+   107.4,
+   48.2
+  ]
+ },
+ "cameras": 71,
+ "trace": "Traceback (most recent call last):\n  File \"C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scripts/s8_cams.py\", line 80, in <module>\n    cmds.lookThru(\"CAM_\" + tid)\nRuntimeError: 给定的参数太少。\n\n"
+}

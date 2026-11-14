@@ -1,0 +1,123 @@
+{
+ "errors": [],
+ "joint_count": 179,
+ "joints_sample": [
+  "Bone",
+  "Bone_1",
+  "Center",
+  "Eyes",
+  "FBXASC048_1",
+  "FBXASC048_2",
+  "FBXASC048_3",
+  "FBXASC048_4",
+  "FBXASC048_5",
+  "FBXASC048_6",
+  "FBXASC048_7",
+  "FBXASC048_8",
+  "FBXASC048_9",
+  "FBXASC048_10",
+  "FBXASC049_1",
+  "FBXASC049_2",
+  "FBXASC049_3",
+  "FBXASC049_4",
+  "FBXASC049_5",
+  "FBXASC049_6",
+  "FBXASC049_7",
+  "FBXASC049_8",
+  "FBXASC049_9",
+  "FBXASC049_10",
+  "FBXASC050_1",
+  "FBXASC050_2",
+  "FBXASC050_3",
+  "FBXASC050_4",
+  "FBXASC050_5",
+  "FBXASC050_6",
+  "FBXASC050_7",
+  "FBXASC050_8",
+  "FBXASC050_9",
+  "FBXASC050_10",
+  "FBXASC051_1",
+  "FBXASC051_2",
+  "FBXASC051_3",
+  "FBXASC051_4",
+  "FBXASC051_5",
+  "FBXASC051_6"
+ ],
+ "main_meshes": [
+  "MakotoFBXASC032Yuki_meshShape"
+ ],
+ "geo_scale": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "geo_rot": [
+  -90.0,
+  -0.0,
+  0.0
+ ],
+ "bbox": [
+  -64.53,
+  0.1,
+  -14.44,
+  64.53,
+  175.54,
+  19.36
+ ],
+ "key_ws": {
+  "Head": [
+   -0.0,
+   154.8,
+   -1.27
+  ],
+  "LeftFoot": [
+   6.94,
+   9.35,
+   -0.0
+  ],
+  "RightFoot": [
+   -6.94,
+   9.35,
+   -0.0
+  ],
+  "LeftHand": [
+   50.43,
+   113.82,
+   -1.66
+  ],
+  "RightHand": [
+   -50.43,
+   113.82,
+   -1.66
+  ],
+  "LeftArm": [
+   12.08,
+   140.67,
+   -1.66
+  ],
+  "LeftForeArm": [
+   30.46,
+   127.8,
+   -1.76
+  ]
+ },
+ "left_hand_chain": [
+  "LeftHand",
+  "LeftHandTwist",
+  "LeftForeArm",
+  "LeftArmTwist",
+  "LeftArm",
+  "LeftShoulder",
+  "Spine1",
+  "Spine",
+  "Bone",
+  "Groove",
+  "Center",
+  "Root",
+  "MakotoFBXASC032Yuki_arm"
+ ],
+ "png": [
+  "b1_check.0000.png"
+ ],
+ "ok": true
+}

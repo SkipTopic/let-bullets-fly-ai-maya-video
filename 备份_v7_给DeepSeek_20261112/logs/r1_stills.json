@@ -1,0 +1,37 @@
+{
+ "errors": [],
+ "each": [
+  {
+   "shot": "S001",
+   "frame": 30,
+   "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\S001_马县长近景.png"
+  },
+  {
+   "shot": "S032",
+   "frame": 1650,
+   "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\S032_马县长近景2.png"
+  },
+  {
+   "shot": "S033",
+   "frame": 1718,
+   "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\S033_黄四郎近景.png"
+  },
+  {
+   "shot": "S045",
+   "frame": 2327,
+   "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\S045_师爷近景.png"
+  },
+  {
+   "shot": "S019",
+   "frame": 899,
+   "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\S019_师爷中景.png"
+  },
+  {
+   "shot": "S049",
+   "frame": 2471,
+   "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\S049_黄四郎中景.png"
+  }
+ ],
+ "made": 6,
+ "ok": true
+}

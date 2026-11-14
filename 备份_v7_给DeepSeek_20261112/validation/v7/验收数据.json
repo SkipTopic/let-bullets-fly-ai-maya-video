@@ -1,0 +1,153 @@
+{
+ "errors": [],
+ "characters": {
+  "Ma": {
+   "visible": true,
+   "mesh_parent": [],
+   "torso_angle_from_up_degrees": 3.0809082822533402,
+   "bbox_size_cm": [
+    67.7374153137207,
+    133.35613221302629,
+    70.51564407348633
+   ],
+   "lowest_vertex_y_cm": 0.04377013072371483,
+   "table_interior_vertices": 0,
+   "chair_contact_vertices_for_visual_review": 146,
+   "leg_target_errors_cm": {
+    "Left": 2.1020434475510703e-05,
+    "Right": 2.1411354638284615e-05
+   },
+   "hand_target_errors_cm": {
+    "Left": 2.4953349998317123e-06,
+    "Right": 3.467676143644133e-06
+   },
+   "hand_positions_cm": {
+    "Left": [
+     17.99999942806573,
+     81.7499977707231,
+     -77.99999903568032
+    ],
+    "Right": [
+     -18.00000171554218,
+     81.7499977214672,
+     -77.99999802769649
+    ]
+   },
+   "foot_positions_cm": {
+    "Left": [
+     6.781397136463982,
+     10.099979300946188,
+     -67.28283667641405
+    ],
+    "Right": [
+     -6.781397165648199,
+     10.09997891149169,
+     -67.2828352358402
+    ]
+   },
+   "hard_metrics_pass": true
+  },
+  "Huang": {
+   "visible": true,
+   "mesh_parent": [
+    "CHARS"
+   ],
+   "torso_angle_from_up_degrees": 0.013887589409976092,
+   "bbox_size_cm": [
+    83.16138982772827,
+    143.06431717704987,
+    71.91529050469404
+   ],
+   "lowest_vertex_y_cm": 0.20000033546237292,
+   "table_interior_vertices": 0,
+   "chair_contact_vertices_for_visual_review": 41,
+   "leg_target_errors_cm": {
+    "Left": 1.1610250017616208e-06,
+    "Right": 1.1610251824056795e-06
+   },
+   "hand_target_errors_cm": {
+    "Left": 3.0879575617068884e-06,
+    "Right": 2.232606725409624e-06
+   },
+   "hand_positions_cm": {
+    "Left": [
+     76.69833907067257,
+     63.58557351985725,
+     68.47725950267332
+    ],
+    "Right": [
+     97.65221019572485,
+     63.585606051695486,
+     32.18407548185855
+    ]
+   },
+   "foot_positions_cm": {
+    "Left": [
+     48.47645075567403,
+     12.546248671310686,
+     37.40960251915991
+    ],
+    "Right": [
+     56.63589062382362,
+     12.546248671310735,
+     23.277037776816858
+    ]
+   },
+   "hard_metrics_pass": true
+  },
+  "Shiye": {
+   "visible": true,
+   "mesh_parent": [
+    "CHARS"
+   ],
+   "torso_angle_from_up_degrees": 0.9141650351475997,
+   "bbox_size_cm": [
+    81.7710667848587,
+    144.376274291426,
+    69.73927766084677
+   ],
+   "lowest_vertex_y_cm": 0.21300679072735876,
+   "table_interior_vertices": 0,
+   "chair_contact_vertices_for_visual_review": 38,
+   "leg_target_errors_cm": {
+    "Left": 4.996411967238675e-06,
+    "Right": 4.950920228881768e-06
+   },
+   "hand_target_errors_cm": {
+    "Left": 6.340353529507564e-06,
+    "Right": 1.070244952226624e-05
+   },
+   "hand_positions_cm": {
+    "Left": [
+     -97.65226133712325,
+     64.58979143695716,
+     32.18410685165548
+    ],
+    "Right": [
+     -76.69835336719262,
+     64.58980540120771,
+     68.47727103219557
+    ]
+   },
+   "foot_positions_cm": {
+    "Left": [
+     -56.20628262654179,
+     9.433741371585917,
+     23.617899499113516
+    ],
+    "Right": [
+     -48.47204477720436,
+     9.433741369621423,
+     36.8181563800824
+    ]
+   },
+   "hard_metrics_pass": true
+  }
+ },
+ "scene": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/摆姿重建_v7.mb",
+ "review_camera_count": 16,
+ "production_camera_count": 0,
+ "delta_mush": [],
+ "all_hard_metrics_pass": true,
+ "ok": true
+}

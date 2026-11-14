@@ -1,0 +1,1848 @@
+[
+ {
+  "id": "S001",
+  "start": 1,
+  "end": 56,
+  "dur": 56,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长看着黄四郎，边比着大拇指指向自己的心边说",
+  "move": "除马县长外两人中间开始向右移动",
+  "dialogue": "马某人这个县长，买来的"
+ },
+ {
+  "id": "S002",
+  "start": 57,
+  "end": 103,
+  "dur": 47,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎右手拿酒杯，嬉笑看着马县长边点头边小喝一口酒",
+  "move": "除黄四郎外两人中间开始向右移动",
+  "dialogue": "买官就是为了挣钱"
+ },
+ {
+  "id": "S003",
+  "start": 104,
+  "end": 193,
+  "dur": 90,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长看向左侧师爷说话再看向右侧黄四郎；吃着晚餐的师爷抬头看向马县长",
+  "move": "镜1位置再右移一点，师爷头在画面右侧前景，向右移到前景",
+  "dialogue": "马某人不喜欢挣穷人的钱"
+ },
+ {
+  "id": "S004",
+  "start": 194,
+  "end": 251,
+  "dur": 58,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎在桌子右侧，看着马县长右手比向马县长边问，右手收回碰到桌面",
+  "move": "后侧开始（马县长画面左侧前景四成多）向右移到前景",
+  "dialogue": "挣谁的钱呢？"
+ },
+ {
+  "id": "S005",
+  "start": 252,
+  "end": 288,
+  "dur": 37,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长边说边看向左侧师爷后看向右侧黄四郎",
+  "move": "除马县长外两人中间偏左向右移到两人中间",
+  "dialogue": "谁有钱就挣谁的"
+ },
+ {
+  "id": "S006",
+  "start": 289,
+  "end": 314,
+  "dur": 26,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎看着马县长问",
+  "move": "师爷左侧开始向右移动",
+  "dialogue": "那谁有钱？"
+ },
+ {
+  "id": "S007",
+  "start": 315,
+  "end": 336,
+  "dur": 22,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长右手边指几下黄四郎边说",
+  "move": "接镜5位置向右移动",
+  "dialogue": "你有钱"
+ },
+ {
+  "id": "S008",
+  "start": 337,
+  "end": 370,
+  "dur": 34,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎眯眼大笑，右手竖大拇指向前伸直",
+  "move": "接镜6位置向右移动",
+  "dialogue": "哈哈哈哈"
+ },
+ {
+  "id": "S009",
+  "start": 371,
+  "end": 395,
+  "dur": 25,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长右手收回，笑着",
+  "move": "接镜7位置向右移动",
+  "dialogue": "爽快"
+ },
+ {
+  "id": "S010",
+  "start": 396,
+  "end": 427,
+  "dur": 32,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   142.48,
+   116.0,
+   -119.56
+  ],
+  "eye1": [
+   174.78,
+   116.0,
+   -63.62
+  ],
+  "action": "师爷笑着看黄四郎，眨下眼后看着前方思考",
+  "move": "除师爷外两人中间偏左开始向右移动",
+  "dialogue": "县长.."
+ },
+ {
+  "id": "S011",
+  "start": 428,
+  "end": 479,
+  "dur": 52,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎右手向右指着家里边说，眼睛由看家里转向马县长",
+  "move": "接镜8位置向右移动",
+  "dialogue": "看上什么了，随便拿"
+ },
+ {
+  "id": "S012",
+  "start": 480,
+  "end": 536,
+  "dur": 57,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长严肃看黄四郎，笑起来后看向师爷持续笑",
+  "move": "接镜9位置向右移动",
+  "dialogue": "哼哈哈哈"
+ },
+ {
+  "id": "S013",
+  "start": 537,
+  "end": 560,
+  "dur": 24,
+  "size": "中景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Ma",
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   191.51,
+   120.0,
+   -160.7
+  ],
+  "eye1": [
+   234.92,
+   120.0,
+   -85.51
+  ],
+  "action": "师爷看着马县长也跟着笑",
+  "move": "向右移动",
+  "dialogue": "哈哈哈哈"
+ },
+ {
+  "id": "S014",
+  "start": 561,
+  "end": 609,
+  "dur": 49,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长笑着看师爷，上半身向前，身体回来时变严肃看黄四郎说",
+  "move": "向右移动",
+  "dialogue": "我不是土匪"
+ },
+ {
+  "id": "S015",
+  "start": 610,
+  "end": 635,
+  "dur": 26,
+  "size": "中景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   -234.92,
+   120.0,
+   -85.51
+  ],
+  "eye1": [
+   -191.51,
+   120.0,
+   -160.7
+  ],
+  "action": "黄四郎手肘靠在桌子上看着马县长",
+  "move": "向右移动",
+  "dialogue": "我是县长"
+ },
+ {
+  "id": "S016",
+  "start": 636,
+  "end": 749,
+  "dur": 114,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长看着黄四郎庄重地边说边看向师爷",
+  "move": "向右移动",
+  "dialogue": "县长挣钱得讲究个名正言顺"
+ },
+ {
+  "id": "S017",
+  "start": 750,
+  "end": 810,
+  "dur": 61,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎向着马县长竖起大拇指说",
+  "move": "向右移动",
+  "dialogue": "说得好"
+ },
+ {
+  "id": "S018",
+  "start": 811,
+  "end": 857,
+  "dur": 47,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长看着黄四郎；镜头外黄四郎边说右手边比着2",
+  "move": "向右移动",
+  "dialogue": "我们鹅城有两大家族"
+ },
+ {
+  "id": "S019",
+  "start": 858,
+  "end": 941,
+  "dur": 84,
+  "size": "中景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Huang",
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   191.51,
+   120.0,
+   -160.7
+  ],
+  "eye1": [
+   234.92,
+   120.0,
+   -85.51
+  ],
+  "action": "师爷看着黄四郎说话边点头；镜头外黄四郎比大拇指指向自己后侧",
+  "move": "向右移动",
+  "dialogue": "都是把人卖到America"
+ },
+ {
+  "id": "S020",
+  "start": 942,
+  "end": 999,
+  "dur": 58,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎手指指向自己前侧说修铁路，后看向桌子打响指说挣的都是，再看向师爷说dollar",
+  "move": "向右移动",
+  "dialogue": "挣的都是dollar"
+ },
+ {
+  "id": "S021",
+  "start": 1000,
+  "end": 1101,
+  "dur": 102,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长左手放桌上皱眉，右手指一下黄四郎收回，左手靠桌上边说；黄四郎摇着手肘",
+  "move": "向右移动",
+  "dialogue": "nononono"
+ },
+ {
+  "id": "S022",
+  "start": 1102,
+  "end": 1138,
+  "dur": 37,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎身体靠向师爷那边看师爷说，指两下师爷后打响指；前景马县长舒展右手",
+  "move": "向右移动",
+  "dialogue": "美国人用的钱，dollar you know"
+ },
+ {
+  "id": "S023",
+  "start": 1139,
+  "end": 1178,
+  "dur": 40,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   142.48,
+   116.0,
+   -119.56
+  ],
+  "eye1": [
+   174.78,
+   116.0,
+   -63.62
+  ],
+  "action": "师爷看着桌子边思考边说",
+  "move": "向右移动",
+  "dialogue": "dollar，到了"
+ },
+ {
+  "id": "S024",
+  "start": 1179,
+  "end": 1228,
+  "dur": 50,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长微微点头思考着看师爷",
+  "move": "向右移动",
+  "dialogue": "黄老爷一来"
+ },
+ {
+  "id": "S025",
+  "start": 1229,
+  "end": 1277,
+  "dur": 49,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   142.48,
+   116.0,
+   -119.56
+  ],
+  "eye1": [
+   174.78,
+   116.0,
+   -63.62
+  ],
+  "action": "师爷曲头笑嘻看黄四郎，右手向上后挥舞向下边说后头遍回来",
+  "move": "向右移动",
+  "dialogue": "钱就到了"
+ },
+ {
+  "id": "S026",
+  "start": 1278,
+  "end": 1315,
+  "dur": 38,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长笑着眯眼师爷又看向桌子",
+  "move": "向右移动",
+  "dialogue": "哈哈哈哈，咱们"
+ },
+ {
+  "id": "S027",
+  "start": 1316,
+  "end": 1374,
+  "dur": 59,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   142.48,
+   116.0,
+   -119.56
+  ],
+  "eye1": [
+   174.78,
+   116.0,
+   -63.62
+  ],
+  "action": "师爷笑着双手拿起酒杯身体向前要捧杯",
+  "move": "向右移动",
+  "dialogue": "喝一杯吧，好来"
+ },
+ {
+  "id": "S028",
+  "start": 1375,
+  "end": 1424,
+  "dur": 50,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长右手拿酒杯身体向前看酒杯，三人碰杯后喝口酒",
+  "move": "向右移动",
+  "dialogue": "来来来来"
+ },
+ {
+  "id": "S029",
+  "start": 1425,
+  "end": 1471,
+  "dur": 47,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎随喝酒完的动作放下酒杯，闻声斜头看马县长",
+  "move": "向右移动",
+  "dialogue": "黄老爷"
+ },
+ {
+  "id": "S030",
+  "start": 1472,
+  "end": 1508,
+  "dur": 37,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长双手顺胸前衣服后双手分开放桌上，看向黄四郎",
+  "move": "向右移动",
+  "dialogue": "客气了"
+ },
+ {
+  "id": "S031",
+  "start": 1509,
+  "end": 1617,
+  "dur": 109,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎皱眉眨眼看着马县长",
+  "move": "向右移动",
+  "dialogue": "整个南国"
+ },
+ {
+  "id": "S032",
+  "start": 1618,
+  "end": 1683,
+  "dur": 66,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长说到在鹅城时身体向前看黄四郎，后身体向右手向前对黄四郎竖大拇指",
+  "move": "向右移动",
+  "dialogue": "在鹅城，你黄四郎是老大"
+ },
+ {
+  "id": "S033",
+  "start": 1684,
+  "end": 1753,
+  "dur": 70,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎笑着边说同时右手向右划过后靠在桌上",
+  "move": "向右移动",
+  "dialogue": "老大往往是空架子"
+ },
+ {
+  "id": "S034",
+  "start": 1754,
+  "end": 1815,
+  "dur": 62,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   142.48,
+   116.0,
+   -119.56
+  ],
+  "eye1": [
+   174.78,
+   116.0,
+   -63.62
+  ],
+  "action": "师爷嘴巴边嚼着边看黄四郎说话",
+  "move": "向右移动",
+  "dialogue": "每天眼一挣，几百人"
+ },
+ {
+  "id": "S035",
+  "start": 1816,
+  "end": 1875,
+  "dur": 60,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎右手指着边说",
+  "move": "向右移动",
+  "dialogue": "吃喝拉撒都要等着我伺候"
+ },
+ {
+  "id": "S036",
+  "start": 1876,
+  "end": 1963,
+  "dur": 88,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长看着黄四郎说话；前景师爷点头",
+  "move": "向右移动",
+  "dialogue": "真正落到我嘴里的能有几口"
+ },
+ {
+  "id": "S037",
+  "start": 1964,
+  "end": 2091,
+  "dur": 128,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎看马县长说边把右手碰桌指桌，身体向前皱眉",
+  "move": "向右移动",
+  "dialogue": "如果县长真的急着挣钱"
+ },
+ {
+  "id": "S038",
+  "start": 2092,
+  "end": 2156,
+  "dur": 65,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长等黄四郎说完便看师爷舒展左手，身体向前坐直双手放到桌边说",
+  "move": "向右移动",
+  "dialogue": "哦？请讲"
+ },
+ {
+  "id": "S039",
+  "start": 2157,
+  "end": 2204,
+  "dur": 48,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎看师爷转头看马县长边逐字说",
+  "move": "向右移动",
+  "dialogue": ""
+ },
+ {
+  "id": "S040",
+  "start": 2205,
+  "end": 2238,
+  "dur": 34,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   32.3,
+   116.0,
+   183.17
+  ],
+  "eye1": [
+   -32.3,
+   116.0,
+   183.17
+  ],
+  "action": "马县长仿佛定住般盯着黄四郎",
+  "move": "向右移动",
+  "dialogue": ""
+ },
+ {
+  "id": "S041",
+  "start": 2239,
+  "end": 2263,
+  "dur": 25,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "师爷看前方愣住后看向马县长",
+  "move": "向上移动",
+  "dialogue": ""
+ },
+ {
+  "id": "S042",
+  "start": 2264,
+  "end": 2272,
+  "dur": 9,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -174.78,
+   116.0,
+   -63.62
+  ],
+  "eye1": [
+   -142.48,
+   116.0,
+   -119.56
+  ],
+  "action": "黄四郎微眯眼盯着马县长",
+  "move": "向右移动",
+  "dialogue": ""
+ },
+ {
+  "id": "S043",
+  "start": 2273,
+  "end": 2291,
+  "dur": 19,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "狗腿子看武举人吹口气（幻想段，无模型，用暗色桌面道具剪影替代）",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S044",
+  "start": 2292,
+  "end": 2312,
+  "dur": 21,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "武举人摇头撞向卖凉粉的（幻想段，黑场+镜号替代）",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S045",
+  "start": 2313,
+  "end": 2342,
+  "dur": 30,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "师爷听声吓一跳顺着看向那边猛地站起",
+  "move": "向上移动",
+  "dialogue": ""
+ },
+ {
+  "id": "S046",
+  "start": 2343,
+  "end": 2369,
+  "dur": 27,
+  "size": "中景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   0.0,
+   120.0,
+   250.0
+  ],
+  "eye1": [
+   0.0,
+   120.0,
+   250.0
+  ],
+  "action": "跪着三人中间卖凉粉的被刀刺（暴力内容，黑场+镜号替代）",
+  "move": "定镜",
+  "dialogue": "真死了"
+ },
+ {
+  "id": "S047",
+  "start": 2370,
+  "end": 2405,
+  "dur": 36,
+  "size": "中景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   0.0,
+   120.0,
+   250.0
+  ],
+  "eye1": [
+   0.0,
+   120.0,
+   250.0
+  ],
+  "action": "地板溅血（暴力内容，黑场+镜号替代）",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S048",
+  "start": 2406,
+  "end": 2453,
+  "dur": 48,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "黄四郎看手部（特写，桌面道具替代）",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S049",
+  "start": 2454,
+  "end": 2489,
+  "dur": 36,
+  "size": "中景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   -216.51,
+   120.0,
+   -125.0
+  ],
+  "eye1": [
+   -216.51,
+   120.0,
+   -125.0
+  ],
+  "action": "黄四郎看着沾了红色的手",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S050",
+  "start": 2490,
+  "end": 2526,
+  "dur": 37,
+  "size": "中景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Huang",
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   216.51,
+   120.0,
+   -125.0
+  ],
+  "eye1": [
+   216.51,
+   120.0,
+   -125.0
+  ],
+  "action": "师爷眨眼吧唧嘴害怕地看着黄四郎",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S051",
+  "start": 2527,
+  "end": 2549,
+  "dur": 23,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "马县长盯着黄四郎眨了眼",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S052",
+  "start": 2550,
+  "end": 2571,
+  "dur": 22,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "黄四郎挥一下头发甩头",
+  "move": "移动",
+  "dialogue": ""
+ },
+ {
+  "id": "S053",
+  "start": 2572,
+  "end": 2642,
+  "dur": 71,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "狗腿子翻白眼吧唧嘴（幻想段，黑场+镜号替代）",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S054",
+  "start": 2643,
+  "end": 2657,
+  "dur": 15,
+  "size": "中景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   -216.51,
+   120.0,
+   -125.0
+  ],
+  "eye1": [
+   -216.51,
+   120.0,
+   -125.0
+  ],
+  "action": "黄四郎吧唧嘴后右手拿筷子敲两下桌上玻璃瓶",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S055",
+  "start": 2658,
+  "end": 2687,
+  "dur": 30,
+  "size": "中景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 250.0,
+  "focal": 55.0,
+  "height": 120.0,
+  "eye0": [
+   0.0,
+   120.0,
+   250.0
+  ],
+  "eye1": [
+   0.0,
+   120.0,
+   250.0
+  ],
+  "action": "跪着三人前的窗帘落下（幻想段收尾，用窗格光影暗转替代）",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S056",
+  "start": 2688,
+  "end": 2736,
+  "dur": 49,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "师爷看窗帘落下身体微微向下",
+  "move": "稍微向下移动",
+  "dialogue": ""
+ },
+ {
+  "id": "S057",
+  "start": 2737,
+  "end": 2796,
+  "dur": 60,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "马县长强调语气说着边看黄四郎",
+  "move": "定镜",
+  "dialogue": "张麻子？"
+ },
+ {
+  "id": "S058",
+  "start": 2797,
+  "end": 2841,
+  "dur": 45,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "黄四郎拿着酒杯边说",
+  "move": "定镜",
+  "dialogue": "对，张麻子"
+ },
+ {
+  "id": "S059",
+  "start": 2842,
+  "end": 2877,
+  "dur": 36,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "马县长看着黄四郎说着看向桌子",
+  "move": "定镜",
+  "dialogue": "那么这个张麻子"
+ },
+ {
+  "id": "S060",
+  "start": 2878,
+  "end": 2945,
+  "dur": 68,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "师爷思考着眨了眨眼",
+  "move": "定镜",
+  "dialogue": "是跟我们.."
+ },
+ {
+  "id": "S061",
+  "start": 2946,
+  "end": 2971,
+  "dur": 26,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "马县长看着桌子说着又看黄四郎",
+  "move": "定镜",
+  "dialogue": "有关系呢还是跟钱有关系"
+ },
+ {
+  "id": "S062",
+  "start": 2972,
+  "end": 3023,
+  "dur": 52,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "黄四郎斜着微仰头说，手放下靠着桌子",
+  "move": "定镜",
+  "dialogue": "都有关系"
+ },
+ {
+  "id": "S063",
+  "start": 3024,
+  "end": 3040,
+  "dur": 17,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "马县长看着桌子说着又看黄四郎",
+  "move": "定镜",
+  "dialogue": "哦？莫非他在鹅城"
+ },
+ {
+  "id": "S064",
+  "start": 3041,
+  "end": 3064,
+  "dur": 24,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": null,
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "黄四郎边点头边说",
+  "move": "定镜",
+  "dialogue": "在"
+ },
+ {
+  "id": "S065",
+  "start": 3065,
+  "end": 3087,
+  "dur": 23,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "马县长看着黄四郎",
+  "move": "定镜",
+  "dialogue": ""
+ },
+ {
+  "id": "S066",
+  "start": 3088,
+  "end": 3125,
+  "dur": 38,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "师爷也看黄四郎等着黄四郎讲话",
+  "move": "稍微向上动",
+  "dialogue": ""
+ },
+ {
+  "id": "S067",
+  "start": 3126,
+  "end": 3202,
+  "dur": 77,
+  "size": "近景",
+  "subject": "Huang",
+  "speaker": "Huang",
+  "listener": "Shiye",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   -161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "黄四郎看师爷边转头微仰头看马县长边说",
+  "move": "稍微向下动",
+  "dialogue": "也不在"
+ },
+ {
+  "id": "S068",
+  "start": 3203,
+  "end": 3327,
+  "dur": 125,
+  "size": "近景",
+  "subject": "Ma",
+  "speaker": "Ma",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "eye1": [
+   0.0,
+   116.0,
+   186.0
+  ],
+  "action": "马县长看着黄四郎憋着笑",
+  "move": "稍微向上动",
+  "dialogue": "哈哈哈哈"
+ },
+ {
+  "id": "S069",
+  "start": 3328,
+  "end": 3443,
+  "dur": 116,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Huang",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   150.48,
+   116.0,
+   -109.33
+  ],
+  "eye1": [
+   169.92,
+   116.0,
+   -75.65
+  ],
+  "action": "师爷看黄四郎大笑向前伸长脖子，拿酒杯站起来顺势边倒酒边笑边说；马县长右手扶酒杯向前坐直左手靠桌看师爷说",
+  "move": "跟镜头向上，倒酒时晃动",
+  "dialogue": "黄老爷这话还挺有玄机"
+ },
+ {
+  "id": "S070",
+  "start": 3444,
+  "end": 3467,
+  "dur": 24,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "eye1": [
+   161.08,
+   116.0,
+   -93.0
+  ],
+  "action": "师爷倒完酒坐回椅子，马县长向前坐直左手靠桌看着师爷说话",
+  "move": "轻微晃动",
+  "dialogue": ""
+ },
+ {
+  "id": "S071",
+  "start": 3468,
+  "end": 3512,
+  "dur": 45,
+  "size": "近景",
+  "subject": "Shiye",
+  "speaker": "Shiye",
+  "listener": "Ma",
+  "dist": 186.0,
+  "focal": 85.0,
+  "height": 116.0,
+  "eye0": [
+   142.48,
+   116.0,
+   -119.56
+  ],
+  "eye1": [
+   174.78,
+   116.0,
+   -63.62
+  ],
+  "action": "师爷放回酒，看着马县长",
+  "move": "向右移动",
+  "dialogue": "听黄爷"
+ }
+]

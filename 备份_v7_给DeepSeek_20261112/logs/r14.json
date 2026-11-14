@@ -1,0 +1,22 @@
+{
+ "errors": [],
+ "ov_shapes": [
+  "OV_frontShape1",
+  "OV_leftShape1",
+  "OV_rightShape1",
+  "OV_topShape1"
+ ],
+ "ov_transforms": [
+  "OV_front1",
+  "OV_left1",
+  "OV_right1",
+  "OV_top1"
+ ],
+ "made": [
+  "OV_front1",
+  "OV_left1",
+  "OV_right1",
+  "OV_top1"
+ ],
+ "ok": true
+}
