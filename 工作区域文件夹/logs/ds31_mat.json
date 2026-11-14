@@ -1,0 +1,3210 @@
+{
+ "errors": [],
+ "by_mesh": {
+  "Ma": {
+   "shape": "NH_MaleM_140_LOD0Shape",
+   "materials": [
+    "MI_NH_MaleM_140Hair",
+    "MI_NH_MaleM_140Face",
+    "MI_NH_MaleM_140Up",
+    "MI_NH_MaleM_140Down",
+    "MI_NH_MaleM_140Hand",
+    "MI_NH_MaleM_140Eye"
+   ],
+   "sg": [
+    "NH_MaleM_140_LOD0SG",
+    "NH_MaleM_140_LOD0SG",
+    "NH_MaleM_140_LOD0SG1",
+    "NH_MaleM_140_LOD0SG1",
+    "NH_MaleM_140_LOD0SG2",
+    "NH_MaleM_140_LOD0SG2",
+    "NH_MaleM_140_LOD0SG3",
+    "NH_MaleM_140_LOD0SG3",
+    "NH_MaleM_140_LOD0SG4",
+    "NH_MaleM_140_LOD0SG4",
+    "NH_MaleM_140_LOD0SG5",
+    "NH_MaleM_140_LOD0SG5"
+   ]
+  },
+  "Huang": {
+   "shape": "Huang_AragakiFBXASC032Shinjiro_meshShape",
+   "materials": [
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_0",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_1",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_2",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_3",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_4",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_5",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_6",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_7",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_8",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_9",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_10",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_11",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_12",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_13",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_14",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_15",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_16"
+   ],
+   "sg": [
+    "AragakiFBXASC032Shinjiro_meshSG",
+    "AragakiFBXASC032Shinjiro_meshSG",
+    "AragakiFBXASC032Shinjiro_meshSG1",
+    "AragakiFBXASC032Shinjiro_meshSG1",
+    "AragakiFBXASC032Shinjiro_meshSG2",
+    "AragakiFBXASC032Shinjiro_meshSG2",
+    "AragakiFBXASC032Shinjiro_meshSG3",
+    "AragakiFBXASC032Shinjiro_meshSG3",
+    "AragakiFBXASC032Shinjiro_meshSG4",
+    "AragakiFBXASC032Shinjiro_meshSG4",
+    "AragakiFBXASC032Shinjiro_meshSG5",
+    "AragakiFBXASC032Shinjiro_meshSG5",
+    "AragakiFBXASC032Shinjiro_meshSG6",
+    "AragakiFBXASC032Shinjiro_meshSG6",
+    "AragakiFBXASC032Shinjiro_meshSG7",
+    "AragakiFBXASC032Shinjiro_meshSG7",
+    "AragakiFBXASC032Shinjiro_meshSG8",
+    "AragakiFBXASC032Shinjiro_meshSG8",
+    "AragakiFBXASC032Shinjiro_meshSG9",
+    "AragakiFBXASC032Shinjiro_meshSG9",
+    "AragakiFBXASC032Shinjiro_meshSG10",
+    "AragakiFBXASC032Shinjiro_meshSG10",
+    "AragakiFBXASC032Shinjiro_meshSG11",
+    "AragakiFBXASC032Shinjiro_meshSG11",
+    "AragakiFBXASC032Shinjiro_meshSG12",
+    "AragakiFBXASC032Shinjiro_meshSG12",
+    "AragakiFBXASC032Shinjiro_meshSG13",
+    "AragakiFBXASC032Shinjiro_meshSG13",
+    "AragakiFBXASC032Shinjiro_meshSG14",
+    "AragakiFBXASC032Shinjiro_meshSG14",
+    "AragakiFBXASC032Shinjiro_meshSG15",
+    "AragakiFBXASC032Shinjiro_meshSG15",
+    "AragakiFBXASC032Shinjiro_meshSG16",
+    "AragakiFBXASC032Shinjiro_meshSG16"
+   ]
+  },
+  "Shiye": {
+   "shape": "Shiye_JunpeiFBXASC032Iori_meshShape",
+   "materials": [
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_0",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_1",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_2",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_3",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_4",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_5",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_6",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_7",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_8",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_9",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_10",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_11",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_12",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_13",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_14",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_15",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_16",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_17",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_18",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_19",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_20"
+   ],
+   "sg": [
+    "JunpeiFBXASC032Iori_meshSG",
+    "JunpeiFBXASC032Iori_meshSG",
+    "JunpeiFBXASC032Iori_meshSG1",
+    "JunpeiFBXASC032Iori_meshSG1",
+    "JunpeiFBXASC032Iori_meshSG2",
+    "JunpeiFBXASC032Iori_meshSG2",
+    "JunpeiFBXASC032Iori_meshSG3",
+    "JunpeiFBXASC032Iori_meshSG3",
+    "JunpeiFBXASC032Iori_meshSG4",
+    "JunpeiFBXASC032Iori_meshSG4",
+    "JunpeiFBXASC032Iori_meshSG5",
+    "JunpeiFBXASC032Iori_meshSG5",
+    "JunpeiFBXASC032Iori_meshSG6",
+    "JunpeiFBXASC032Iori_meshSG6",
+    "JunpeiFBXASC032Iori_meshSG7",
+    "JunpeiFBXASC032Iori_meshSG7",
+    "JunpeiFBXASC032Iori_meshSG8",
+    "JunpeiFBXASC032Iori_meshSG8",
+    "JunpeiFBXASC032Iori_meshSG9",
+    "JunpeiFBXASC032Iori_meshSG9",
+    "JunpeiFBXASC032Iori_meshSG10",
+    "JunpeiFBXASC032Iori_meshSG10",
+    "JunpeiFBXASC032Iori_meshSG11",
+    "JunpeiFBXASC032Iori_meshSG11",
+    "JunpeiFBXASC032Iori_meshSG12",
+    "JunpeiFBXASC032Iori_meshSG12",
+    "JunpeiFBXASC032Iori_meshSG13",
+    "JunpeiFBXASC032Iori_meshSG13",
+    "JunpeiFBXASC032Iori_meshSG14",
+    "JunpeiFBXASC032Iori_meshSG14",
+    "JunpeiFBXASC032Iori_meshSG15",
+    "JunpeiFBXASC032Iori_meshSG15",
+    "JunpeiFBXASC032Iori_meshSG16",
+    "JunpeiFBXASC032Iori_meshSG16",
+    "JunpeiFBXASC032Iori_meshSG17",
+    "JunpeiFBXASC032Iori_meshSG17",
+    "JunpeiFBXASC032Iori_meshSG18",
+    "JunpeiFBXASC032Iori_meshSG18",
+    "JunpeiFBXASC032Iori_meshSG19",
+    "JunpeiFBXASC032Iori_meshSG19",
+    "JunpeiFBXASC032Iori_meshSG20",
+    "JunpeiFBXASC032Iori_meshSG20"
+   ]
+  },
+  "SET_table_top": {
+   "shape": "SET_table_topShape",
+   "materials": [
+    "SET_wood"
+   ],
+   "sg": [
+    "SET_woodSG"
+   ]
+  },
+  "SET_floor": {
+   "shape": "SET_floorShape",
+   "materials": [
+    "SET_earth"
+   ],
+   "sg": [
+    "SET_earthSG"
+   ]
+  },
+  "SET_house_body": {
+   "shape": "SET_house_bodyShape",
+   "materials": [
+    "SET_plaster"
+   ],
+   "sg": [
+    "SET_plasterSG"
+   ]
+  },
+  "SET_seat_0": {
+   "shape": "SET_seat_0Shape",
+   "materials": [
+    "SET_cloth"
+   ],
+   "sg": [
+    "SET_clothSG"
+   ]
+  },
+  "SET_back_0": {
+   "shape": "SET_back_0Shape",
+   "materials": [
+    "SET_wood_dark"
+   ],
+   "sg": [
+    "SET_wood_darkSG"
+   ]
+  },
+  "SET_bowl_0": {
+   "shape": "SET_bowl_0Shape",
+   "materials": [
+    "SET_porcelain"
+   ],
+   "sg": [
+    "SET_porcelainSG"
+   ]
+  },
+  "SET_cup_0": {
+   "shape": "SET_cup_0Shape",
+   "materials": [
+    "SET_porcelain"
+   ],
+   "sg": [
+    "SET_porcelainSG"
+   ]
+  },
+  "SET_bottle": {
+   "shape": "SET_bottleShape",
+   "materials": [
+    "SET_porcelain"
+   ],
+   "sg": [
+    "SET_porcelainSG"
+   ]
+  },
+  "SET_sky1": {
+   "shape": "SET_sky1Shape",
+   "materials": [
+    "SET_sky_unlit"
+   ],
+   "sg": [
+    "SET_sky_unlitSG"
+   ]
+  },
+  "SET_col_0": {
+   "shape": "SET_col_0Shape",
+   "materials": [
+    "SET_wood_dark"
+   ],
+   "sg": [
+    "SET_wood_darkSG"
+   ]
+  },
+  "SET_tree_0": {
+   "shape": "SET_tree_0Shape",
+   "materials": [
+    "SET_foliage"
+   ],
+   "sg": [
+    "SET_foliageSG"
+   ]
+  },
+  "SET_roof": {
+   "shape": "SET_roofShape",
+   "materials": [
+    "SET_tile"
+   ],
+   "sg": [
+    "SET_tileSG"
+   ]
+  },
+  "SET_lowwall_L": {
+   "shape": "SET_lowwall_LShape",
+   "materials": [
+    "SET_stone"
+   ],
+   "sg": [
+    "SET_stoneSG"
+   ]
+  },
+  "SET_step": {
+   "shape": "SET_stepShape",
+   "materials": [
+    "SET_stone"
+   ],
+   "sg": [
+    "SET_stoneSG"
+   ]
+  }
+ },
+ "materials": {
+  "Belt": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC043MUSICFBXASC032PLAYERFBXASC046part1FBXASC045bodymtFBXASC0401FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC043MUSICFBXASC032PLAYERFBXASC046part1FBXASC045bodynomtFBXASC0401FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC043NECKFBXASC032RIBBONFBXASC046part1FBXASC045bodymtFBXASC0403FBXASC041_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC043NECKFBXASC032RIBBONFBXASC046part1FBXASC045mtopsMesh1_1_0_0FBXASC046003": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC043part1FBXASC045HATFBXASC032MAINFBXASC046part1FBXASC045hairmtFBXASC0401FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC043part1FBXASC045HATFBXASC032MAINFBXASC046part1FBXASC045hairmt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC043part2FBXASC045HAIRFBXASC0321FBXASC046part2FBXASC045hairmt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045GUNFBXASC032HOLSTERFBXASC046part1FBXASC045SEESmt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045GUNFBXASC032HOLSTERFBXASC046part1FBXASC045SEESmt_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045GUNFBXASC032HOLSTERFBXASC046part1FBXASC045SEESnomt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045GUNFBXASC032HOLSTERFBXASC046part1FBXASC045SEESnomt_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045GUNFBXASC032HOLSTERFBXASC046part1FBXASC045SEESnomt_1_0_0FBXASC046003": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045GUNFBXASC032HOLSTERFBXASC046part1FBXASC045bodynomt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045SEESFBXASC032ARMBANDFBXASC046part1FBXASC045SEESmt_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045SEESFBXASC032ARMBANDFBXASC046part1FBXASC045SEESnomt_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045SEESFBXASC032ARMBANDFBXASC046part2FBXASC045SEESmt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_FBXASC045part1FBXASC045HAIRFBXASC0321FBXASC046part1FBXASC045hairmt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045bodymtFBXASC0402FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045bodymtFBXASC0403FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045bodymt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045bodynomtFBXASC0402FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045bodynomt_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045eye_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045eyebrow_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045eyebrow_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045eyecvr_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045eyecvr_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045eyelash_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045eyelash_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045faceFBXASC046partFBXASC046001_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045faceFBXASC046partFBXASC046001_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045face_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045mtopsMesh1_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045teeth_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045teeth_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045tongueFBXASC046partFBXASC046001_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045tongue_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part1FBXASC045tongue_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045bodymtFBXASC0401FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045bodymtFBXASC0402FBXASC041_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045bodymt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045eye_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045eyebrow_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045eyecbr_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045eyelash_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045face_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045teeth_1_0_0FBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC053_part2FBXASC045tongueFBXASC041_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC055_part1FBXASC045eyeshmt_1_0_0FBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC055_part1FBXASC045eyeshmt_1_0_0FBXASC046004": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "FBXASC055_part2FBXASC045eyeshmt_1_0_0": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "GUNFBXASC032HOLSTER": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "Hair": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "Hat": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "MI_NH_MaleM_140Down": {
+   "type": "phong",
+   "color": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.2,
+    0.2,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "MI_NH_MaleM_140Eye": {
+   "type": "phong",
+   "color": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.2,
+    0.2,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "MI_NH_MaleM_140Face": {
+   "type": "phong",
+   "color": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.2,
+    0.2,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "MI_NH_MaleM_140Hair": {
+   "type": "phong",
+   "color": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.2,
+    0.2,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "MI_NH_MaleM_140Hand": {
+   "type": "phong",
+   "color": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.2,
+    0.2,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "MI_NH_MaleM_140Up": {
+   "type": "phong",
+   "color": [
+    0.8,
+    0.8,
+    0.8
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.2,
+    0.2,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_0": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_1": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_2": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_3": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_4": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_5": {
+   "type": "lambert",
+   "color": [
+    0.99,
+    0.86,
+    0.74
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.347,
+    0.301,
+    0.259
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_6": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_7": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_8": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_9": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_10": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_11": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_12": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_13": {
+   "type": "lambert",
+   "color": [
+    0.82,
+    0.4,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.287,
+    0.14,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_14": {
+   "type": "lambert",
+   "color": [
+    0.68,
+    0.3,
+    0.27
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.238,
+    0.105,
+    0.094
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_15": {
+   "type": "lambert",
+   "color": [
+    0.82,
+    0.4,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.287,
+    0.14,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Huang_AragakiFBXASC032Shinjiro_meshShape_16": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.3,
+    0.24
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.105,
+    0.084
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_0": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_1": {
+   "type": "lambert",
+   "color": [
+    0.98,
+    0.84,
+    0.72
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.343,
+    0.294,
+    0.252
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_2": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_3": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_4": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_5": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.68,
+    0.78
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.238,
+    0.273
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_6": {
+   "type": "lambert",
+   "color": [
+    0.5,
+    0.56,
+    0.66
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.175,
+    0.196,
+    0.231
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_7": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.68,
+    0.78
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.238,
+    0.273
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_8": {
+   "type": "lambert",
+   "color": [
+    0.5,
+    0.56,
+    0.66
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.175,
+    0.196,
+    0.231
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_9": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.68,
+    0.78
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.238,
+    0.273
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_10": {
+   "type": "lambert",
+   "color": [
+    0.5,
+    0.56,
+    0.66
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.175,
+    0.196,
+    0.231
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_11": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_12": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_13": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.68,
+    0.78
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.238,
+    0.273
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_14": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_15": {
+   "type": "lambert",
+   "color": [
+    0.5,
+    0.56,
+    0.66
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.175,
+    0.196,
+    0.231
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_16": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.68,
+    0.78
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.238,
+    0.273
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_17": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.6,
+    0.56
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.22,
+    0.21,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_18": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_19": {
+   "type": "lambert",
+   "color": [
+    0.5,
+    0.56,
+    0.66
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.175,
+    0.196,
+    0.231
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_20": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_21": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_22": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_23": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_24": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_25": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_26": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Ma_MakotoFBXASC032Yuki_meshShape_27": {
+   "type": "lambert",
+   "color": [
+    0.34,
+    0.38,
+    0.48
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.119,
+    0.133,
+    0.168
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_0": {
+   "type": "lambert",
+   "color": [
+    0.76,
+    0.7,
+    0.58
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.266,
+    0.245,
+    0.203
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_1": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_2": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_3": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_4": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_5": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_6": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_7": {
+   "type": "lambert",
+   "color": [
+    0.98,
+    0.83,
+    0.71
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.343,
+    0.29,
+    0.249
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_8": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_9": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_10": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_11": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_12": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_13": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.56,
+    0.46
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.196,
+    0.161
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_14": {
+   "type": "lambert",
+   "color": [
+    0.76,
+    0.7,
+    0.58
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.266,
+    0.245,
+    0.203
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_15": {
+   "type": "lambert",
+   "color": [
+    0.38,
+    0.36,
+    0.36
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.133,
+    0.126,
+    0.126
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_16": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.56,
+    0.46
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.196,
+    0.161
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_17": {
+   "type": "lambert",
+   "color": [
+    0.76,
+    0.7,
+    0.58
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.266,
+    0.245,
+    0.203
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_18": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.56,
+    0.46
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.196,
+    0.161
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_19": {
+   "type": "lambert",
+   "color": [
+    0.76,
+    0.7,
+    0.58
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.266,
+    0.245,
+    0.203
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "M_Shiye_JunpeiFBXASC032Iori_meshShape_20": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.56,
+    0.46
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.196,
+    0.161
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "New": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "New1": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "NewFBXASC046001": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "NewFBXASC046002": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "NewFBXASC046003": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SEES": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_cloth": {
+   "type": "lambert",
+   "color": [
+    0.55,
+    0.16,
+    0.13
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.192,
+    0.056,
+    0.045
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_earth": {
+   "type": "lambert",
+   "color": [
+    0.46,
+    0.38,
+    0.28
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.161,
+    0.133,
+    0.098
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_foliage": {
+   "type": "lambert",
+   "color": [
+    0.24,
+    0.36,
+    0.18
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.084,
+    0.126,
+    0.063
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_plaster": {
+   "type": "lambert",
+   "color": [
+    0.8,
+    0.74,
+    0.64
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.28,
+    0.259,
+    0.224
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_porcelain": {
+   "type": "lambert",
+   "color": [
+    0.55,
+    0.54,
+    0.52
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.192,
+    0.189,
+    0.182
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_shadow": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.6,
+    0.56
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.22,
+    0.21,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_sky": {
+   "type": "lambert",
+   "color": [
+    0.6,
+    0.75,
+    0.92
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.21,
+    0.262,
+    0.322
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_stone": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.58,
+    0.52
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.217,
+    0.203,
+    0.182
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_tile": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.6,
+    0.56
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.22,
+    0.21,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_wood": {
+   "type": "lambert",
+   "color": [
+    0.4,
+    0.22,
+    0.13
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.14,
+    0.077,
+    0.045
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "SET_wood_dark": {
+   "type": "lambert",
+   "color": [
+    0.62,
+    0.6,
+    0.56
+   ],
+   "diffuse": 0.9,
+   "ambientColor": [
+    0.22,
+    0.21,
+    0.2
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "eye": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "face": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "hands": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "lambert1": {
+   "type": "lambert",
+   "color": [
+    0.5,
+    0.5,
+    0.5
+   ],
+   "diffuse": 0.8,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "top1": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "trousers": {
+   "type": "phong",
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "diffuse": 1.0,
+   "ambientColor": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "incandescence": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "standardSurface1": {
+   "type": "standardSurface",
+   "base": 1.0,
+   "baseColor": [
+    0.4,
+    0.4,
+    0.4
+   ]
+  }
+ },
+ "disk": {
+  "models_raw": [
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\akihiko_sanada\\akh.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\akihiko_sanada\\textures\\pc104_03_body00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\akihiko_sanada\\textures\\pc104_26_SEES00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\akihiko_sanada\\textures\\pc104_e1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\akihiko_sanada\\textures\\pc104_f1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\akihiko_sanada\\textures\\pc104_h00_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\aragaki_shinjiro\\sji.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\aragaki_shinjiro\\textures\\pc110_05_body00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\aragaki_shinjiro\\textures\\pc110_26_SEES00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\aragaki_shinjiro\\textures\\pc110_e1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\aragaki_shinjiro\\textures\\pc110_f1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\aragaki_shinjiro\\textures\\pc110_h00_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\aragaki_shinjiro\\textures\\pc110_h07_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\junpei_iori\\prev.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\junpei_iori\\textures\\pc103_03_body00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\junpei_iori\\textures\\pc103_26_SEES00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\junpei_iori\\textures\\pc103_e1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\junpei_iori\\textures\\pc103_f1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\junpei_iori\\textures\\pc103_h00_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\makoto_yuki\\mkt.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\makoto_yuki\\textures\\pc101_03_body00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\makoto_yuki\\textures\\pc101_26_SEES00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\makoto_yuki\\textures\\pc101_e1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\makoto_yuki\\textures\\pc101_f1_tex00.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_raw\\makoto_yuki\\textures\\pc101_h00_tex00.png"
+  ],
+  "models_new": [
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Body_Color.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Body_Cool_Ramp.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Body_LightMap.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Body_Warm_Ramp.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Face_Color.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Hair_Color.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Hair_Cool_Ramp.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Hair_LightMap.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\Art_NPC_Full_W5_Lady_HimekoYouth\\NPC_Full_W5_Lady_HimekoYouth_Hair_Warm_Ramp.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\JXR\\Material _251_Base_color.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\JXR\\Material _252_Base_color.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\JXR\\Material _254_Base_color.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\JXR\\Material _25_Base_color.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Down_D.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Down_FTM.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Down_N.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Down_RGID.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Eye_D.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Face_D.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Face_ID.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Hair_D.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Hair_HM.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Hair_HN.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Hair_HR.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Hand_D.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Hand_FTM.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Hand_RGID.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Up_D.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Up_FTM.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Up_N.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140Up_RGID.png",
+   "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\models_new\\NH_MaleM_140\\Model\\T_NH_MaleM_140_Skin.png"
+  ],
+  "models_fbx": [],
+  "models_fbx2": []
+ }
+}

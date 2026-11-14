@@ -1,0 +1,361 @@
+{
+ "errors": [],
+ "cams": {
+  "S001": {
+   "kind": "push",
+   "eye_move_cm": 15.2,
+   "aim_move_cm": 0.0
+  },
+  "S002": {
+   "kind": "pull",
+   "eye_move_cm": 15.5,
+   "aim_move_cm": 0.0
+  },
+  "S003": {
+   "kind": "track",
+   "eye_move_cm": 20.0,
+   "aim_move_cm": 20.0
+  },
+  "S004": {
+   "kind": "push",
+   "eye_move_cm": 29.1,
+   "aim_move_cm": 0.0
+  },
+  "S005": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 13.6
+  },
+  "S006": {
+   "kind": "tilt_down",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 12.0
+  },
+  "S007": {
+   "kind": "push",
+   "eye_move_cm": 14.4,
+   "aim_move_cm": 0.0
+  },
+  "S008": {
+   "kind": "pull",
+   "eye_move_cm": 16.0,
+   "aim_move_cm": 0.0
+  },
+  "S009": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 13.1
+  },
+  "S010": {
+   "kind": "push",
+   "eye_move_cm": 13.6,
+   "aim_move_cm": 0.0
+  },
+  "S011": {
+   "kind": "track",
+   "eye_move_cm": 20.0,
+   "aim_move_cm": 20.0
+  },
+  "S012": {
+   "kind": "push",
+   "eye_move_cm": 16.3,
+   "aim_move_cm": 0.0
+  },
+  "S013": {
+   "kind": "pull",
+   "eye_move_cm": 16.3,
+   "aim_move_cm": 0.0
+  },
+  "S014": {
+   "kind": "push",
+   "eye_move_cm": 28.4,
+   "aim_move_cm": 0.0
+  },
+  "S015": {
+   "kind": "track",
+   "eye_move_cm": 20.0,
+   "aim_move_cm": 20.0
+  },
+  "S016": {
+   "kind": "push",
+   "eye_move_cm": 26.6,
+   "aim_move_cm": 0.0
+  },
+  "S017": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 14.4
+  },
+  "S018": {
+   "kind": "push",
+   "eye_move_cm": 18.5,
+   "aim_move_cm": 0.0
+  },
+  "S019": {
+   "kind": "tilt_up",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 13.2
+  },
+  "S020": {
+   "kind": "track",
+   "eye_move_cm": 20.0,
+   "aim_move_cm": 20.0
+  },
+  "S021": {
+   "kind": "push",
+   "eye_move_cm": 28.0,
+   "aim_move_cm": 0.0
+  },
+  "S022": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 14.7
+  },
+  "S023": {
+   "kind": "push",
+   "eye_move_cm": 28.9,
+   "aim_move_cm": 0.0
+  },
+  "S024": {
+   "kind": "pull",
+   "eye_move_cm": 12.9,
+   "aim_move_cm": 0.0
+  },
+  "S025": {
+   "kind": "push",
+   "eye_move_cm": 18.5,
+   "aim_move_cm": 0.0
+  },
+  "S026": {
+   "kind": "push",
+   "eye_move_cm": 13.0,
+   "aim_move_cm": 0.0
+  },
+  "S027": {
+   "kind": "tilt_up",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 8.2
+  },
+  "S028": {
+   "kind": "push",
+   "eye_move_cm": 16.4,
+   "aim_move_cm": 0.0
+  },
+  "S029": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 21.2
+  },
+  "S030": {
+   "kind": "push",
+   "eye_move_cm": 15.2,
+   "aim_move_cm": 0.0
+  },
+  "S031": {
+   "kind": "push",
+   "eye_move_cm": 16.6,
+   "aim_move_cm": 0.0
+  },
+  "S032": {
+   "kind": "pull",
+   "eye_move_cm": 12.0,
+   "aim_move_cm": 0.0
+  },
+  "S033": {
+   "kind": "track",
+   "eye_move_cm": 20.0,
+   "aim_move_cm": 20.0
+  },
+  "S034": {
+   "kind": "push",
+   "eye_move_cm": 19.1,
+   "aim_move_cm": 0.0
+  },
+  "S035": {
+   "kind": "push",
+   "eye_move_cm": 28.9,
+   "aim_move_cm": 0.0
+  },
+  "S036": {
+   "kind": "track",
+   "eye_move_cm": 20.0,
+   "aim_move_cm": 20.0
+  },
+  "S037": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 23.5
+  },
+  "S038": {
+   "kind": "push",
+   "eye_move_cm": 26.2,
+   "aim_move_cm": 0.0
+  },
+  "S039": {
+   "kind": "push",
+   "eye_move_cm": 27.1,
+   "aim_move_cm": 0.0
+  },
+  "S040": {
+   "kind": "pull",
+   "eye_move_cm": 15.3,
+   "aim_move_cm": 0.0
+  },
+  "S041": {
+   "kind": "tilt_up",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 10.4
+  },
+  "S042": {
+   "kind": "push",
+   "eye_move_cm": 13.3,
+   "aim_move_cm": 0.0
+  },
+  "S043": {
+   "kind": "push",
+   "eye_move_cm": 15.0,
+   "aim_move_cm": 0.0
+  },
+  "S044": {
+   "kind": "push",
+   "eye_move_cm": 14.4,
+   "aim_move_cm": 0.0
+  },
+  "S045": {
+   "kind": "crane_up",
+   "eye_move_cm": 18.0,
+   "aim_move_cm": 6.3
+  },
+  "S046": {
+   "kind": "push",
+   "eye_move_cm": 15.0,
+   "aim_move_cm": 0.0
+  },
+  "S047": {
+   "kind": "push",
+   "eye_move_cm": 17.3,
+   "aim_move_cm": 0.0
+  },
+  "S048": {
+   "kind": "tilt_down",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 12.0
+  },
+  "S049": {
+   "kind": "pull",
+   "eye_move_cm": 18.8,
+   "aim_move_cm": 0.0
+  },
+  "S050": {
+   "kind": "push",
+   "eye_move_cm": 18.6,
+   "aim_move_cm": 0.0
+  },
+  "S051": {
+   "kind": "push",
+   "eye_move_cm": 16.5,
+   "aim_move_cm": 0.0
+  },
+  "S052": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 12.9
+  },
+  "S053": {
+   "kind": "push",
+   "eye_move_cm": 16.0,
+   "aim_move_cm": 0.0
+  },
+  "S054": {
+   "kind": "push",
+   "eye_move_cm": 15.0,
+   "aim_move_cm": 0.0
+  },
+  "S055": {
+   "kind": "push",
+   "eye_move_cm": 13.2,
+   "aim_move_cm": 0.0
+  },
+  "S056": {
+   "kind": "tilt_down",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 10.4
+  },
+  "S057": {
+   "kind": "push",
+   "eye_move_cm": 14.1,
+   "aim_move_cm": 0.0
+  },
+  "S058": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 13.0
+  },
+  "S059": {
+   "kind": "push",
+   "eye_move_cm": 13.5,
+   "aim_move_cm": 0.0
+  },
+  "S060": {
+   "kind": "push",
+   "eye_move_cm": 15.8,
+   "aim_move_cm": 0.0
+  },
+  "S061": {
+   "kind": "tilt_up",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 12.0
+  },
+  "S062": {
+   "kind": "push",
+   "eye_move_cm": 17.6,
+   "aim_move_cm": 0.0
+  },
+  "S063": {
+   "kind": "push",
+   "eye_move_cm": 19.0,
+   "aim_move_cm": 0.0
+  },
+  "S064": {
+   "kind": "push",
+   "eye_move_cm": 18.5,
+   "aim_move_cm": 0.0
+  },
+  "S065": {
+   "kind": "pull",
+   "eye_move_cm": 13.2,
+   "aim_move_cm": 0.0
+  },
+  "S066": {
+   "kind": "push",
+   "eye_move_cm": 14.4,
+   "aim_move_cm": 0.0
+  },
+  "S067": {
+   "kind": "push",
+   "eye_move_cm": 16.0,
+   "aim_move_cm": 0.0
+  },
+  "S068": {
+   "kind": "crane_up",
+   "eye_move_cm": 18.0,
+   "aim_move_cm": 6.3
+  },
+  "S069": {
+   "kind": "crane_up",
+   "eye_move_cm": 18.0,
+   "aim_move_cm": 6.3
+  },
+  "S070": {
+   "kind": "pan",
+   "eye_move_cm": 0.0,
+   "aim_move_cm": 12.6
+  },
+  "S071": {
+   "kind": "push",
+   "eye_move_cm": 18.6,
+   "aim_move_cm": 0.0
+  }
+ },
+ "ok": true
+}

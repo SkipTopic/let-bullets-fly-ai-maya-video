@@ -1,0 +1,492 @@
+{
+ "scene": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/摆姿重建_v7.mb",
+ "time_unit": "film",
+ "chars": {
+  "Ma": {
+   "group": "CHR_Ma",
+   "joints": {
+    "head": {
+     "node": "Bip001Head",
+     "world_translate": [
+      0.0001,
+      113.2039,
+      -104.9187
+     ],
+     "local_rotate": [
+      0.0,
+      0.0,
+      75.8465
+     ],
+     "rotate_order": 0
+    },
+    "neck": {
+     "node": "Bip001Neck",
+     "world_translate": [
+      0.0001,
+      104.2453,
+      -107.0002
+     ],
+     "local_rotate": [
+      0.0001,
+      -0.0,
+      24.1288
+     ],
+     "rotate_order": 0
+    },
+    "spine": {
+     "node": "Bip001Spine2",
+     "world_translate": [
+      0.0003,
+      86.2119,
+      -102.4872
+     ],
+     "local_rotate": [
+      -0.0,
+      -0.0,
+      -5.4572
+     ],
+     "rotate_order": 0
+    },
+    "handL": {
+     "node": "Bip001LHand",
+     "world_translate": [
+      18.0,
+      81.75,
+      -78.0
+     ],
+     "local_rotate": [
+      -35.8248,
+      -80.4108,
+      33.5888
+     ],
+     "rotate_order": 0
+    },
+    "handR": {
+     "node": "Bip001RHand",
+     "world_translate": [
+      -18.0,
+      81.75,
+      -78.0
+     ],
+     "local_rotate": [
+      35.8259,
+      80.4109,
+      33.59
+     ],
+     "rotate_order": 0
+    },
+    "elbowL": {
+     "node": "Bip001LForearm",
+     "world_translate": [
+      26.1962,
+      85.1393,
+      -97.1074
+     ],
+     "local_rotate": [
+      147.7885,
+      -165.0127,
+      121.1933
+     ],
+     "rotate_order": 0
+    },
+    "elbowR": {
+     "node": "Bip001RForearm",
+     "world_translate": [
+      -26.1963,
+      85.1393,
+      -97.1073
+     ],
+     "local_rotate": [
+      32.2117,
+      14.9873,
+      -58.8065
+     ],
+     "rotate_order": 0
+    },
+    "shoulderL": {
+     "node": "Bip001LClavicle",
+     "world_translate": [
+      2.7727,
+      100.3867,
+      -105.199
+     ],
+     "local_rotate": [
+      84.1684,
+      -12.0785,
+      179.954
+     ],
+     "rotate_order": 0
+    },
+    "shoulderR": {
+     "node": "Bip001RClavicle",
+     "world_translate": [
+      -2.7729,
+      100.3867,
+      -105.199
+     ],
+     "local_rotate": [
+      -84.1689,
+      12.078,
+      179.9544
+     ],
+     "rotate_order": 0
+    }
+   },
+   "missing": [],
+   "group_world_translate": [
+    0.0,
+    -27.351174999999984,
+    -102.0
+   ],
+   "group_rotate_y": 0.0
+  },
+  "Huang": {
+   "group": "CHR_Huang",
+   "joints": {
+    "head": {
+     "node": "Huang_Head",
+     "world_translate": [
+      88.3458,
+      123.0757,
+      51.0065
+     ],
+     "local_rotate": [
+      -4.6673,
+      0.002,
+      0.0016
+     ],
+     "rotate_order": 0
+    },
+    "neck": {
+     "node": "Huang_Neck",
+     "world_translate": [
+      89.4359,
+      114.2401,
+      51.6359
+     ],
+     "local_rotate": [
+      12.3445,
+      0.0001,
+      0.0001
+     ],
+     "rotate_order": 0
+    },
+    "spine": {
+     "node": "Huang_Spine1",
+     "world_translate": [
+      87.021,
+      90.1302,
+      50.2416
+     ],
+     "local_rotate": [
+      -8.4779,
+      -0.0,
+      -0.0
+     ],
+     "rotate_order": 0
+    },
+    "handL": {
+     "node": "Huang_LeftHand",
+     "world_translate": [
+      76.6983,
+      63.5856,
+      68.4773
+     ],
+     "local_rotate": [
+      -0.0,
+      0.0,
+      -180.0
+     ],
+     "rotate_order": 0
+    },
+    "handR": {
+     "node": "Huang_RightHand",
+     "world_translate": [
+      97.6522,
+      63.5856,
+      32.1841
+     ],
+     "local_rotate": [
+      -0.0,
+      -0.0,
+      -180.0
+     ],
+     "rotate_order": 0
+    },
+    "elbowL": {
+     "node": "Huang_LeftForeArm",
+     "world_translate": [
+      81.3255,
+      87.4463,
+      78.8248
+     ],
+     "local_rotate": [
+      -113.7251,
+      59.525,
+      112.7467
+     ],
+     "rotate_order": 0
+    },
+    "elbowR": {
+     "node": "Huang_RightForeArm",
+     "world_translate": [
+      108.927,
+      87.4463,
+      31.0175
+     ],
+     "local_rotate": [
+      43.5922,
+      11.309,
+      151.5115
+     ],
+     "rotate_order": 0
+    },
+    "shoulderL": {
+     "node": "Huang_LeftShoulder",
+     "world_translate": [
+      86.2132,
+      111.3636,
+      51.9776
+     ],
+     "local_rotate": [
+      -71.4239,
+      -76.7408,
+      -26.6123
+     ],
+     "rotate_order": 0
+    },
+    "shoulderR": {
+     "node": "Huang_RightShoulder",
+     "world_translate": [
+      88.1205,
+      111.3636,
+      48.674
+     ],
+     "local_rotate": [
+      71.424,
+      -103.2592,
+      26.6123
+     ],
+     "rotate_order": 0
+    }
+   },
+   "missing": [],
+   "group_world_translate": [
+    88.33459118601274,
+    -46.25695188721299,
+    50.99999999999999
+   ],
+   "group_rotate_y": -119.99999999999999
+  },
+  "Shiye": {
+   "group": "CHR_Shiye",
+   "joints": {
+    "head": {
+     "node": "Shiye_Head",
+     "world_translate": [
+      -89.0671,
+      123.9621,
+      51.4229
+     ],
+     "local_rotate": [
+      1.7942,
+      0.0021,
+      0.0021
+     ],
+     "rotate_order": 0
+    },
+    "neck": {
+     "node": "Shiye_Neck",
+     "world_translate": [
+      -89.436,
+      113.0487,
+      51.6359
+     ],
+     "local_rotate": [
+      7.7483,
+      -0.0,
+      0.0
+     ],
+     "rotate_order": 0
+    },
+    "spine": {
+     "node": "Shiye_Spine1",
+     "world_translate": [
+      -87.5408,
+      90.3772,
+      50.5417
+     ],
+     "local_rotate": [
+      -8.2154,
+      -0.0,
+      -0.0
+     ],
+     "rotate_order": 0
+    },
+    "handL": {
+     "node": "Shiye_LeftHand",
+     "world_translate": [
+      -97.6523,
+      64.5898,
+      32.1841
+     ],
+     "local_rotate": [
+      0.0001,
+      -180.0,
+      -0.0
+     ],
+     "rotate_order": 0
+    },
+    "handR": {
+     "node": "Shiye_RightHand",
+     "world_translate": [
+      -76.6984,
+      64.5898,
+      68.4773
+     ],
+     "local_rotate": [
+      0.0,
+      0.0,
+      180.0
+     ],
+     "rotate_order": 0
+    },
+    "elbowL": {
+     "node": "Shiye_LeftForeArm",
+     "world_translate": [
+      -108.7032,
+      87.4279,
+      31.0552
+     ],
+     "local_rotate": [
+      136.6742,
+      11.4753,
+      -151.6079
+     ],
+     "rotate_order": 0
+    },
+    "elbowR": {
+     "node": "Shiye_RightForeArm",
+     "world_translate": [
+      -81.2462,
+      87.4279,
+      78.6121
+     ],
+     "local_rotate": [
+      -136.6742,
+      168.5246,
+      -28.392
+     ],
+     "rotate_order": 0
+    },
+    "shoulderL": {
+     "node": "Shiye_LeftShoulder",
+     "world_translate": [
+      -88.1206,
+      111.4702,
+      48.674
+     ],
+     "local_rotate": [
+      -66.6583,
+      -76.1225,
+      -31.2452
+     ],
+     "rotate_order": 0
+    },
+    "shoulderR": {
+     "node": "Shiye_RightShoulder",
+     "world_translate": [
+      -86.2132,
+      111.4702,
+      51.9776
+     ],
+     "local_rotate": [
+      66.658,
+      -103.8774,
+      31.2454
+     ],
+     "rotate_order": 0
+    }
+   },
+   "missing": [],
+   "group_world_translate": [
+    -88.33459118601274,
+    -39.52623143874345,
+    50.99999999999999
+   ],
+   "group_rotate_y": 119.99999999999999
+  }
+ },
+ "set_children": [
+  "SET_back_0",
+  "SET_back_1",
+  "SET_back_2",
+  "SET_bottle",
+  "SET_bowl_0",
+  "SET_col_0",
+  "SET_col_1",
+  "SET_col_2",
+  "SET_col_3",
+  "SET_col_4",
+  "SET_col_5",
+  "SET_contact_shadow",
+  "SET_cup_0",
+  "SET_floor",
+  "SET_house_body",
+  "SET_house_eave",
+  "SET_leg_0",
+  "SET_leg_1",
+  "SET_leg_2",
+  "SET_lowwall_L",
+  "SET_lowwall_R",
+  "SET_roof",
+  "SET_seat_0",
+  "SET_seat_1",
+  "SET_seat_2",
+  "SET_sky1",
+  "SET_step",
+  "SET_table_top",
+  "SET_tree_0",
+  "SET_tree_1"
+ ],
+ "pose_review_cams": [
+  "REVIEW_Huang_front1",
+  "REVIEW_Huang_left1",
+  "REVIEW_Huang_right1",
+  "REVIEW_Huang_top1",
+  "REVIEW_Ma_front1",
+  "REVIEW_Ma_left1",
+  "REVIEW_Ma_right1",
+  "REVIEW_Ma_top1",
+  "REVIEW_Scene_front1",
+  "REVIEW_Scene_left1",
+  "REVIEW_Scene_right1",
+  "REVIEW_Scene_top1",
+  "REVIEW_Shiye_front1",
+  "REVIEW_Shiye_left1",
+  "REVIEW_Shiye_right1",
+  "REVIEW_Shiye_top1"
+ ],
+ "cameras_all": [
+  "REVIEW_Huang_front1",
+  "REVIEW_Huang_left1",
+  "REVIEW_Huang_right1",
+  "REVIEW_Huang_top1",
+  "REVIEW_Ma_front1",
+  "REVIEW_Ma_left1",
+  "REVIEW_Ma_right1",
+  "REVIEW_Ma_top1",
+  "REVIEW_Scene_front1",
+  "REVIEW_Scene_left1",
+  "REVIEW_Scene_right1",
+  "REVIEW_Scene_top1",
+  "REVIEW_Shiye_front1",
+  "REVIEW_Shiye_left1",
+  "REVIEW_Shiye_right1",
+  "REVIEW_Shiye_top1",
+  "front",
+  "persp",
+  "side",
+  "top"
+ ]
+}

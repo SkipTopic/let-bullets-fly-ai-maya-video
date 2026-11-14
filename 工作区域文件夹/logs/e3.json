@@ -1,0 +1,34 @@
+{
+ "errors": [],
+ "rest_h": 151.0,
+ "after_ik_h": 151.0,
+ "scales_after_ik": {
+  "Huang_LeftHand": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "Huang_LeftHandTwist": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "Huang_LeftForeArm": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "Huang_LeftArmTwist": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "Huang_LeftArm": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "after_reset_scale_h": 151.0,
+ "ok": true
+}

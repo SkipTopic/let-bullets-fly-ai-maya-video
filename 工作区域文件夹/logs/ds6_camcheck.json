@@ -1,0 +1,294 @@
+{
+ "cams": {
+  "P_MA": {
+   "node": "DS_P_MA_CAM1",
+   "eye_actual": [
+    -45.23,
+    108.0,
+    91.22
+   ],
+   "eye_wanted": [
+    -45.23,
+    108,
+    91.22
+   ],
+   "fwd_actual": [
+    0.213,
+    0.011,
+    -0.977
+   ],
+   "fwd_to_aim": [
+    0.213,
+    0.011,
+    -0.977
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 59.95,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 201.7
+  },
+  "P_HUANG": {
+   "node": "DS_P_HUANG_CAM1",
+   "eye_actual": [
+    -109.67,
+    118.0,
+    -1.93
+   ],
+   "eye_wanted": [
+    -109.67,
+    118.0,
+    -1.93
+   ],
+   "fwd_actual": [
+    0.966,
+    0.011,
+    0.26
+   ],
+   "fwd_to_aim": [
+    0.966,
+    0.011,
+    0.26
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 58.18,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 150.8
+  },
+  "P_SHIYE": {
+   "node": "DS_P_SHIYE_CAM1",
+   "eye_actual": [
+    112.74,
+    118.0,
+    -2.76
+   ],
+   "eye_wanted": [
+    112.74,
+    118,
+    -2.76
+   ],
+   "fwd_actual": [
+    -0.966,
+    0.013,
+    0.259
+   ],
+   "fwd_to_aim": [
+    -0.966,
+    0.013,
+    0.259
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 58.18,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 152.4
+  },
+  "S001": {
+   "node": "DS_S001_CAM1",
+   "eye_actual": [
+    -44.94,
+    108.0,
+    90.19
+   ],
+   "eye_wanted": [
+    -44.94,
+    108,
+    90.19
+   ],
+   "fwd_actual": [
+    0.2,
+    0.007,
+    -0.98
+   ],
+   "fwd_to_aim": [
+    0.2,
+    0.007,
+    -0.98
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 57.95,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 200.6
+  },
+  "S002": {
+   "node": "DS_S002_CAM1",
+   "eye_actual": [
+    -89.53,
+    117.0,
+    -6.05
+   ],
+   "eye_wanted": [
+    -89.53,
+    117.0,
+    -6.05
+   ],
+   "fwd_actual": [
+    0.952,
+    0.016,
+    0.306
+   ],
+   "fwd_to_aim": [
+    0.952,
+    0.016,
+    0.306
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 56.13,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 133.7
+  },
+  "S003": {
+   "node": "DS_S003_CAM1",
+   "eye_actual": [
+    -131.61,
+    112.0,
+    88.63
+   ],
+   "eye_wanted": [
+    -131.61,
+    112.0,
+    88.63
+   ],
+   "fwd_actual": [
+    0.583,
+    -0.013,
+    -0.812
+   ],
+   "fwd_to_aim": [
+    0.583,
+    -0.013,
+    -0.812
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 60.1,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 234.3
+  },
+  "S004": {
+   "node": "DS_S004_CAM1",
+   "eye_actual": [
+    -44.14,
+    120.0,
+    -141.18
+   ],
+   "eye_wanted": [
+    -44.14,
+    120,
+    -141.18
+   ],
+   "fwd_actual": [
+    0.604,
+    -0.002,
+    0.797
+   ],
+   "fwd_to_aim": [
+    0.604,
+    -0.002,
+    0.797
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 59.95,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 57.4
+  },
+  "S005": {
+   "node": "DS_S005_CAM1",
+   "eye_actual": [
+    29.99,
+    109.0,
+    107.59
+   ],
+   "eye_wanted": [
+    29.99,
+    109.0,
+    107.59
+   ],
+   "fwd_actual": [
+    -0.14,
+    0.005,
+    -0.99
+   ],
+   "fwd_to_aim": [
+    -0.14,
+    0.005,
+    -0.99
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 62.0,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 215.0
+  },
+  "S006": {
+   "node": "DS_S006_CAM1",
+   "eye_actual": [
+    -61.32,
+    118.0,
+    -71.07
+   ],
+   "eye_wanted": [
+    -61.32,
+    118,
+    -71.07
+   ],
+   "fwd_actual": [
+    0.762,
+    0.012,
+    0.648
+   ],
+   "fwd_to_aim": [
+    0.762,
+    0.012,
+    0.648
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 60.1,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 70.4
+  },
+  "S007": {
+   "node": "DS_S007_CAM1",
+   "eye_actual": [
+    -66.69,
+    110.0,
+    103.85
+   ],
+   "eye_wanted": [
+    -66.69,
+    110.0,
+    103.85
+   ],
+   "fwd_actual": [
+    0.304,
+    -0.002,
+    -0.953
+   ],
+   "fwd_to_aim": [
+    0.304,
+    -0.002,
+    -0.953
+   ],
+   "angle_to_aim_deg": 0.0,
+   "focal": 55.13,
+   "hfa": 36.0,
+   "vfa": 20.25,
+   "filmfit": 1,
+   "dist_to_Ma": 219.5
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "count": 299,
+ "sample": [
+  "CAM_S001Shape1",
+  "CAM_S002Shape1",
+  "CAM_S003Shape1",
+  "CAM_S004Shape1",
+  "CAM_S005Shape1",
+  "CAM_S006Shape1",
+  "CAM_S007Shape1",
+  "CAM_S008Shape1",
+  "CAM_S009Shape1",
+  "CAM_S010Shape1",
+  "CAM_S011Shape1",
+  "CAM_S012Shape1"
+ ],
+ "transforms": [
+  "CAM_S1",
+  "CAM_S2",
+  "CAM_S3",
+  "CAM_S4",
+  "CAM_S5",
+  "CAM_S6",
+  "CAM_S7",
+  "CAM_S8",
+  "CAM_S9",
+  "CAM_S10",
+  "CAM_S11",
+  "CAM_S12"
+ ]
+}

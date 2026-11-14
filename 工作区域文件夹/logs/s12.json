@@ -1,0 +1,6 @@
+{
+ "errors": [
+  "ValueError('没有与名称匹配的对象: CAMX001X.translate')"
+ ],
+ "trace": "Traceback (most recent call last):\n  File \"C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scripts/s12_look.py\", line 11, in <module>\n    OUT[\"pos\"] = [round(v,1) for v in cmds.getAttr(cam+\".translate\")[0]]\nValueError: 没有与名称匹配的对象: CAMX001X.translate\n"
+}

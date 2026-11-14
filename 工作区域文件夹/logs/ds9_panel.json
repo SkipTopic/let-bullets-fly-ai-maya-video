@@ -1,0 +1,15 @@
+{
+ "attrs": {
+  "cam.focalLength": 57.95,
+  "cam.horizontalFilmAperture": 36.0,
+  "cam.verticalFilmAperture": 20.25,
+  "cam.filmFit": 1,
+  "cam.overscan": 1.0,
+  "cam.panZoomEnabled": false,
+  "cam.centerOfInterest": 5.0,
+  "cam.orthographic": false
+ },
+ "errors": [
+  "ValueError('没有与名称匹配的对象: modelPanel4')"
+ ]
+}

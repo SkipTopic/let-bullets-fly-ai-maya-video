@@ -1,0 +1,13 @@
+{
+ "errors": [
+  "ValueError('没有与名称匹配的对象: CAM_S001.translate')"
+ ],
+ "meshes": 62,
+ "cams": 142,
+ "lights": [
+  "LGT_fillShape",
+  "LGT_keyShape",
+  "LGT_rimShape"
+ ],
+ "trace": "Traceback (most recent call last):\n  File \"C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scripts/s10_diag.py\", line 15, in <module>\n    OUT[\"cam_pos\"] = [round(v,1) for v in cmds.getAttr(cam + \".translate\")[0]]\nValueError: 没有与名称匹配的对象: CAM_S001.translate\n"
+}

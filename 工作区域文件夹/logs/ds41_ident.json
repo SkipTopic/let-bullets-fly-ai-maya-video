@@ -1,0 +1,846 @@
+{
+ "errors": [],
+ "map": {
+  "Huang": [
+   {
+    "idx": 0,
+    "color": [
+     1.0,
+     0.0,
+     0.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_14",
+    "faces": 3607,
+    "y": 91.3
+   },
+   {
+    "idx": 1,
+    "color": [
+     0.0,
+     1.0,
+     0.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_14",
+    "faces": 3607,
+    "y": 91.3
+   },
+   {
+    "idx": 2,
+    "color": [
+     0.0,
+     0.0,
+     1.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_0",
+    "faces": 1923,
+    "y": 128.9
+   },
+   {
+    "idx": 3,
+    "color": [
+     1.0,
+     1.0,
+     0.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_0",
+    "faces": 1923,
+    "y": 128.9
+   },
+   {
+    "idx": 4,
+    "color": [
+     1.0,
+     0.0,
+     1.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_13",
+    "faces": 1504,
+    "y": 55.0
+   },
+   {
+    "idx": 5,
+    "color": [
+     0.0,
+     1.0,
+     1.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_13",
+    "faces": 1504,
+    "y": 55.0
+   },
+   {
+    "idx": 6,
+    "color": [
+     1.0,
+     0.5,
+     0.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_15",
+    "faces": 1338,
+    "y": 38.7
+   },
+   {
+    "idx": 7,
+    "color": [
+     0.5,
+     0.0,
+     1.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_15",
+    "faces": 1338,
+    "y": 38.7
+   },
+   {
+    "idx": 8,
+    "color": [
+     0.0,
+     0.45,
+     0.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_1",
+    "faces": 1176,
+    "y": 125.1
+   },
+   {
+    "idx": 9,
+    "color": [
+     1.0,
+     0.6,
+     0.7
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_1",
+    "faces": 1176,
+    "y": 125.1
+   },
+   {
+    "idx": 10,
+    "color": [
+     0.5,
+     0.25,
+     0.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_9",
+    "faces": 760,
+    "y": 127.2
+   },
+   {
+    "idx": 11,
+    "color": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_9",
+    "faces": 760,
+    "y": 127.2
+   },
+   {
+    "idx": 12,
+    "color": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_2",
+    "faces": 372,
+    "y": 135.5
+   },
+   {
+    "idx": 13,
+    "color": [
+     0.05,
+     0.05,
+     0.05
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_2",
+    "faces": 372,
+    "y": 135.5
+   },
+   {
+    "idx": 14,
+    "color": [
+     0.4,
+     0.6,
+     1.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_3",
+    "faces": 182,
+    "y": 97.6
+   },
+   {
+    "idx": 15,
+    "color": [
+     0.6,
+     0.6,
+     0.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_3",
+    "faces": 182,
+    "y": 97.6
+   },
+   {
+    "idx": 16,
+    "color": [
+     0.0,
+     0.5,
+     0.5
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_7",
+    "faces": 146,
+    "y": 129.6
+   },
+   {
+    "idx": 17,
+    "color": [
+     0.9,
+     0.4,
+     0.4
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_7",
+    "faces": 146,
+    "y": 129.6
+   },
+   {
+    "idx": 18,
+    "color": [
+     0.3,
+     0.1,
+     0.1
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_8",
+    "faces": 78,
+    "y": 123.2
+   },
+   {
+    "idx": 19,
+    "color": [
+     0.7,
+     0.9,
+     0.3
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_8",
+    "faces": 78,
+    "y": 123.2
+   },
+   {
+    "idx": 20,
+    "color": [
+     1.0,
+     0.0,
+     0.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_10",
+    "faces": 60,
+    "y": 123.2
+   },
+   {
+    "idx": 21,
+    "color": [
+     0.0,
+     1.0,
+     0.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_10",
+    "faces": 60,
+    "y": 123.2
+   },
+   {
+    "idx": 22,
+    "color": [
+     0.0,
+     0.0,
+     1.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_4",
+    "faces": 48,
+    "y": 129.6
+   },
+   {
+    "idx": 23,
+    "color": [
+     1.0,
+     1.0,
+     0.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_4",
+    "faces": 48,
+    "y": 129.6
+   },
+   {
+    "idx": 24,
+    "color": [
+     1.0,
+     0.0,
+     1.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_12",
+    "faces": 43,
+    "y": 123.0
+   },
+   {
+    "idx": 25,
+    "color": [
+     0.0,
+     1.0,
+     1.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_12",
+    "faces": 43,
+    "y": 123.0
+   },
+   {
+    "idx": 26,
+    "color": [
+     1.0,
+     0.5,
+     0.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_6",
+    "faces": 36,
+    "y": 129.5
+   },
+   {
+    "idx": 27,
+    "color": [
+     0.5,
+     0.0,
+     1.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_6",
+    "faces": 36,
+    "y": 129.5
+   },
+   {
+    "idx": 28,
+    "color": [
+     0.0,
+     0.45,
+     0.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_16",
+    "faces": 24,
+    "y": 129.7
+   },
+   {
+    "idx": 29,
+    "color": [
+     1.0,
+     0.6,
+     0.7
+    ],
+    "mat": "XASC032Shinjiro_meshShape_16",
+    "faces": 24,
+    "y": 129.7
+   },
+   {
+    "idx": 30,
+    "color": [
+     0.5,
+     0.25,
+     0.0
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_5",
+    "faces": 22,
+    "y": 130.4
+   },
+   {
+    "idx": 31,
+    "color": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "mat": "BXASC032Shinjiro_meshShape_5",
+    "faces": 22,
+    "y": 130.4
+   },
+   {
+    "idx": 32,
+    "color": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "mat": "XASC032Shinjiro_meshShape_11",
+    "faces": 11,
+    "y": 122.5
+   },
+   {
+    "idx": 33,
+    "color": [
+     0.05,
+     0.05,
+     0.05
+    ],
+    "mat": "XASC032Shinjiro_meshShape_11",
+    "faces": 11,
+    "y": 122.5
+   }
+  ],
+  "Shiye": [
+   {
+    "idx": 0,
+    "color": [
+     1.0,
+     0.0,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_15",
+    "faces": 2276,
+    "y": 97.1
+   },
+   {
+    "idx": 1,
+    "color": [
+     0.0,
+     1.0,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_15",
+    "faces": 2276,
+    "y": 97.1
+   },
+   {
+    "idx": 2,
+    "color": [
+     0.0,
+     0.0,
+     1.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_19",
+    "faces": 1527,
+    "y": 39.0
+   },
+   {
+    "idx": 3,
+    "color": [
+     1.0,
+     1.0,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_19",
+    "faces": 1527,
+    "y": 39.0
+   },
+   {
+    "idx": 4,
+    "color": [
+     1.0,
+     0.0,
+     1.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_14",
+    "faces": 1504,
+    "y": 64.8
+   },
+   {
+    "idx": 5,
+    "color": [
+     0.0,
+     1.0,
+     1.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_14",
+    "faces": 1504,
+    "y": 64.8
+   },
+   {
+    "idx": 6,
+    "color": [
+     1.0,
+     0.5,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_10",
+    "faces": 692,
+    "y": 127.5
+   },
+   {
+    "idx": 7,
+    "color": [
+     0.5,
+     0.0,
+     1.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_10",
+    "faces": 692,
+    "y": 127.5
+   },
+   {
+    "idx": 8,
+    "color": [
+     0.0,
+     0.45,
+     0.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_0",
+    "faces": 631,
+    "y": 68.2
+   },
+   {
+    "idx": 9,
+    "color": [
+     1.0,
+     0.6,
+     0.7
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_0",
+    "faces": 631,
+    "y": 68.2
+   },
+   {
+    "idx": 10,
+    "color": [
+     0.5,
+     0.25,
+     0.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_3",
+    "faces": 500,
+    "y": 137.6
+   },
+   {
+    "idx": 11,
+    "color": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_3",
+    "faces": 500,
+    "y": 137.6
+   },
+   {
+    "idx": 12,
+    "color": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_2",
+    "faces": 392,
+    "y": 135.5
+   },
+   {
+    "idx": 13,
+    "color": [
+     0.05,
+     0.05,
+     0.05
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_2",
+    "faces": 392,
+    "y": 135.5
+   },
+   {
+    "idx": 14,
+    "color": [
+     0.4,
+     0.6,
+     1.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_18",
+    "faces": 252,
+    "y": 81.9
+   },
+   {
+    "idx": 15,
+    "color": [
+     0.6,
+     0.6,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_18",
+    "faces": 252,
+    "y": 81.9
+   },
+   {
+    "idx": 16,
+    "color": [
+     0.0,
+     0.5,
+     0.5
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_16",
+    "faces": 244,
+    "y": 71.3
+   },
+   {
+    "idx": 17,
+    "color": [
+     0.9,
+     0.4,
+     0.4
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_16",
+    "faces": 244,
+    "y": 71.3
+   },
+   {
+    "idx": 18,
+    "color": [
+     0.3,
+     0.1,
+     0.1
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_20",
+    "faces": 241,
+    "y": 55.2
+   },
+   {
+    "idx": 19,
+    "color": [
+     0.7,
+     0.9,
+     0.3
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_20",
+    "faces": 241,
+    "y": 55.2
+   },
+   {
+    "idx": 20,
+    "color": [
+     1.0,
+     0.0,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_17",
+    "faces": 206,
+    "y": 74.6
+   },
+   {
+    "idx": 21,
+    "color": [
+     0.0,
+     1.0,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_17",
+    "faces": 206,
+    "y": 74.6
+   },
+   {
+    "idx": 22,
+    "color": [
+     0.0,
+     0.0,
+     1.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_1",
+    "faces": 182,
+    "y": 101.1
+   },
+   {
+    "idx": 23,
+    "color": [
+     1.0,
+     1.0,
+     0.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_1",
+    "faces": 182,
+    "y": 101.1
+   },
+   {
+    "idx": 24,
+    "color": [
+     1.0,
+     0.0,
+     1.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_7",
+    "faces": 154,
+    "y": 130.9
+   },
+   {
+    "idx": 25,
+    "color": [
+     0.0,
+     1.0,
+     1.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_7",
+    "faces": 154,
+    "y": 130.9
+   },
+   {
+    "idx": 26,
+    "color": [
+     1.0,
+     0.5,
+     0.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_8",
+    "faces": 142,
+    "y": 124.0
+   },
+   {
+    "idx": 27,
+    "color": [
+     0.5,
+     0.0,
+     1.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_8",
+    "faces": 142,
+    "y": 124.0
+   },
+   {
+    "idx": 28,
+    "color": [
+     0.0,
+     0.45,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_13",
+    "faces": 64,
+    "y": 65.6
+   },
+   {
+    "idx": 29,
+    "color": [
+     1.0,
+     0.6,
+     0.7
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_13",
+    "faces": 64,
+    "y": 65.6
+   },
+   {
+    "idx": 30,
+    "color": [
+     0.5,
+     0.25,
+     0.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_11",
+    "faces": 60,
+    "y": 123.3
+   },
+   {
+    "idx": 31,
+    "color": [
+     0.5,
+     0.5,
+     0.5
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_11",
+    "faces": 60,
+    "y": 123.3
+   },
+   {
+    "idx": 32,
+    "color": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_12",
+    "faces": 60,
+    "y": 123.0
+   },
+   {
+    "idx": 33,
+    "color": [
+     0.05,
+     0.05,
+     0.05
+    ],
+    "mat": "eiFBXASC032Iori_meshShape_12",
+    "faces": 60,
+    "y": 123.0
+   },
+   {
+    "idx": 34,
+    "color": [
+     0.4,
+     0.6,
+     1.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_4",
+    "faces": 48,
+    "y": 130.2
+   },
+   {
+    "idx": 35,
+    "color": [
+     0.6,
+     0.6,
+     0.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_4",
+    "faces": 48,
+    "y": 130.2
+   },
+   {
+    "idx": 36,
+    "color": [
+     0.0,
+     0.5,
+     0.5
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_5",
+    "faces": 44,
+    "y": 133.2
+   },
+   {
+    "idx": 37,
+    "color": [
+     0.9,
+     0.4,
+     0.4
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_5",
+    "faces": 44,
+    "y": 133.2
+   },
+   {
+    "idx": 38,
+    "color": [
+     0.3,
+     0.1,
+     0.1
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_6",
+    "faces": 36,
+    "y": 129.6
+   },
+   {
+    "idx": 39,
+    "color": [
+     0.7,
+     0.9,
+     0.3
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_6",
+    "faces": 36,
+    "y": 129.6
+   },
+   {
+    "idx": 40,
+    "color": [
+     1.0,
+     0.0,
+     0.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_9",
+    "faces": 22,
+    "y": 130.7
+   },
+   {
+    "idx": 41,
+    "color": [
+     0.0,
+     1.0,
+     0.0
+    ],
+    "mat": "peiFBXASC032Iori_meshShape_9",
+    "faces": 22,
+    "y": 130.7
+   }
+  ]
+ },
+ "ok": true
+}

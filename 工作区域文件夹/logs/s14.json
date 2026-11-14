@@ -1,0 +1,16 @@
+{
+ "errors": [],
+ "panels": [
+  "modelPanel1",
+  "modelPanel2",
+  "modelPanel3",
+  "modelPanel4"
+ ],
+ "now_cam": "|GRP_CAMERAS|CAMX001X1",
+ "now_cam2": "|GRP_CAMERAS|CAMX001X1",
+ "lights_mode": "default",
+ "a": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_接手检查\\s14_a.0000.png",
+ "b": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_接手检查\\s14_b.0000.png",
+ "persp_cam": "|persp",
+ "ok": true
+}

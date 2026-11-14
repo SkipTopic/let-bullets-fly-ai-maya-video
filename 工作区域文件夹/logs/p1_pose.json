@@ -1,0 +1,88 @@
+{
+ "errors": [],
+ "Ma": {
+  "geo": "Ma_MakotoFBXASC032Yuki_mesh",
+  "joints": 179,
+  "grp": "GRP_Ma",
+  "root_dy": -53.45,
+  "hip": [
+   -97.1,
+   46.0,
+   -65.5
+  ],
+  "head": [
+   -69.59,
+   92.7,
+   -46.94
+  ],
+  "foot": [
+   -121.88,
+   -5.8,
+   -90.58
+  ],
+  "handL": [
+   -72.08,
+   58.71,
+   -97.53
+  ]
+ },
+ "Huang": {
+  "geo": "Huang_AragakiFBXASC032Shinjiro_mesh",
+  "joints": 176,
+  "grp": "GRP_Huang",
+  "root_dy": -60.88,
+  "hip": [
+   96.5,
+   46.0,
+   -65.09
+  ],
+  "head": [
+   78.02,
+   105.46,
+   -52.63
+  ],
+  "foot": [
+   133.07,
+   -6.9,
+   -79.92
+  ],
+  "handL": [
+   122.14,
+   62.76,
+   -23.04
+  ]
+ },
+ "Shiye": {
+  "geo": "Shiye_JunpeiFBXASC032Iori_mesh",
+  "joints": 156,
+  "grp": "GRP_Shiye",
+  "root_dy": -50.0,
+  "hip": [
+   0.0,
+   46.0,
+   -117.86
+  ],
+  "head": [
+   -0.0,
+   111.34,
+   -96.83
+  ],
+  "foot": [
+   7.55,
+   1.09,
+   -155.22
+  ],
+  "handL": [
+   15.59,
+   52.84,
+   -118.58
+  ]
+ },
+ "shots": {
+  "wide": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_接手检查\\p1_wide.0000.png",
+  "med": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_接手检查\\p1_med.0000.png",
+  "close": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_接手检查\\p1_close.0000.png",
+  "side": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_接手检查\\p1_side.0000.png"
+ },
+ "ok": true
+}

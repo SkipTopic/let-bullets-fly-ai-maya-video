@@ -1,0 +1,33 @@
+{
+ "errors": [],
+ "bbox_before": [
+  -32.2,
+  -17.8,
+  -122.6,
+  21.8,
+  111.8,
+  -53.1
+ ],
+ "bbox_after": [
+  -32.2,
+  -17.8,
+  -122.6,
+  21.8,
+  111.8,
+  -53.1
+ ],
+ "same": true,
+ "dx": 15.0,
+ "top": [
+  "SCENE"
+ ],
+ "chars_children": [
+  "CHR_Ma",
+  "CHR_Huang",
+  "CHR_Shiye",
+  "Ma_MakotoFBXASC032Yuki_mesh",
+  "Huang_AragakiFBXASC032Shinjiro_mesh",
+  "Shiye_JunpeiFBXASC032Iori_mesh"
+ ],
+ "ok": true
+}

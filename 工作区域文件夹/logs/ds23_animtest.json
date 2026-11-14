@@ -1,0 +1,17 @@
+{
+ "errors": [],
+ "steps": [
+  "hand moved 24.5 cm"
+ ],
+ "hand_target": [
+  0.0,
+  96.0,
+  -91.2
+ ],
+ "hand_reached": [
+  -9.4,
+  99.6,
+  -92.5
+ ],
+ "ok": true
+}

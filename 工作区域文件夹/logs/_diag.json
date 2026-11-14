@@ -1,0 +1,43 @@
+{
+ "count": 511,
+ "sample": [
+  "Huang_Bone",
+  "Huang_Bone_1",
+  "Huang_Center",
+  "Huang_Eyes",
+  "Huang_FBXASC048_0",
+  "Huang_FBXASC048_1",
+  "Huang_FBXASC048_2",
+  "Huang_FBXASC048_3",
+  "Huang_FBXASC048_4",
+  "Huang_FBXASC048_5",
+  "Huang_FBXASC048_6",
+  "Huang_FBXASC048_7",
+  "Huang_FBXASC048_8",
+  "Huang_FBXASC048_9",
+  "Huang_FBXASC048_10",
+  "Huang_FBXASC048_11",
+  "Huang_FBXASC049_0",
+  "Huang_FBXASC049_1",
+  "Huang_FBXASC049_2",
+  "Huang_FBXASC049_3",
+  "Huang_FBXASC049_4",
+  "Huang_FBXASC049_5",
+  "Huang_FBXASC049_6",
+  "Huang_FBXASC049_7",
+  "Huang_FBXASC049_8",
+  "Huang_FBXASC049_9",
+  "Huang_FBXASC049_10",
+  "Huang_FBXASC049_11",
+  "Huang_FBXASC050_0",
+  "Huang_FBXASC050_1"
+ ],
+ "has_MaHips": [],
+ "roots": [
+  "Ma_Bone",
+  "Ma_Bone_1",
+  "Ma_Center",
+  "Ma_Eyes",
+  "Ma_FBXASC048_1"
+ ]
+}

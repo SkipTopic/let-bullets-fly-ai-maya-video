@@ -1,0 +1,700 @@
+{
+ "NH_MaleM": {
+  "file": "NH_MaleM_140.fbx",
+  "size_mb": 21.0,
+  "armatures": [
+   {
+    "name": "Armature",
+    "bones": 242,
+    "ws_scale": [
+     0.01,
+     0.01,
+     0.01
+    ],
+    "sample": [
+     "Root",
+     "Bip001",
+     "Bip001Pelvis",
+     "Bip001LThigh",
+     "Bip001LCalf",
+     "Bip001LFoot",
+     "Bip001LToe0",
+     "Bip001_L_Knee_F",
+     "Bip001_L_Knee_B",
+     "Bip001_L_Calf",
+     "Bip001_L_CalfTwist",
+     "Bone_Piao111_L",
+     "Bone_Piao112_L",
+     "Bip001LThighTwist",
+     "Bip001LThighTwist1",
+     "Bone_Piao081_L",
+     "Bone_Piao082_L",
+     "Bone_Piao083_L",
+     "Bone_Piao091_L",
+     "Bone_Piao092_L",
+     "Bone_Piao093_L",
+     "Bone_Piao101_L",
+     "Bone_Piao102_L",
+     "Bone_Piao103_L",
+     "Bip001_Leg_L_M",
+     "Bip001_Leg_L_F",
+     "Bip001_Leg_L_B",
+     "Bip001RThigh"
+    ],
+    "has_ue_names": true,
+    "has_mmd_names": false
+   }
+  ],
+  "meshes": [
+   {
+    "name": "NH_MaleM_140_LOD0",
+    "verts": 28575,
+    "polys": 43751,
+    "mods": [
+     "ARMATURE"
+    ],
+    "vgroups": 208,
+    "height": 1.61,
+    "height_y": 0.29,
+    "shape_keys": [
+     "Basis",
+     "Pupil_Up_R",
+     "Pupil_Up_L",
+     "Pupil_Down_R",
+     "Pupil_Down_L",
+     "Pupil_In_R",
+     "Pupil_In_L",
+     "Pupil_Out_R"
+    ]
+   }
+  ],
+  "images": []
+ },
+ "Himeko": {
+  "file": "Art_NPC_Full_W5_Lady_HimekoYouth.fbx",
+  "size_mb": 0.7,
+  "armatures": [
+   {
+    "name": "Armature",
+    "bones": 156,
+    "ws_scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "sample": [
+     "Art_NPC_Full_W5_Lady_HimekoYouth",
+     "Main",
+     "Root_M",
+     "Hip_L",
+     "HipPart1_L",
+     "Knee_L",
+     "Ankle_L",
+     "Toes_L",
+     "Hip_R",
+     "HipPart1_R",
+     "Knee_R",
+     "Ankle_R",
+     "Toes_R",
+     "prop_JNT",
+     "skirtBack_01_JNT",
+     "skirtBack_02_JNT",
+     "skirtBack_03_JNT",
+     "skirtBack_04_JNT",
+     "skirtBack_05_JNT",
+     "skirtBackLeft_01_JNT",
+     "skirtBackLeft_02_JNT",
+     "skirtBackLeft_03_JNT",
+     "skirtBackLeft_04_JNT",
+     "skirtBackLeft_05_JNT",
+     "skirtBackRight_01_JNT",
+     "skirtBackRight_02_JNT",
+     "skirtBackRight_03_JNT",
+     "skirtBackRight_04_JNT"
+    ],
+    "has_ue_names": false,
+    "has_mmd_names": false
+   }
+  ],
+  "meshes": [
+   {
+    "name": "Face",
+    "verts": 967,
+    "polys": 1212,
+    "mods": [
+     "ARMATURE"
+    ],
+    "vgroups": 3,
+    "height": 0.14,
+    "height_y": 0.1,
+    "shape_keys": [
+     "Basis",
+     "Eye_Angry",
+     "Eye_Sad",
+     "Eye_Surprise",
+     "Eye_WinkA",
+     "Eye_WinkB",
+     "Mouth_A",
+     "Mouth_Narrow"
+    ]
+   },
+   {
+    "name": "Body",
+    "verts": 5177,
+    "polys": 6855,
+    "mods": [
+     "ARMATURE"
+    ],
+    "vgroups": 84,
+    "height": 1.49,
+    "height_y": 0.3,
+    "shape_keys": []
+   },
+   {
+    "name": "Hair",
+    "verts": 1714,
+    "polys": 2041,
+    "mods": [
+     "ARMATURE"
+    ],
+    "vgroups": 16,
+    "height": 0.3,
+    "height_y": 0.24,
+    "shape_keys": []
+   }
+  ],
+  "images": [
+   "NPC_Full_W5_Lady_HimekoYouth_Body_Color.png",
+   "NPC_Full_W5_Lady_HimekoYouth_Body_Color.png",
+   "NPC_Full_W5_Lady_HimekoYouth_Body_Cool_Ramp.png",
+   "NPC_Full_W5_Lady_HimekoYouth_Body_LightMap.png",
+   "NPC_Full_W5_Lady_HimekoYouth_Body_Warm_Ramp.png",
+   "NPC_Full_W5_Lady_HimekoYouth_Face_Color.png",
+   "NPC_Full_W5_Lady_HimekoYouth_Face_Color.png",
+   "NPC_Full_W5_Lady_HimekoYouth_Hair_Color.png"
+  ]
+ },
+ "JXR_ASZ": {
+  "file": "ASZ.fbx",
+  "size_mb": 0.9,
+  "armatures": [],
+  "meshes": [
+   {
+    "name": "Q047",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象033",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象032",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象040",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.03,
+    "shape_keys": []
+   },
+   {
+    "name": "Q052",
+    "verts": 121,
+    "polys": 114,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.04,
+    "shape_keys": []
+   },
+   {
+    "name": "Q051",
+    "verts": 204,
+    "polys": 208,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.05,
+    "shape_keys": []
+   },
+   {
+    "name": "Q048",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象035",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象034",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "Q049",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象037",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象036",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "Q050",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象039",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象038",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "Q053",
+    "verts": 670,
+    "polys": 698,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.12,
+    "height_y": 0.07,
+    "shape_keys": []
+   },
+   {
+    "name": "Q046",
+    "verts": 262,
+    "polys": 278,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.29,
+    "height_y": 0.07,
+    "shape_keys": []
+   },
+   {
+    "name": "Q045",
+    "verts": 342,
+    "polys": 350,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.43,
+    "height_y": 0.09,
+    "shape_keys": []
+   },
+   {
+    "name": "Q044",
+    "verts": 45,
+    "polys": 44,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.08,
+    "height_y": 0.08,
+    "shape_keys": []
+   },
+   {
+    "name": "Q003",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象002",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象001",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "Q004",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象004",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象003",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "Q005",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象006",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象005",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "Q006",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象008",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.04,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象007",
+    "verts": 116,
+    "polys": 108,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.05,
+    "height_y": 0.01,
+    "shape_keys": []
+   },
+   {
+    "name": "对象009",
+    "verts": 86,
+    "polys": 82,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.03,
+    "shape_keys": []
+   },
+   {
+    "name": "Q008",
+    "verts": 121,
+    "polys": 114,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.04,
+    "shape_keys": []
+   },
+   {
+    "name": "Q007",
+    "verts": 204,
+    "polys": 208,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.03,
+    "height_y": 0.05,
+    "shape_keys": []
+   },
+   {
+    "name": "Q009",
+    "verts": 670,
+    "polys": 698,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.12,
+    "height_y": 0.07,
+    "shape_keys": []
+   },
+   {
+    "name": "Q002",
+    "verts": 262,
+    "polys": 278,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.29,
+    "height_y": 0.07,
+    "shape_keys": []
+   },
+   {
+    "name": "Q001",
+    "verts": 342,
+    "polys": 350,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.43,
+    "height_y": 0.09,
+    "shape_keys": []
+   },
+   {
+    "name": "Q000",
+    "verts": 45,
+    "polys": 44,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.08,
+    "height_y": 0.08,
+    "shape_keys": []
+   },
+   {
+    "name": "Q012",
+    "verts": 516,
+    "polys": 252,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.12,
+    "height_y": 0.11,
+    "shape_keys": []
+   },
+   {
+    "name": "对象031",
+    "verts": 42,
+    "polys": 30,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.14,
+    "height_y": 0.0,
+    "shape_keys": []
+   },
+   {
+    "name": "Q024",
+    "verts": 478,
+    "polys": 484,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.21,
+    "height_y": 0.14,
+    "shape_keys": []
+   },
+   {
+    "name": "Q010",
+    "verts": 410,
+    "polys": 424,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.11,
+    "height_y": 0.08,
+    "shape_keys": []
+   },
+   {
+    "name": "Q023",
+    "verts": 602,
+    "polys": 630,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.27,
+    "height_y": 0.19,
+    "shape_keys": []
+   },
+   {
+    "name": "对象021",
+    "verts": 309,
+    "polys": 314,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.18,
+    "height_y": 0.16,
+    "shape_keys": []
+   },
+   {
+    "name": "Q031",
+    "verts": 158,
+    "polys": 196,
+    "mods": [],
+    "vgroups": 0,
+    "height": 1.81,
+    "height_y": 0.23,
+    "shape_keys": []
+   },
+   {
+    "name": "Q027",
+    "verts": 154,
+    "polys": 188,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.53,
+    "height_y": 0.12,
+    "shape_keys": []
+   },
+   {
+    "name": "Q028",
+    "verts": 380,
+    "polys": 428,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.6,
+    "height_y": 0.18,
+    "shape_keys": []
+   },
+   {
+    "name": "Q056",
+    "verts": 158,
+    "polys": 196,
+    "mods": [],
+    "vgroups": 0,
+    "height": 1.81,
+    "height_y": 0.23,
+    "shape_keys": []
+   },
+   {
+    "name": "Q054",
+    "verts": 154,
+    "polys": 188,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.53,
+    "height_y": 0.12,
+    "shape_keys": []
+   },
+   {
+    "name": "Q055",
+    "verts": 380,
+    "polys": 428,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.6,
+    "height_y": 0.18,
+    "shape_keys": []
+   },
+   {
+    "name": "Q043",
+    "verts": 417,
+    "polys": 444,
+    "mods": [],
+    "vgroups": 0,
+    "height": 0.37,
+    "height_y": 0.21,
+    "shape_keys": []
+   }
+  ],
+  "images": [
+   "Material _25_Base_color.png",
+   "Material _251_Base_color.png",
+   "Material _252_Base_color.png",
+   "Material _254_Base_color.png"
+  ]
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "errors": [
+  "Traceback (most recent call last):\n  File \"C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\cmd\\run_cmd_m3.py\", line 24, in <module>\n    bb = cmds.xform(m, q=True, ws=True, bb=True)\nRuntimeError: 没有为“xform”命令提供有效的对象。\n\n"
+ ],
+ "all_meshes": 149,
+ "top": [
+  {
+   "m": "AShape",
+   "inter": false,
+   "verts": 28575
+  },
+  {
+   "m": "AaShape",
+   "inter": false,
+   "verts": 28575
+  },
+  {
+   "m": "B_AH_LShape",
+   "inter": false,
+   "verts": 28575
+  },
+  {
+   "m": "B_AH_RShape",
+   "inter": false,
+   "verts": 28575
+  },
+  {
+   "m": "B_AngerShape",
+   "inter": false,
+   "verts": 28575
+  },
+  {
+   "m": "B_Anger_LShape",
+   "inter": false,
+   "verts": 28575
+  }
+ ],
+ "big_count": 149
+}

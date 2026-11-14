@@ -1,0 +1,25 @@
+{
+ "camera_shapes": [
+  "CAMX001XShape1",
+  "CAMX002XShape1",
+  "CAMX003XShape1",
+  "CAMX004XShape1",
+  "CAMX005XShape1",
+  "CAMX006XShape1",
+  "CAMX007XShape1",
+  "CAMX008XShape1"
+ ],
+ "count_shape": 75,
+ "transforms": [
+  "CAMX001X1",
+  "CAMX002X1",
+  "CAMX003X1",
+  "CAMX004X1",
+  "CAMX005X1",
+  "CAMX006X1",
+  "CAMX007X1",
+  "CAMX008X1"
+ ],
+ "count_tr": 75,
+ "scene": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/v6_cams.mb"
+}

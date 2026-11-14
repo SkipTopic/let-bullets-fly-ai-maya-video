@@ -1,0 +1,22 @@
+{
+ "errors": [],
+ "picked": {
+  "Huang": {
+   "face": "M_Huang_AragakiFBXASC032Shinjiro_meshShape_9",
+   "hair": "M_Huang_AragakiFBXASC032Shinjiro_meshShape_0"
+  },
+  "Shiye": {
+   "face": "M_Shiye_JunpeiFBXASC032Iori_meshShape_10",
+   "hair": "M_Shiye_JunpeiFBXASC032Iori_meshShape_3"
+  }
+ },
+ "applied": {
+  "Huang": [
+   "face_tex"
+  ],
+  "Shiye": [
+   "face_tex"
+  ]
+ },
+ "ok": true
+}

@@ -1,0 +1,19 @@
+{
+ "errors": [],
+ "steps": [
+  "已确认当前场景为 v7",
+  "基线已写入 ds_camera_action/baseline_pose.json",
+  "已另存：DS_相机动作_v01.mb"
+ ],
+ "scene_before": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/摆姿重建_v7.mb",
+ "time_unit_after": "23.976fps",
+ "fps_setting": "23.976fps",
+ "time_unit_numeric_hint": "23.976fps",
+ "playback_after": [
+  1.0,
+  3512.0
+ ],
+ "scene_after": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/DS_相机动作_v01.mb",
+ "animation_curves": 0,
+ "references": []
+}

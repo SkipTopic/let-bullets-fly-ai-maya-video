@@ -1,0 +1,51 @@
+{
+ "modelEditors": [],
+ "hardwareRenderingGlobals": {
+  "wireframeOnShaded": "N/A",
+  "displayEdges": "N/A",
+  "displayLights": "N/A",
+  "ssaoEnable": false,
+  "motionBlurEnable": false,
+  "antiAliasingEnable": "N/A",
+  "lineCulling": "N/A"
+ },
+ "sg_count": 30,
+ "sg_sample": [
+  {
+   "sg": "MakotoFBXASC032Yuki_meshSG",
+   "mat": "FBXASC053_FBXASC043MUSICFBXASC032PLAYERFBXASC046part1FBXASC045bodymtFBXASC0401FBXASC041_1_0_0",
+   "type": "phong",
+   "surfaces": 1
+  },
+  {
+   "sg": "MakotoFBXASC032Yuki_meshSG1",
+   "mat": "FBXASC053_FBXASC043MUSICFBXASC032PLAYERFBXASC046part1FBXASC045bodynomtFBXASC0401FBXASC041_1_0_0",
+   "type": "phong",
+   "surfaces": 1
+  },
+  {
+   "sg": "MakotoFBXASC032Yuki_meshSG2",
+   "mat": "FBXASC053_FBXASC043NECKFBXASC032RIBBONFBXASC046part1FBXASC045bodymtFBXASC0403FBXASC041_1_0_0FBXASC046001",
+   "type": "phong",
+   "surfaces": 1
+  },
+  {
+   "sg": "MakotoFBXASC032Yuki_meshSG3",
+   "mat": "FBXASC053_FBXASC043NECKFBXASC032RIBBONFBXASC046part1FBXASC045mtopsMesh1_1_0_0FBXASC046003",
+   "type": "phong",
+   "surfaces": 1
+  },
+  {
+   "sg": "MakotoFBXASC032Yuki_meshSG4",
+   "mat": "FBXASC053_FBXASC043part2FBXASC045HAIRFBXASC0321FBXASC046part2FBXASC045hairmt_1_0_0",
+   "type": "phong",
+   "surfaces": 1
+  },
+  {
+   "sg": "MakotoFBXASC032Yuki_meshSG5",
+   "mat": "FBXASC053_FBXASC045GUNFBXASC032HOLSTERFBXASC046part1FBXASC045SEESmt_1_0_0",
+   "type": "phong",
+   "surfaces": 1
+  }
+ ]
+}

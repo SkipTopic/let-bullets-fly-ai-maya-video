@@ -1,0 +1,533 @@
+{
+ "CH_Ma.fbx": {
+  "objects": [
+   {
+    "name": "Makoto Yuki_arm",
+    "type": "ARMATURE",
+    "loc": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     -0.0,
+     0.0,
+     0.0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "parent": null
+   },
+   {
+    "name": "Makoto Yuki_mesh",
+    "type": "MESH",
+    "loc": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     -0.0,
+     0.0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "parent": "Makoto Yuki_arm"
+   }
+  ],
+  "armatures": [
+   {
+    "name": "Makoto Yuki_arm",
+    "bone_count": 183,
+    "matrix_world_scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "matrix_world_rot_deg": [
+     -0.0,
+     -0.0,
+     0.0
+    ],
+    "head_bone_z": null,
+    "bones_sample": [
+     "Root",
+     "Center",
+     "Groove",
+     "Hips",
+     "Spine",
+     "Spine1",
+     "Neck",
+     "Head",
+     "head eyebrow 1.R",
+     "head eyebrow 2.R",
+     "head eyebrow 1.L",
+     "head eyebrow 2.L",
+     "head eyelid right both",
+     "head eyelid upper.R",
+     "head eyelid lower.R",
+     "head lip upper.R",
+     "head lip upper middle",
+     "head lip upper.L",
+     "head eyelid left both",
+     "head eyelid upper.L",
+     "head eyelid lower.L",
+     "head jaw",
+     "head lip lower middle",
+     "head lip lower.R",
+     "head lip lower.L"
+    ]
+   }
+  ],
+  "meshes": [
+   {
+    "name": "Makoto Yuki_mesh",
+    "verts": 7520,
+    "polys": 9676,
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "matrix_world_scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "world_bbox_min": [
+     -0.65,
+     -0.19,
+     -0.0
+    ],
+    "world_bbox_max": [
+     0.65,
+     0.14,
+     1.76
+    ],
+    "shape_keys": [
+     "Basis",
+     "mmd_sdef_c",
+     "mmd_sdef_r0",
+     "mmd_sdef_r1",
+     "serious",
+     "anger",
+     "smile2",
+     "trouble",
+     "eye_down",
+     "eye_up",
+     "blink",
+     "laugh",
+     "wink2_L",
+     "wink2_R",
+     "wink_R",
+     "wink_L",
+     "surprise",
+     "keen",
+     "gentle",
+     "half_eye",
+     "pupil_small",
+     "mouth_A",
+     "mouth_E",
+     "mouth_I",
+     "mouth_U",
+     "mouth_O",
+     "mouth_N",
+     "smile",
+     "にやり２",
+     "mouth_corner_up",
+     "mouth_corner_down",
+     "mouth_wide"
+    ],
+    "vgroups": 149,
+    "modifiers": [
+     "ARMATURE"
+    ],
+    "materials": [
+     "5_+MUSIC PLAYER.part1-bodymt(1)_1_0_0",
+     "5_+MUSIC PLAYER.part1-bodynomt(1)_1_0_0",
+     "5_+NECK RIBBON.part1-bodymt(3)_1_0_0.001",
+     "5_+NECK RIBBON.part1-mtopsMesh1_1_0_0.003",
+     "5_+part2-HAIR 1.part2-hairmt_1_0_0",
+     "5_-GUN HOLSTER.part1-SEESmt_1_0_0",
+     "5_-GUN HOLSTER.part1-SEESmt_1_0_0.002",
+     "5_-GUN HOLSTER.part1-SEESnomt_1_0_0",
+     "5_-GUN HOLSTER.part1-SEESnomt_1_0_0.002",
+     "5_-GUN HOLSTER.part1-SEESnomt_1_0_0.003",
+     "5_-GUN HOLSTER.part1-bodynomt_1_0_0",
+     "5_-SEES ARMBAND.part1-SEESmt_1_0_0.001",
+     "5_-SEES ARMBAND.part1-SEESnomt_1_0_0.001",
+     "5_part1-bodymt(2)_1_0_0",
+     "5_part1-bodymt(3)_1_0_0",
+     "5_part1-bodymt_1_0_0",
+     "5_part1-bodynomt(2)_1_0_0",
+     "5_part1-bodynomt_1_0_0.001",
+     "5_part1-mtopsMesh1_1_0_0",
+     "New",
+     "5_part2-eye_1_0_0",
+     "5_part2-eyebrow_1_0_0",
+     "5_part2-eyecbr_1_0_0",
+     "5_part2-eyelash_1_0_0",
+     "5_part2-face_1_0_0",
+     "5_part2-teeth_1_0_0.001",
+     "5_part2-tongue)_1_0_0.002",
+     "7_part2-eyeshmt_1_0_0"
+    ]
+   }
+  ]
+ },
+ "CH_Huang.fbx": {
+  "objects": [
+   {
+    "name": "Aragaki Shinjiro_arm",
+    "type": "ARMATURE",
+    "loc": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     -0.0,
+     0.0,
+     0.0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "parent": null
+   },
+   {
+    "name": "Aragaki Shinjiro_mesh",
+    "type": "MESH",
+    "loc": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     -0.0,
+     0.0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "parent": "Aragaki Shinjiro_arm"
+   }
+  ],
+  "armatures": [
+   {
+    "name": "Aragaki Shinjiro_arm",
+    "bone_count": 180,
+    "matrix_world_scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "matrix_world_rot_deg": [
+     -0.0,
+     -0.0,
+     0.0
+    ],
+    "head_bone_z": null,
+    "bones_sample": [
+     "Root",
+     "Center",
+     "Groove",
+     "Hips",
+     "Spine",
+     "Spine1",
+     "Neck",
+     "Head",
+     "head eyebrow 1.R",
+     "head eyebrow 2.R",
+     "head eyebrow 1.L",
+     "head eyebrow 2.L",
+     "head eyelid right both",
+     "head eyelid upper.R",
+     "head eyelid lower.R",
+     "head lip upper.R",
+     "head lip upper middle",
+     "head lip upper.L",
+     "head eyelid left both",
+     "head eyelid upper.L",
+     "head eyelid lower.L",
+     "head jaw",
+     "head lip lower middle",
+     "head lip lower.R",
+     "head lip lower.L"
+    ]
+   }
+  ],
+  "meshes": [
+   {
+    "name": "Aragaki Shinjiro_mesh",
+    "verts": 10284,
+    "polys": 11330,
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "matrix_world_scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "world_bbox_min": [
+     -0.73,
+     -0.21,
+     0.0
+    ],
+    "world_bbox_max": [
+     0.73,
+     0.19,
+     1.9
+    ],
+    "shape_keys": [
+     "Basis",
+     "mmd_sdef_c",
+     "mmd_sdef_r0",
+     "mmd_sdef_r1",
+     "serious",
+     "anger",
+     "trouble",
+     "smile2",
+     "eye_up",
+     "eye_down",
+     "blink",
+     "wink2_L",
+     "wink2_R",
+     "laugh",
+     "wink_L",
+     "wink_R",
+     "keen",
+     "surprise",
+     "half_eye",
+     "gentle",
+     "pupil_small",
+     "mouth_O",
+     "mouth_E",
+     "mouth_U",
+     "mouth_A",
+     "mouth_I",
+     "mouth_N",
+     "smile",
+     "にやり２",
+     "mouth_corner_up",
+     "mouth_corner_down",
+     "mouth_wide"
+    ],
+    "vgroups": 133,
+    "modifiers": [
+     "ARMATURE"
+    ],
+    "materials": [
+     "5_-part1-HAIR 1.part1-hairmt_1_0_0",
+     "5_+part1-HAT MAIN.part1-hairmt(1)_1_0_0",
+     "5_+part1-HAT MAIN.part1-hairmt_1_0_0",
+     "5_-SEES ARMBAND.part2-SEESmt_1_0_0",
+     "5_part1-eye_1_0_0.002",
+     "5_part1-eyebrow_1_0_0.002",
+     "5_part1-eyecvr_1_0_0.002",
+     "5_part1-eyelash_1_0_0.002",
+     "5_part1-face.part.001_1_0_0.001",
+     "5_part1-face_1_0_0.001",
+     "5_part1-teeth_1_0_0.001",
+     "5_part1-tongue.part.001_1_0_0.001",
+     "5_part1-tongue_1_0_0.001",
+     "5_part2-bodymt(1)_1_0_0",
+     "5_part2-bodymt(2)_1_0_0",
+     "5_part2-bodymt_1_0_0",
+     "7_part1-eyeshmt_1_0_0.002"
+    ]
+   }
+  ]
+ },
+ "CH_Shiye.fbx": {
+  "objects": [
+   {
+    "name": "Junpei Iori_arm",
+    "type": "ARMATURE",
+    "loc": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     -0.0,
+     0.0,
+     0.0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "parent": null
+   },
+   {
+    "name": "Junpei Iori_mesh",
+    "type": "MESH",
+    "loc": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     -0.0,
+     0.0
+    ],
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "parent": "Junpei Iori_arm"
+   }
+  ],
+  "armatures": [
+   {
+    "name": "Junpei Iori_arm",
+    "bone_count": 160,
+    "matrix_world_scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "matrix_world_rot_deg": [
+     -0.0,
+     -0.0,
+     0.0
+    ],
+    "head_bone_z": null,
+    "bones_sample": [
+     "Root",
+     "Center",
+     "Groove",
+     "Hips",
+     "Spine",
+     "Spine1",
+     "Neck",
+     "Head",
+     "eyebrow1.R",
+     "eyebrow2.R",
+     "eyebrow1.L",
+     "eyebrow2.L",
+     "eyelid upper.R",
+     "eyelid lower.R",
+     "lip upper.R",
+     "head lip upper middle",
+     "lip upper.L",
+     "eyelid upper.L",
+     "eyelid lower.L",
+     "head jaw",
+     "head lip lower middle",
+     "lip lower.R",
+     "lip lower.L",
+     "舌１",
+     "mouth corner.R"
+    ]
+   }
+  ],
+  "meshes": [
+   {
+    "name": "Junpei Iori_mesh",
+    "verts": 7231,
+    "polys": 9277,
+    "scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "matrix_world_scale": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "world_bbox_min": [
+     -0.72,
+     -0.2,
+     0.0
+    ],
+    "world_bbox_max": [
+     0.72,
+     0.15,
+     1.84
+    ],
+    "shape_keys": [
+     "Basis",
+     "mmd_sdef_c",
+     "mmd_sdef_r0",
+     "mmd_sdef_r1",
+     "serious",
+     "anger",
+     "trouble",
+     "smile2",
+     "eye_up",
+     "eye_down",
+     "blink",
+     "wink2_R",
+     "wink2_L",
+     "laugh",
+     "wink_R",
+     "wink_L",
+     "half_eye",
+     "keen",
+     "gentle",
+     "pupil_small",
+     "surprise",
+     "mouth_A",
+     "mouth_E",
+     "mouth_O",
+     "mouth_U",
+     "mouth_I",
+     "mouth_N",
+     "smile",
+     "にやり２",
+     "mouth_corner_down",
+     "mouth_corner_up",
+     "mouth_wide"
+    ],
+    "vgroups": 120,
+    "modifiers": [
+     "ARMATURE"
+    ],
+    "materials": [
+     "GUN HOLSTER",
+     "SEES",
+     "Hair",
+     "Hat",
+     "eye",
+     "5_part1-eyebrow_1_0_0.001",
+     "5_part1-eyecvr_1_0_0.001",
+     "5_part1-eyelash_1_0_0.001",
+     "5_part1-face.part.001_1_0_0",
+     "7_part1-eyeshmt_1_0_0.004",
+     "face",
+     "5_part1-teeth_1_0_0.002",
+     "5_part1-tongue_1_0_0",
+     "Belt",
+     "hands",
+     "top",
+     "New",
+     "New.001",
+     "New.002",
+     "trousers",
+     "New.003"
+    ]
+   }
+  ]
+ }
+}

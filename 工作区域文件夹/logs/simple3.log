@@ -1,0 +1,14 @@
+chunks=12
+CLEAN+RT: cleaned=80
+SIMPLE_RUNTIME_READY
+simple ok=12 fail=0 []
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\scripts\p4_simple_build.py", line 223, in <module>
+    "import maya.cmds as cmds\nimport io\nP = print\n"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ...<12 lines>...
+    "cmds.file(save=True, force=True, type=\"mayaBinary\")\n"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    "print(\"SIMPLE_DONE\")\n" % W, timeout=900)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+TypeError: not enough arguments for format string

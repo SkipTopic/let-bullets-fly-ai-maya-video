@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\scripts\p4_simple_build.py", line 190, in <module>
+    chunks.append("\n\n".join(shot_code(r) for r in grp))
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\scripts\p4_simple_build.py", line 190, in <genexpr>
+    chunks.append("\n\n".join(shot_code(r) for r in grp))
+                              ~~~~~~~~~^^^
+  File "C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\scripts\p4_simple_build.py", line 161, in shot_code
+    yaw0 = math.degrees(math.atan2(tx - px, tz - pz))
+           ^^^^
+NameError: name 'math' is not defined. Did you mean: 'Path'? Or did you forget to import 'math'?

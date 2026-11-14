@@ -1,0 +1,34 @@
+{
+ "runs": [
+  {
+   "tag": "A 无DM",
+   "dm_first": false,
+   "pin": 1,
+   "iters": 0,
+   "h": 151.0
+  },
+  {
+   "tag": "B IK后加DM pin1 i3",
+   "dm_first": false,
+   "pin": 1,
+   "iters": 3,
+   "h": 151.0
+  },
+  {
+   "tag": "C IK后加DM pin0 i3",
+   "dm_first": false,
+   "pin": 0,
+   "iters": 3,
+   "h": 151.0
+  },
+  {
+   "tag": "D DM先加 pin1 i8",
+   "dm_first": true,
+   "pin": 1,
+   "iters": 8,
+   "h": 151.0
+  }
+ ],
+ "errors": [],
+ "ok": true
+}

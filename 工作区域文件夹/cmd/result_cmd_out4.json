@@ -1,0 +1,1 @@
+{"ok": false, "error": 'Traceback (most recent call last):\n  File "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\scripts\\wb_poller.py", line 17, in _run\n    with open(path, "r", encoding="utf-8") as fh:\nFileNotFoundError: [Errno 2] No such file or directory: \'C:\\\\Users\\\\admin\\\\Desktop\\\\MayaProject\\\\让子弹飞分镜测试\\\\工作区域文件夹\\\\cmd\\\\cmd_out4.py\'\n'}

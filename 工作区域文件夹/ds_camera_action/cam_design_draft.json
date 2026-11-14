@@ -1,0 +1,502 @@
+[
+ {
+  "focal": 59.95,
+  "eye": [
+   -45.23,
+   108,
+   91.22
+  ],
+  "aim": [
+   0.02,
+   110.3,
+   -116.55
+  ],
+  "Ma": {
+   "fx": 0.52,
+   "fy": 0.458,
+   "dist": 201.6,
+   "head_frac": 0.35
+  },
+  "Huang": {
+   "fx": 3.564,
+   "fy": -0.134,
+   "dist": 67.5,
+   "head_frac": 0.98
+  },
+  "Shiye": {
+   "fx": -2.379,
+   "fy": -1.009,
+   "dist": 29.8,
+   "head_frac": 2.221
+  },
+  "head_clearance_cm": 61.3,
+  "body_clearance_cm": 27.0,
+  "id": "P_MA",
+  "cost": 0.001,
+  "spec": {
+   "id": "P_MA",
+   "subject": "Ma",
+   "fx": 0.52,
+   "fy": 0.46,
+   "head_frac": 0.35,
+   "height": 108,
+   "focal": 60,
+   "azimuth": 13,
+   "radius_range": [
+    110,
+    235
+   ]
+  }
+ },
+ {
+  "focal": 58.18,
+  "eye": [
+   -109.67,
+   118.0,
+   -1.93
+  ],
+  "aim": [
+   91.73,
+   120.19,
+   52.22
+  ],
+  "Ma": {
+   "fx": -2.122,
+   "fy": 0.71,
+   "dist": 79.0,
+   "head_frac": 0.867
+  },
+  "Huang": {
+   "fx": 0.5,
+   "fy": 0.458,
+   "dist": 207.2,
+   "head_frac": 0.31
+  },
+  "Shiye": {
+   "fx": 2.716,
+   "fy": 0.062,
+   "dist": 33.7,
+   "head_frac": 1.912
+  },
+  "head_clearance_cm": 57.4,
+  "body_clearance_cm": 25.1,
+  "id": "P_HUANG",
+  "cost": 0.231,
+  "spec": {
+   "id": "P_HUANG",
+   "subject": "Huang",
+   "fx": 0.5,
+   "fy": 0.46,
+   "head_frac": 0.35,
+   "height": 118,
+   "focal": 58,
+   "azimuth": 16,
+   "radius_range": [
+    110,
+    235
+   ]
+  }
+ },
+ {
+  "focal": 58.18,
+  "eye": [
+   112.74,
+   118,
+   -2.76
+  ],
+  "aim": [
+   -89.07,
+   120.63,
+   51.37
+  ],
+  "Ma": {
+   "fx": 3.018,
+   "fy": 0.709,
+   "dist": 82.3,
+   "head_frac": 0.833
+  },
+  "Huang": {
+   "fx": -1.621,
+   "fy": 0.12,
+   "dist": 35.8,
+   "head_frac": 1.794
+  },
+  "Shiye": {
+   "fx": 0.5,
+   "fy": 0.461,
+   "dist": 209.1,
+   "head_frac": 0.308
+  },
+  "head_clearance_cm": 59.3,
+  "body_clearance_cm": 25.0,
+  "id": "P_SHIYE",
+  "cost": 0.249,
+  "spec": {
+   "id": "P_SHIYE",
+   "subject": "Shiye",
+   "fx": 0.5,
+   "fy": 0.46,
+   "head_frac": 0.35,
+   "height": 118,
+   "focal": 58,
+   "azimuth": 16,
+   "radius_range": [
+    110,
+    235
+   ]
+  }
+ },
+ {
+  "focal": 57.95,
+  "eye": [
+   -44.94,
+   108,
+   90.19
+  ],
+  "aim": [
+   2.02,
+   109.64,
+   -139.93
+  ],
+  "Ma": {
+   "fx": 0.54,
+   "fy": 0.448,
+   "dist": 200.5,
+   "head_frac": 0.34
+  },
+  "Huang": {
+   "fx": 3.608,
+   "fy": -0.152,
+   "dist": 64.7,
+   "head_frac": 0.989
+  },
+  "Shiye": {
+   "fx": -2.31,
+   "fy": -0.993,
+   "dist": 29.3,
+   "head_frac": 2.184
+  },
+  "head_clearance_cm": 60.9,
+  "body_clearance_cm": 26.5,
+  "id": "S001",
+  "cost": 0.001,
+  "spec": {
+   "id": "S001",
+   "subject": "Ma",
+   "fx": 0.54,
+   "fy": 0.45,
+   "head_frac": 0.34,
+   "height": 108,
+   "focal": 58,
+   "azimuth": 13,
+   "radius_range": [
+    110,
+    230
+   ]
+  }
+ },
+ {
+  "focal": 56.13,
+  "eye": [
+   -89.53,
+   117.0,
+   -6.05
+  ],
+  "aim": [
+   75.48,
+   119.76,
+   46.99
+  ],
+  "Ma": {
+   "fx": -2.964,
+   "fy": 0.744,
+   "dist": 54.8,
+   "head_frac": 1.207
+  },
+  "Huang": {
+   "fx": 0.501,
+   "fy": 0.453,
+   "dist": 189.1,
+   "head_frac": 0.328
+  },
+  "Shiye": {
+   "fx": 5.23,
+   "fy": -0.456,
+   "dist": 18.0,
+   "head_frac": 3.439
+  },
+  "head_clearance_cm": 57.8,
+  "body_clearance_cm": 25.1,
+  "id": "S002",
+  "cost": 0.044,
+  "spec": {
+   "id": "S002",
+   "subject": "Huang",
+   "fx": 0.5,
+   "fy": 0.45,
+   "head_frac": 0.34,
+   "height": 117,
+   "focal": 56,
+   "azimuth": 13,
+   "radius_range": [
+    110,
+    230
+   ]
+  }
+ },
+ {
+  "focal": 72.04,
+  "eye": [
+   -184.52,
+   113,
+   118.47
+  ],
+  "aim": [
+   31.86,
+   108.77,
+   -132.85
+  ],
+  "Ma": {
+   "fx": 0.458,
+   "fy": 0.454,
+   "dist": 289.9,
+   "head_frac": 0.293
+  },
+  "Huang": {
+   "fx": 1.937,
+   "fy": 0.297,
+   "dist": 229.7,
+   "head_frac": 0.347
+  },
+  "Shiye": {
+   "fx": 1.004,
+   "fy": 0.124,
+   "dist": 112.9,
+   "head_frac": 0.708
+  },
+  "head_clearance_cm": 117.0,
+  "body_clearance_cm": 85.5,
+  "id": "S003",
+  "cost": 3.316,
+  "spec": {
+   "id": "S003",
+   "subject": "Ma",
+   "fx": 0.44,
+   "fy": 0.45,
+   "head_frac": 0.32,
+   "height": 113,
+   "focal": 72,
+   "azimuth": 30,
+   "radius_range": [
+    245,
+    290
+   ],
+   "foreground": {
+    "name": "Shiye",
+    "fx": 1.04,
+    "dist": 115
+   }
+  }
+ },
+ {
+  "focal": 72.04,
+  "eye": [
+   -95.75,
+   121.55,
+   -170.51
+  ],
+  "aim": [
+   88.9,
+   118.72,
+   38.34
+  ],
+  "Ma": {
+   "fx": -0.008,
+   "fy": 0.733,
+   "dist": 112.4,
+   "head_frac": 0.754
+  },
+  "Huang": {
+   "fx": 0.554,
+   "fy": 0.444,
+   "dist": 289.9,
+   "head_frac": 0.275
+  },
+  "Shiye": {
+   "fx": 2.167,
+   "fy": 0.423,
+   "dist": 170.5,
+   "head_frac": 0.468
+  },
+  "head_clearance_cm": 116.2,
+  "body_clearance_cm": 83.8,
+  "id": "S004",
+  "cost": 3.856,
+  "spec": {
+   "id": "S004",
+   "subject": "Huang",
+   "fx": 0.56,
+   "fy": 0.45,
+   "head_frac": 0.32,
+   "height": 121,
+   "focal": 72,
+   "azimuth": 30,
+   "radius_range": [
+    245,
+    290
+   ],
+   "foreground": {
+    "name": "Ma",
+    "fx": -0.04,
+    "dist": 115
+   }
+  }
+ },
+ {
+  "focal": 62.0,
+  "eye": [
+   29.99,
+   109.0,
+   107.59
+  ],
+  "aim": [
+   0.02,
+   110.05,
+   -105.12
+  ],
+  "Ma": {
+   "fx": 0.5,
+   "fy": 0.457,
+   "dist": 214.9,
+   "head_frac": 0.34
+  },
+  "Huang": {
+   "fx": 2.986,
+   "fy": -0.413,
+   "dist": 46.8,
+   "head_frac": 1.462
+  },
+  "Shiye": {
+   "fx": -2.122,
+   "fy": -0.098,
+   "dist": 72.4,
+   "head_frac": 0.948
+  },
+  "head_clearance_cm": 83.4,
+  "body_clearance_cm": 47.3,
+  "id": "S005",
+  "cost": 0.001,
+  "spec": {
+   "id": "S005",
+   "subject": "Ma",
+   "fx": 0.5,
+   "fy": 0.46,
+   "head_frac": 0.34,
+   "height": 109,
+   "focal": 62,
+   "azimuth": 8,
+   "radius_range": [
+    115,
+    235
+   ]
+  }
+ },
+ {
+  "focal": 60.1,
+  "eye": [
+   -61.32,
+   118,
+   -71.07
+  ],
+  "aim": [
+   74.88,
+   120.19,
+   44.71
+  ],
+  "Ma": {
+   "fx": -3.974,
+   "fy": 1.135,
+   "dist": 24.5,
+   "head_frac": 2.891
+  },
+  "Huang": {
+   "fx": 0.461,
+   "fy": 0.457,
+   "dist": 195.3,
+   "head_frac": 0.34
+  },
+  "Shiye": {
+   "fx": 3.698,
+   "fy": 0.256,
+   "dist": 58.1,
+   "head_frac": 1.145
+  },
+  "head_clearance_cm": 70.4,
+  "body_clearance_cm": 34.7,
+  "id": "S006",
+  "cost": 0.004,
+  "spec": {
+   "id": "S006",
+   "subject": "Huang",
+   "fx": 0.46,
+   "fy": 0.46,
+   "head_frac": 0.34,
+   "height": 118,
+   "focal": 60,
+   "azimuth": 9,
+   "radius_range": [
+    115,
+    235
+   ]
+  }
+ },
+ {
+  "focal": 55.13,
+  "eye": [
+   -66.69,
+   110.0,
+   103.85
+  ],
+  "aim": [
+   0.02,
+   109.64,
+   -105.24
+  ],
+  "Ma": {
+   "fx": 0.5,
+   "fy": 0.458,
+   "dist": 219.5,
+   "head_frac": 0.296
+  },
+  "Huang": {
+   "fx": 2.608,
+   "fy": 0.126,
+   "dist": 97.2,
+   "head_frac": 0.627
+  },
+  "Shiye": {
+   "fx": -0.828,
+   "fy": -0.356,
+   "dist": 43.1,
+   "head_frac": 1.417
+  },
+  "head_clearance_cm": 58.7,
+  "body_clearance_cm": 25.1,
+  "id": "S007",
+  "cost": 0.149,
+  "spec": {
+   "id": "S007",
+   "subject": "Ma",
+   "fx": 0.5,
+   "fy": 0.46,
+   "head_frac": 0.33,
+   "height": 110,
+   "focal": 55,
+   "azimuth": 18,
+   "radius_range": [
+    110,
+    225
+   ]
+  }
+ }
+]

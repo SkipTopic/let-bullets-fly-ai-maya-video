@@ -1,0 +1,26 @@
+{
+ "errors": [],
+ "pose": {
+  "Ma": {
+   "Left": 0.0,
+   "Right": 0.0,
+   "height": 133.0
+  },
+  "Huang": {
+   "Left": 3.6,
+   "Right": 3.6,
+   "height": 151.0
+  },
+  "Shiye": {
+   "Left": 0.0,
+   "Right": 0.0,
+   "height": 147.0
+  }
+ },
+ "heights_after_mush": {
+  "Ma": 133.0,
+  "Huang": 151.0,
+  "Shiye": 147.0
+ },
+ "ok": true
+}

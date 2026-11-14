@@ -1,0 +1,33 @@
+{
+ "step": "t3_render_test",
+ "errors": [],
+ "main_meshes": [
+  "MakotoFBXASC032Yuki_meshShape"
+ ],
+ "hidden_count": 31,
+ "renamed": [
+  "CH_Ma_GEOShape"
+ ],
+ "bbox": [
+  -64.53,
+  -0.03,
+  -14.43,
+  64.53,
+  175.54,
+  19.27
+ ],
+ "size_xyz": [
+  129.06,
+  175.57,
+  33.71
+ ],
+ "camera": [
+  -0.0,
+  96.53,
+  318.45
+ ],
+ "pngs": [
+  "t3_char.0000.png"
+ ],
+ "ok": true
+}

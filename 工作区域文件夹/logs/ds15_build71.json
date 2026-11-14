@@ -1,0 +1,1079 @@
+{
+ "errors": [],
+ "steps": [
+  "建立 71 台相机"
+ ],
+ "cams": {},
+ "files": {
+  "S001": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S001.0000.png",
+  "S002": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S002.0000.png",
+  "S003": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S003.0000.png",
+  "S004": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S004.0000.png",
+  "S005": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S005.0000.png",
+  "S006": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S006.0000.png",
+  "S007": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S007.0000.png",
+  "S008": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S008.0000.png",
+  "S009": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S009.0000.png",
+  "S010": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S010.0000.png",
+  "S011": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S011.0000.png",
+  "S012": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S012.0000.png",
+  "S013": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S013.0000.png",
+  "S014": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S014.0000.png",
+  "S015": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S015.0000.png",
+  "S016": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S016.0000.png",
+  "S017": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S017.0000.png",
+  "S018": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S018.0000.png",
+  "S019": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S019.0000.png",
+  "S020": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S020.0000.png",
+  "S021": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S021.0000.png",
+  "S022": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S022.0000.png",
+  "S023": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S023.0000.png",
+  "S024": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S024.0000.png",
+  "S025": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S025.0000.png",
+  "S026": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S026.0000.png",
+  "S027": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S027.0000.png",
+  "S028": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S028.0000.png",
+  "S029": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S029.0000.png",
+  "S030": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S030.0000.png",
+  "S031": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S031.0000.png",
+  "S032": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S032.0000.png",
+  "S033": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S033.0000.png",
+  "S034": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S034.0000.png",
+  "S035": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S035.0000.png",
+  "S036": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S036.0000.png",
+  "S037": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S037.0000.png",
+  "S038": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S038.0000.png",
+  "S039": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S039.0000.png",
+  "S040": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S040.0000.png",
+  "S041": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S041.0000.png",
+  "S042": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S042.0000.png",
+  "S043": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S043.0000.png",
+  "S044": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S044.0000.png",
+  "S045": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S045.0000.png",
+  "S046": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S046.0000.png",
+  "S047": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S047.0000.png",
+  "S048": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S048.0000.png",
+  "S049": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S049.0000.png",
+  "S050": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S050.0000.png",
+  "S051": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S051.0000.png",
+  "S052": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S052.0000.png",
+  "S053": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S053.0000.png",
+  "S054": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S054.0000.png",
+  "S055": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S055.0000.png",
+  "S056": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S056.0000.png",
+  "S057": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S057.0000.png",
+  "S058": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S058.0000.png",
+  "S059": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S059.0000.png",
+  "S060": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S060.0000.png",
+  "S061": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S061.0000.png",
+  "S062": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S062.0000.png",
+  "S063": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S063.0000.png",
+  "S064": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S064.0000.png",
+  "S065": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S065.0000.png",
+  "S066": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S066.0000.png",
+  "S067": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S067.0000.png",
+  "S068": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S068.0000.png",
+  "S069": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S069.0000.png",
+  "S070": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S070.0000.png",
+  "S071": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v03_71\\DS_S071.0000.png"
+ },
+ "cam_count": 71,
+ "verify": {
+  "S001": {
+   "Ma": [
+    0.44,
+    0.46
+   ],
+   "Huang": [
+    3.21,
+    -1.31
+   ],
+   "Shiye": [
+    -2.62,
+    -0.36
+   ]
+  },
+  "S002": {
+   "Ma": [
+    -1.76,
+    0.54
+   ],
+   "Huang": [
+    0.5,
+    0.44
+   ],
+   "Shiye": [
+    2.19,
+    -0.02
+   ]
+  },
+  "S003": {
+   "Ma": [
+    0.47,
+    0.46
+   ],
+   "Huang": [
+    2.17,
+    0.25
+   ],
+   "Shiye": [
+    1.02,
+    -0.1
+   ]
+  },
+  "S004": {
+   "Ma": [
+    -0.03,
+    0.7
+   ],
+   "Huang": [
+    0.51,
+    0.46
+   ],
+   "Shiye": [
+    2.23,
+    0.42
+   ]
+  },
+  "S005": {
+   "Ma": [
+    0.57,
+    0.44
+   ],
+   "Huang": [
+    3.05,
+    -0.26
+   ],
+   "Shiye": [
+    -1.24,
+    -0.61
+   ]
+  },
+  "S006": {
+   "Ma": [
+    -1.38,
+    0.83
+   ],
+   "Huang": [
+    0.49,
+    0.47
+   ],
+   "Shiye": [
+    2.56,
+    0.4
+   ]
+  },
+  "S007": {
+   "Ma": [
+    0.47,
+    0.48
+   ],
+   "Huang": [
+    3.71,
+    0.06
+   ],
+   "Shiye": [
+    -3.91,
+    -0.6
+   ]
+  },
+  "S008": {
+   "Ma": [
+    -1.09,
+    0.73
+   ],
+   "Huang": [
+    0.56,
+    0.47
+   ],
+   "Shiye": [
+    2.78,
+    0.33
+   ]
+  },
+  "S009": {
+   "Ma": [
+    0.49,
+    0.48
+   ],
+   "Huang": [
+    3.1,
+    -0.32
+   ],
+   "Shiye": [
+    -1.96,
+    -0.63
+   ]
+  },
+  "S010": {
+   "Ma": [
+    8.04,
+    0.81
+   ],
+   "Huang": [
+    -3.92,
+    -0.11
+   ],
+   "Shiye": [
+    0.55,
+    0.44
+   ]
+  },
+  "S011": {
+   "Ma": [
+    -1.49,
+    0.57
+   ],
+   "Huang": [
+    0.47,
+    0.45
+   ],
+   "Shiye": [
+    1.35,
+    0.07
+   ]
+  },
+  "S012": {
+   "Ma": [
+    0.55,
+    0.46
+   ],
+   "Huang": [
+    2.97,
+    -0.04
+   ],
+   "Shiye": [
+    -1.3,
+    -0.35
+   ]
+  },
+  "S013": {
+   "Ma": [
+    1.61,
+    0.77
+   ],
+   "Huang": [
+    -0.88,
+    0.46
+   ],
+   "Shiye": [
+    0.53,
+    0.46
+   ]
+  },
+  "S014": {
+   "Ma": [
+    0.48,
+    0.43
+   ],
+   "Huang": [
+    1.87,
+    0.3
+   ],
+   "Shiye": [
+    1.02,
+    0.19
+   ]
+  },
+  "S015": {
+   "Ma": [
+    -0.26,
+    0.64
+   ],
+   "Huang": [
+    0.5,
+    0.46
+   ],
+   "Shiye": [
+    1.43,
+    0.46
+   ]
+  },
+  "S016": {
+   "Ma": [
+    0.42,
+    0.43
+   ],
+   "Huang": [
+    1.83,
+    0.29
+   ],
+   "Shiye": [
+    1.02,
+    0.1
+   ]
+  },
+  "S017": {
+   "Ma": [
+    0.53,
+    0.44
+   ],
+   "Huang": [
+    1.46,
+    0.0
+   ],
+   "Shiye": [
+    -1.25,
+    0.2
+   ]
+  },
+  "S018": {
+   "Ma": [
+    2.18,
+    0.94
+   ],
+   "Huang": [
+    -1.51,
+    0.52
+   ],
+   "Shiye": [
+    0.47,
+    0.44
+   ]
+  },
+  "S019": {
+   "Ma": [
+    -0.56,
+    0.6
+   ],
+   "Huang": [
+    0.51,
+    0.46
+   ],
+   "Shiye": [
+    1.11,
+    0.42
+   ]
+  },
+  "S020": {
+   "Ma": [
+    1.85,
+    0.59
+   ],
+   "Huang": [
+    1.02,
+    0.37
+   ],
+   "Shiye": [
+    0.44,
+    0.45
+   ]
+  },
+  "S021": {
+   "Ma": [
+    -0.02,
+    0.62
+   ],
+   "Huang": [
+    0.54,
+    0.43
+   ],
+   "Shiye": [
+    2.2,
+    0.36
+   ]
+  },
+  "S022": {
+   "Ma": [
+    2.14,
+    0.76
+   ],
+   "Huang": [
+    -1.32,
+    0.39
+   ],
+   "Shiye": [
+    0.52,
+    0.44
+   ]
+  },
+  "S023": {
+   "Ma": [
+    0.41,
+    0.47
+   ],
+   "Huang": [
+    1.83,
+    0.31
+   ],
+   "Shiye": [
+    1.02,
+    0.11
+   ]
+  },
+  "S024": {
+   "Ma": [
+    3.33,
+    0.84
+   ],
+   "Huang": [
+    -2.19,
+    0.31
+   ],
+   "Shiye": [
+    0.54,
+    0.47
+   ]
+  },
+  "S025": {
+   "Ma": [
+    0.54,
+    0.47
+   ],
+   "Huang": [
+    2.0,
+    0.13
+   ],
+   "Shiye": [
+    -1.28,
+    0.22
+   ]
+  },
+  "S026": {
+   "Ma": [
+    5.58,
+    0.86
+   ],
+   "Huang": [
+    -13.2,
+    -1.49
+   ],
+   "Shiye": [
+    0.44,
+    0.44
+   ]
+  },
+  "S027": {
+   "Ma": [
+    0.51,
+    0.47
+   ],
+   "Huang": [
+    7.79,
+    -2.26
+   ],
+   "Shiye": [
+    -16.65,
+    -9.31
+   ]
+  },
+  "S028": {
+   "Ma": [
+    -1.37,
+    1.55
+   ],
+   "Huang": [
+    0.54,
+    0.43
+   ],
+   "Shiye": [
+    3.34,
+    0.53
+   ]
+  },
+  "S029": {
+   "Ma": [
+    0.49,
+    0.48
+   ],
+   "Huang": [
+    2.04,
+    0.3
+   ],
+   "Shiye": [
+    1.03,
+    0.05
+   ]
+  },
+  "S030": {
+   "Ma": [
+    -2.38,
+    0.86
+   ],
+   "Huang": [
+    0.55,
+    0.47
+   ],
+   "Shiye": [
+    3.81,
+    0.26
+   ]
+  },
+  "S031": {
+   "Ma": [
+    0.49,
+    0.43
+   ],
+   "Huang": [
+    2.93,
+    0.15
+   ],
+   "Shiye": [
+    -1.35,
+    -0.08
+   ]
+  },
+  "S032": {
+   "Ma": [
+    -4.04,
+    1.07
+   ],
+   "Huang": [
+    0.47,
+    0.46
+   ],
+   "Shiye": [
+    6.68,
+    0.13
+   ]
+  },
+  "S033": {
+   "Ma": [
+    2.28,
+    0.63
+   ],
+   "Huang": [
+    1.02,
+    0.38
+   ],
+   "Shiye": [
+    0.49,
+    0.45
+   ]
+  },
+  "S034": {
+   "Ma": [
+    -1.42,
+    0.75
+   ],
+   "Huang": [
+    0.52,
+    0.42
+   ],
+   "Shiye": [
+    1.83,
+    0.48
+   ]
+  },
+  "S035": {
+   "Ma": [
+    0.47,
+    0.45
+   ],
+   "Huang": [
+    1.91,
+    0.3
+   ],
+   "Shiye": [
+    1.02,
+    0.14
+   ]
+  },
+  "S036": {
+   "Ma": [
+    -1.49,
+    0.73
+   ],
+   "Huang": [
+    0.42,
+    0.48
+   ],
+   "Shiye": [
+    1.02,
+    0.49
+   ]
+  },
+  "S037": {
+   "Ma": [
+    0.44,
+    0.44
+   ],
+   "Huang": [
+    1.88,
+    0.27
+   ],
+   "Shiye": [
+    1.02,
+    0.03
+   ]
+  },
+  "S038": {
+   "Ma": [
+    -1.38,
+    0.66
+   ],
+   "Huang": [
+    0.46,
+    0.48
+   ],
+   "Shiye": [
+    1.02,
+    0.34
+   ]
+  },
+  "S039": {
+   "Ma": [
+    0.45,
+    0.43
+   ],
+   "Huang": [
+    1.02,
+    0.01
+   ],
+   "Shiye": [
+    -1.07,
+    0.17
+   ]
+  },
+  "S040": {
+   "Ma": [
+    1.81,
+    0.7
+   ],
+   "Huang": [
+    -1.04,
+    0.4
+   ],
+   "Shiye": [
+    0.5,
+    0.46
+   ]
+  },
+  "S041": {
+   "Ma": [
+    -1.9,
+    0.6
+   ],
+   "Huang": [
+    0.49,
+    0.48
+   ],
+   "Shiye": [
+    2.92,
+    0.2
+   ]
+  },
+  "S042": {
+   "Ma": [
+    -16.87,
+    5.03
+   ],
+   "Huang": [
+    0.5,
+    0.47
+   ],
+   "Shiye": [
+    7.08,
+    0.4
+   ]
+  },
+  "S043": {
+   "Ma": [
+    0.26,
+    -0.02
+   ],
+   "Huang": [
+    2.46,
+    -1.38
+   ],
+   "Shiye": [
+    -2.17,
+    -3.19
+   ]
+  },
+  "S044": {
+   "Ma": [
+    4.93,
+    1.96
+   ],
+   "Huang": [
+    -3.58,
+    0.55
+   ],
+   "Shiye": [
+    0.45,
+    0.46
+   ]
+  },
+  "S045": {
+   "Ma": [
+    1.96,
+    1.18
+   ],
+   "Huang": [
+    -1.81,
+    0.51
+   ],
+   "Shiye": [
+    0.47,
+    0.47
+   ]
+  },
+  "S046": {
+   "Ma": [
+    0.5,
+    -0.44
+   ],
+   "Huang": [
+    2.54,
+    -0.67
+   ],
+   "Shiye": [
+    -1.5,
+    -0.68
+   ]
+  },
+  "S047": {
+   "Ma": [
+    0.48,
+    0.47
+   ],
+   "Huang": [
+    2.61,
+    -0.26
+   ],
+   "Shiye": [
+    -1.89,
+    -0.13
+   ]
+  },
+  "S048": {
+   "Ma": [
+    -1.57,
+    0.71
+   ],
+   "Huang": [
+    0.52,
+    0.45
+   ],
+   "Shiye": [
+    2.21,
+    0.32
+   ]
+  },
+  "S049": {
+   "Ma": [
+    1.1,
+    0.62
+   ],
+   "Huang": [
+    -0.62,
+    0.43
+   ],
+   "Shiye": [
+    0.5,
+    0.46
+   ]
+  },
+  "S050": {
+   "Ma": [
+    0.5,
+    0.46
+   ],
+   "Huang": [
+    2.36,
+    0.14
+   ],
+   "Shiye": [
+    -1.09,
+    0.07
+   ]
+  },
+  "S051": {
+   "Ma": [
+    0.52,
+    0.45
+   ],
+   "Huang": [
+    2.51,
+    -0.51
+   ],
+   "Shiye": [
+    -1.56,
+    -0.15
+   ]
+  },
+  "S052": {
+   "Ma": [
+    -1.39,
+    0.71
+   ],
+   "Huang": [
+    0.5,
+    0.48
+   ],
+   "Shiye": [
+    2.82,
+    0.3
+   ]
+  },
+  "S053": {
+   "Ma": [
+    -1.72,
+    0.72
+   ],
+   "Huang": [
+    0.57,
+    0.47
+   ],
+   "Shiye": [
+    3.15,
+    0.22
+   ]
+  },
+  "S054": {
+   "Ma": [
+    0.66,
+    0.19
+   ],
+   "Huang": [
+    2.19,
+    0.01
+   ],
+   "Shiye": [
+    -0.67,
+    0.03
+   ]
+  },
+  "S055": {
+   "Ma": [
+    7.11,
+    0.58
+   ],
+   "Huang": [
+    -4.7,
+    -0.34
+   ],
+   "Shiye": [
+    0.47,
+    0.44
+   ]
+  },
+  "S056": {
+   "Ma": [
+    0.44,
+    0.45
+   ],
+   "Huang": [
+    2.88,
+    0.09
+   ],
+   "Shiye": [
+    -2.11,
+    -0.18
+   ]
+  },
+  "S057": {
+   "Ma": [
+    -3.94,
+    1.29
+   ],
+   "Huang": [
+    0.46,
+    0.43
+   ],
+   "Shiye": [
+    5.47,
+    0.76
+   ]
+  },
+  "S058": {
+   "Ma": [
+    0.48,
+    0.47
+   ],
+   "Huang": [
+    2.79,
+    -0.1
+   ],
+   "Shiye": [
+    -1.58,
+    -0.51
+   ]
+  },
+  "S059": {
+   "Ma": [
+    7.59,
+    1.66
+   ],
+   "Huang": [
+    -3.4,
+    0.27
+   ],
+   "Shiye": [
+    0.47,
+    0.48
+   ]
+  },
+  "S060": {
+   "Ma": [
+    0.52,
+    0.43
+   ],
+   "Huang": [
+    2.99,
+    -0.06
+   ],
+   "Shiye": [
+    -1.67,
+    -0.33
+   ]
+  },
+  "S061": {
+   "Ma": [
+    -1.65,
+    0.67
+   ],
+   "Huang": [
+    0.56,
+    0.47
+   ],
+   "Shiye": [
+    1.69,
+    0.18
+   ]
+  },
+  "S062": {
+   "Ma": [
+    0.52,
+    0.48
+   ],
+   "Huang": [
+    2.53,
+    -0.44
+   ],
+   "Shiye": [
+    -1.62,
+    -0.24
+   ]
+  },
+  "S063": {
+   "Ma": [
+    -1.75,
+    0.75
+   ],
+   "Huang": [
+    0.48,
+    0.42
+   ],
+   "Shiye": [
+    1.79,
+    0.43
+   ]
+  },
+  "S064": {
+   "Ma": [
+    0.51,
+    0.45
+   ],
+   "Huang": [
+    2.13,
+    0.29
+   ],
+   "Shiye": [
+    1.34,
+    0.1
+   ]
+  },
+  "S065": {
+   "Ma": [
+    3.14,
+    1.26
+   ],
+   "Huang": [
+    -2.58,
+    0.57
+   ],
+   "Shiye": [
+    0.44,
+    0.43
+   ]
+  },
+  "S066": {
+   "Ma": [
+    -2.9,
+    1.01
+   ],
+   "Huang": [
+    0.46,
+    0.43
+   ],
+   "Shiye": [
+    4.16,
+    0.63
+   ]
+  },
+  "S067": {
+   "Ma": [
+    0.53,
+    0.46
+   ],
+   "Huang": [
+    2.77,
+    -0.11
+   ],
+   "Shiye": [
+    -1.25,
+    -0.7
+   ]
+  },
+  "S068": {
+   "Ma": [
+    2.66,
+    0.52
+   ],
+   "Huang": [
+    -1.84,
+    0.16
+   ],
+   "Shiye": [
+    0.52,
+    0.43
+   ]
+  },
+  "S069": {
+   "Ma": [
+    0.48,
+    0.43
+   ],
+   "Huang": [
+    1.95,
+    0.27
+   ],
+   "Shiye": [
+    1.01,
+    0.09
+   ]
+  },
+  "S070": {
+   "Ma": [
+    2.57,
+    0.89
+   ],
+   "Huang": [
+    -1.79,
+    0.37
+   ],
+   "Shiye": [
+    0.49,
+    0.43
+   ]
+  },
+  "S071": {
+   "Ma": [
+    0.49,
+    0.47
+   ],
+   "Huang": [
+    2.83,
+    0.16
+   ],
+   "Shiye": [
+    -0.85,
+    -0.05
+   ]
+  }
+ },
+ "ok": true,
+ "saved": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/DS_相机动作_v01.mb"
+}

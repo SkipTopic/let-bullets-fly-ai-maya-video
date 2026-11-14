@@ -1,0 +1,293 @@
+{
+ "errors": [],
+ "steps": [
+  "建立相机 10 台",
+  "P_MA -> DS_P_MA.0000.png",
+  "P_HUANG -> DS_P_HUANG.0000.png",
+  "P_SHIYE -> DS_P_SHIYE.0000.png",
+  "S001 -> DS_S001.0000.png",
+  "S002 -> DS_S002.0000.png",
+  "S003 -> DS_S003.0000.png",
+  "S004 -> DS_S004.0000.png",
+  "S005 -> DS_S005.0000.png",
+  "S006 -> DS_S006.0000.png",
+  "S007 -> DS_S007.0000.png"
+ ],
+ "cams": {
+  "P_MA": {
+   "transform": "DS_P_MA_CAM1",
+   "shape": "DS_P_MA_CAMShape1",
+   "focal": 59.95
+  },
+  "P_HUANG": {
+   "transform": "DS_P_HUANG_CAM1",
+   "shape": "DS_P_HUANG_CAMShape1",
+   "focal": 58.18
+  },
+  "P_SHIYE": {
+   "transform": "DS_P_SHIYE_CAM1",
+   "shape": "DS_P_SHIYE_CAMShape1",
+   "focal": 58.18
+  },
+  "S001": {
+   "transform": "DS_S001_CAM1",
+   "shape": "DS_S001_CAMShape1",
+   "focal": 57.95
+  },
+  "S002": {
+   "transform": "DS_S002_CAM1",
+   "shape": "DS_S002_CAMShape1",
+   "focal": 56.13
+  },
+  "S003": {
+   "transform": "DS_S003_CAM1",
+   "shape": "DS_S003_CAMShape1",
+   "focal": 72.04
+  },
+  "S004": {
+   "transform": "DS_S004_CAM1",
+   "shape": "DS_S004_CAMShape1",
+   "focal": 72.04
+  },
+  "S005": {
+   "transform": "DS_S005_CAM1",
+   "shape": "DS_S005_CAMShape1",
+   "focal": 62.0
+  },
+  "S006": {
+   "transform": "DS_S006_CAM1",
+   "shape": "DS_S006_CAMShape1",
+   "focal": 60.1
+  },
+  "S007": {
+   "transform": "DS_S007_CAM1",
+   "shape": "DS_S007_CAMShape1",
+   "focal": 55.13
+  }
+ },
+ "verify": {
+  "P_MA": {
+   "Ma": [
+    0.52,
+    0.458,
+    201.6
+   ],
+   "Huang": [
+    3.564,
+    -0.135,
+    67.5
+   ],
+   "Shiye": [
+    -2.38,
+    -1.01,
+    29.7
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_P_MA_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_P_MA.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_P_MA.####.png"
+  },
+  "P_HUANG": {
+   "Ma": [
+    -2.122,
+    0.71,
+    79.0
+   ],
+   "Huang": [
+    0.5,
+    0.458,
+    207.2
+   ],
+   "Shiye": [
+    2.716,
+    0.062,
+    33.7
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_P_HUANG_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_P_HUANG.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_P_HUANG.####.png"
+  },
+  "P_SHIYE": {
+   "Ma": [
+    3.019,
+    0.709,
+    82.3
+   ],
+   "Huang": [
+    -1.62,
+    0.12,
+    35.8
+   ],
+   "Shiye": [
+    0.5,
+    0.461,
+    209.1
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_P_SHIYE_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_P_SHIYE.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_P_SHIYE.####.png"
+  },
+  "S001": {
+   "Ma": [
+    0.54,
+    0.448,
+    200.5
+   ],
+   "Huang": [
+    3.608,
+    -0.152,
+    64.7
+   ],
+   "Shiye": [
+    -2.31,
+    -0.993,
+    29.3
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_S001_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S001.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S001.####.png"
+  },
+  "S002": {
+   "Ma": [
+    -2.965,
+    0.744,
+    54.8
+   ],
+   "Huang": [
+    0.501,
+    0.453,
+    189.1
+   ],
+   "Shiye": [
+    5.23,
+    -0.456,
+    18.0
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_S002_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S002.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S002.####.png"
+  },
+  "S003": {
+   "Ma": [
+    0.458,
+    0.454,
+    289.9
+   ],
+   "Huang": [
+    1.936,
+    0.297,
+    229.7
+   ],
+   "Shiye": [
+    1.004,
+    0.124,
+    112.9
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_S003_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S003.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S003.####.png"
+  },
+  "S004": {
+   "Ma": [
+    -0.008,
+    0.733,
+    112.4
+   ],
+   "Huang": [
+    0.554,
+    0.444,
+    289.9
+   ],
+   "Shiye": [
+    2.167,
+    0.423,
+    170.5
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_S004_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S004.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S004.####.png"
+  },
+  "S005": {
+   "Ma": [
+    0.5,
+    0.457,
+    214.9
+   ],
+   "Huang": [
+    2.986,
+    -0.413,
+    46.8
+   ],
+   "Shiye": [
+    -2.122,
+    -0.098,
+    72.4
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_S005_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S005.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S005.####.png"
+  },
+  "S006": {
+   "Ma": [
+    -3.973,
+    1.135,
+    24.5
+   ],
+   "Huang": [
+    0.461,
+    0.457,
+    195.3
+   ],
+   "Shiye": [
+    3.698,
+    0.256,
+    58.1
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_S006_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S006.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S006.####.png"
+  },
+  "S007": {
+   "Ma": [
+    0.5,
+    0.458,
+    219.5
+   ],
+   "Huang": [
+    2.608,
+    0.126,
+    97.2
+   ],
+   "Shiye": [
+    -0.828,
+    -0.356,
+    43.1
+   ],
+   "panel_cam": "|DS_PRODUCTION_CAMERAS|DS_S007_CAM1",
+   "file": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S007.0000.png"
+   ],
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\v01\\DS_S007.####.png"
+  }
+ },
+ "panel": "modelPanel4",
+ "scene_saved": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/DS_相机动作_v01.mb",
+ "ok": true
+}

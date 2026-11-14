@@ -1,0 +1,61 @@
+"""DS 预览灯光：给视口 playblast 一套稳定的三点光，避免人物正面发黑。
+
+只新增 DS_ 前缀灯光，放在 GRP_LIGHTS 下；不改动原有材质和几何。
+"""
+import json
+import os
+
+import maya.cmds as cmds
+
+ROOT = r"C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹"
+OUT = {"errors": [], "lights": []}
+
+SPECS = [
+    # name, 类型, 位置, 目标, 强度, 颜色, 角度
+    ("DS_KEY", "spot", (-140.0, 300.0, 260.0), (0.0, 90.0, 0.0), 2.2, (1.0, 0.94, 0.86), 55.0),
+    ("DS_FILL", "spot", (220.0, 200.0, 200.0), (0.0, 85.0, 10.0), 0.9, (0.82, 0.88, 1.0), 80.0),
+    ("DS_RIM", "spot", (40.0, 260.0, -320.0), (0.0, 110.0, 0.0), 1.4, (1.0, 0.92, 0.8), 70.0),
+    ("DS_AMB", "ambient", None, None, 0.55, (0.62, 0.66, 0.72), None),
+]
+
+try:
+    for name, kind, pos, aim, intensity, color, cone in SPECS:
+        for old in cmds.ls(name + "*"):
+            cmds.delete(old)
+        if kind == "spot":
+            node = cmds.spotLight(name=name + "_L", intensity=intensity, rgb=color,
+                                  coneAngle=cone, penumbra=0.35, decayRate=0,
+                                  shadowColor=(0, 0, 0))[0]
+            tr = cmds.listRelatives(node, parent=True)[0]
+            cmds.xform(tr, ws=True, t=pos)
+            tgt = cmds.spaceLocator(name=name + "_AIM")[0]
+            cmds.xform(tgt, ws=True, t=aim)
+            cmds.aimConstraint(tgt, tr, aimVector=(0, 0, -1), upVector=(0, 1, 0),
+                               worldUpType="vector", worldUpVector=(0, 1, 0))
+            cmds.parent(tgt, tr, relative=False)
+        else:
+            node = cmds.ambientLight(name=name + "_L", intensity=intensity, rgb=color)[0]
+            tr = cmds.listRelatives(node, parent=True)[0] if cmds.listRelatives(node, parent=True) else node
+        OUT["lights"].append({"name": name, "shape": node, "transform": tr})
+
+    grp = "GRP_LIGHTS"
+    if cmds.objExists(grp):
+        for l in OUT["lights"]:
+            tr = l["transform"]
+            if cmds.listRelatives(tr, parent=True) != [grp]:
+                try:
+                    cmds.parent(tr, grp, relative=False)
+                except Exception:
+                    pass
+
+    # 视口改用场景灯光
+    panel = [p for p in cmds.getPanel(type="modelPanel") if cmds.control(p, q=True, visible=True)][0]
+    cmds.modelEditor(panel, e=True, displayLights="all", twoSidedLighting=True)
+    OUT["panel"] = panel
+    OUT["ok"] = True
+except Exception as exc:  # noqa: BLE001
+    OUT["errors"].append(repr(exc))
+
+with open(os.path.join(ROOT, "logs", "ds16_lights.json"), "w", encoding="utf-8") as fh:
+    json.dump(OUT, fh, ensure_ascii=False, indent=1)
+print(json.dumps(OUT, ensure_ascii=False, indent=1))

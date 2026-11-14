@@ -1,0 +1,11 @@
+[image2 @ 000001fc1391ba00] Could find no file with path 'C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\frames\S001\S001%04d.png' and index in the range 0-4
+C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\frames\S001\S001%04d.png: No such file or directory
+subs=51
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\scripts\p6_compose.py", line 86, in <module>
+    subprocess.run(cmd, check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\admin\.workbuddy\binaries\python\versions\3.13.12\Lib\subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['C:\\Users\\admin\\bin\\ffmpeg.exe', '-y', '-loglevel', 'error', '-framerate', '24', '-i', 'C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\frames\\S001\\S001%04d.png', '-i', 'C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\subs\\sub_S001.png', '-filter_complex', "[0:v][1:v]overlay=0:0:enable='between(t,0,2.333)'", '-c:v', 'libx264', '-crf', '18', '-pix_fmt', 'yuv420p', '-r', '24', '-an', 'C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\shots_mp4\\S001.mp4']' returned non-zero exit status 1.

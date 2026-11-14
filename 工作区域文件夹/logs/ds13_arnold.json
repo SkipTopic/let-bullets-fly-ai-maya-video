@@ -1,0 +1,10 @@
+{
+ "errors": [],
+ "renderer": "arnold",
+ "project": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/mayaProject/",
+ "result": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/mayaProject/tmp/DS_S001_CAM1/ds_arnold_test.png",
+ "ok": true,
+ "found": [
+  "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\mayaProject\\tmp\\DS_S001_CAM1\\ds_arnold_test.png"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "ok": true,
+ "maya": "2024",
+ "scene": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/摆姿重建_v7.mb",
+ "time_unit": "film",
+ "linear_unit": "cm",
+ "fps": "film",
+ "playback": [
+  1.0,
+  3512.0
+ ],
+ "frames_per_sec_check": 0.0,
+ "modified": false
+}

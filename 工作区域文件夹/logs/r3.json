@@ -1,0 +1,10 @@
+{
+ "errors": [
+  "Traceback (most recent call last):\n  File \"C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\cmd\\run_cmd_lt2.py\", line 25, in <module>\n    OUT[\"renderers\"] = cmds.renderer(q=True, list=True) if hasattr(cmds,\"renderer\") else None\nTypeError: 标志“list”无效\n"
+ ],
+ "renderer": "mayaHardware2",
+ "lights": [
+  "LGT_bounceShape",
+  "LGT_sunShape"
+ ]
+}

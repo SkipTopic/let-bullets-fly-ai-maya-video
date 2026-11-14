@@ -1,0 +1,47 @@
+{
+ "errors": [],
+ "step": "pose_arms",
+ "left_in_chars": [
+  "CHR_Huang",
+  "CHR_Shiye",
+  "Huang_AragakiFBXASC032Shinjiro_mesh",
+  "Shiye_JunpeiFBXASC032Iori_mesh"
+ ],
+ "base_mesh": "NH_MaleM_140_LOD0Shape",
+ "meshes_left": 42,
+ "joint_sample": [
+  "Bip001",
+  "Bip001Head",
+  "Bip001LCalf",
+  "Bip001LClavicle",
+  "Bip001LFinger0"
+ ],
+ "root": [
+  "Root"
+ ],
+ "pelvis_after": 46.5,
+ "ma_head": [
+  0.0,
+  101.7,
+  -104.9
+ ],
+ "arm_err": {
+  "L": 4.2,
+  "R": 29.2
+ },
+ "head_after": [
+  0.0,
+  101.7,
+  -104.9
+ ],
+ "mesh_bb": [
+  -31.0,
+  -0.0,
+  -151.0,
+  18.0,
+  122.0,
+  -44.0
+ ],
+ "saved": "手工摆位_v9_newma.mb",
+ "ok": true
+}

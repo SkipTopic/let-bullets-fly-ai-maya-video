@@ -1,0 +1,32 @@
+# ---- S071 ----
+cam = cmds.camera(name='CAM_S071')[0]
+sh = cmds.listRelatives(cam, s=True)[0]
+cmds.setAttr(sh + '.focalLength', 65)
+cmds.setAttr(cam + '.translate', 0, 103, 156)
+lt = cmds.spaceLocator(name='aimT_S071')[0]
+cmds.setAttr(lt + '.translate', *[round(v, 2) for v in cmds.xform(J('Ma', 'Head'), q=True, ws=True, t=True)[:3]])
+ac = cmds.aimConstraint(lt, cam, aimVector=(0,0,-1), upVector=(0,1,0), worldUpVector=(0,1,0))
+cmds.setKeyframe(cam + '.rotateX', t=3468)
+cmds.setKeyframe(cam + '.rotateY', t=3468)
+cmds.setKeyframe(cam + '.rotateZ', t=3468)
+cmds.setAttr(cam + '.translate', 26, 103, 156)
+cmds.setKeyframe(cam + '.translateX', t=3468)
+cmds.setKeyframe(cam + '.translateX', t=3512)
+cmds.setKeyframe(cam + '.translateY', t=3468)
+cmds.setKeyframe(cam + '.translateY', t=3512)
+cmds.setKeyframe(cam + '.translateZ', t=3468)
+cmds.setKeyframe(cam + '.translateZ', t=3512)
+cmds.setAttr(lt + '.translate', *[round(v, 2) for v in cmds.xform(J('Ma', 'Head'), q=True, ws=True, t=True)[:3]])
+ac2 = cmds.aimConstraint(lt, cam, aimVector=(0,0,-1), upVector=(0,1,0), worldUpVector=(0,1,0))
+cmds.delete(ac)
+cmds.setKeyframe(cam + '.rotateX', t=3512)
+cmds.setKeyframe(cam + '.rotateY', t=3512)
+cmds.setKeyframe(cam + '.rotateZ', t=3512)
+cmds.delete(lt)
+blink_loop_all(3468, 3512)
+breath('Ma', 3468, 3512)
+breath('Huang', 3468, 3512)
+breath('Shiye', 3468, 3512)
+glance('Ma', 'Huang', 3490)
+
+print('P4_ALL_SHOTS_BUILT')

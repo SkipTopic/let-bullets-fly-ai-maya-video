@@ -1,0 +1,36 @@
+{
+ "errors": [
+  "Traceback (most recent call last):\n  File \"C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\cmd\\run_cmd_m2.py\", line 27, in <module>\n    bb = cmds.xform(meshes[0], q=True, ws=True, bb=True)\nRuntimeError: 没有为“xform”命令提供有效的对象。\n\n"
+ ],
+ "exists": true,
+ "imported": 0,
+ "joints": 242,
+ "sample": [
+  "Bip001",
+  "Bip001Head",
+  "Bip001LCalf",
+  "Bip001LClavicle",
+  "Bip001LFinger0",
+  "Bip001LFinger01",
+  "Bip001LFinger02",
+  "Bip001LFinger1",
+  "Bip001LFinger2",
+  "Bip001LFinger3"
+ ],
+ "bones": {
+  "Bip001Pelvis": "Bip001Pelvis",
+  "Bip001Spine": "Bip001Spine",
+  "Bip001Spine1": "Bip001Spine1",
+  "Bip001Spine2": "Bip001Spine2",
+  "Bip001Neck": "Bip001Neck",
+  "Bip001Head": "Bip001Head",
+  "Bip001LClavicle": "Bip001LClavicle",
+  "Bip001LUpperArm": "Bip001LUpperArm",
+  "Bip001LForearm": "Bip001LForearm",
+  "Bip001LHand": "Bip001LHand",
+  "Bip001LThigh": "Bip001LThigh",
+  "Bip001LCalf": "Bip001LCalf",
+  "Bip001LFoot": "Bip001LFoot"
+ },
+ "mesh_count": 148
+}

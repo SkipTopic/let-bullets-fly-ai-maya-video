@@ -1,0 +1,30 @@
+{
+ "OLD_Ma": {
+  "upper": "LeftArm",
+  "fore": "LeftForeArm",
+  "bbox": [
+   -0.65,
+   -0.23,
+   0.0,
+   0.23,
+   0.14,
+   1.76
+  ],
+  "height": 1.75,
+  "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\BN_OLD_Ma.png"
+ },
+ "NEW_Male": {
+  "upper": "Bip001LUpperArm",
+  "fore": "Bip001LForearm",
+  "bbox": [
+   -0.43,
+   -0.23,
+   -0.0,
+   0.27,
+   0.16,
+   1.61
+  ],
+  "height": 1.61,
+  "png": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_审片\\BN_NEW_Male.png"
+ }
+}

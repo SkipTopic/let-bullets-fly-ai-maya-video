@@ -1,0 +1,190 @@
+{
+ "world_pos": {
+  "Root": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "Center": [
+   0.0,
+   68.0,
+   0.0
+  ],
+  "Groove": [
+   0.0,
+   68.8,
+   0.0
+  ],
+  "Hips": [
+   0.0,
+   99.45,
+   -5.13
+  ],
+  "Spine": [
+   -0.0,
+   107.12,
+   -4.95
+  ],
+  "Spine1": [
+   -0.0,
+   127.52,
+   -4.95
+  ],
+  "Neck": [
+   -0.0,
+   146.1,
+   -4.55
+  ],
+  "Head": [
+   -0.0,
+   156.81,
+   -4.55
+  ],
+  "LeftShoulder": [
+   1.91,
+   144.53,
+   -2.06
+  ],
+  "LeftArm": [
+   12.08,
+   142.72,
+   -5.25
+  ],
+  "LeftForeArm": [
+   33.19,
+   138.95,
+   -11.86
+  ],
+  "LeftHand": [
+   10.23,
+   143.06,
+   -4.78
+  ],
+  "RightShoulder": [
+   -1.91,
+   144.53,
+   -2.06
+  ],
+  "RightArm": [
+   -12.08,
+   142.72,
+   -5.25
+  ],
+  "RightForeArm": [
+   -33.19,
+   138.95,
+   -11.86
+  ],
+  "RightHand": [
+   -10.23,
+   143.06,
+   -4.78
+  ],
+  "LeftUpLeg": [
+   6.94,
+   98.27,
+   2.64
+  ],
+  "LeftLeg": [
+   6.94,
+   68.11,
+   28.49
+  ],
+  "LeftFoot": [
+   6.94,
+   34.35,
+   57.42
+  ],
+  "LeftToeBase": [
+   6.94,
+   39.36,
+   73.24
+  ]
+ },
+ "parent": {
+  "Root": "MakotoFBXASC032Yuki_arm",
+  "Center": "Root",
+  "Groove": "Center",
+  "Hips": "Groove",
+  "Spine": "Hips",
+  "Spine1": "Spine",
+  "Neck": "Spine1",
+  "Head": "Neck",
+  "LeftShoulder": "Spine1",
+  "LeftArm": "LeftShoulder",
+  "LeftForeArm": "FBXASC232FBXASC133FBXASC149FBXASC230FBXASC141FBXASC169FBXASC046L",
+  "LeftHand": "FBXASC230FBXASC137FBXASC139FBXASC230FBXASC141FBXASC169FBXASC046L",
+  "RightShoulder": "Spine1",
+  "RightArm": "RightShoulder",
+  "RightForeArm": "FBXASC232FBXASC133FBXASC149FBXASC230FBXASC141FBXASC169FBXASC046R",
+  "RightHand": "FBXASC230FBXASC137FBXASC139FBXASC230FBXASC141FBXASC169FBXASC046R",
+  "LeftUpLeg": "FBXASC232FBXASC133FBXASC176FBXASC227FBXASC130FBXASC173FBXASC227FBXASC131FBXASC163FBXASC227FBXASC131FBXASC179FBXASC227FBXASC130FBXASC187FBXASC227FBXASC131FBXASC171FBXASC046L",
+  "LeftLeg": "LeftUpLeg",
+  "LeftFoot": "LeftLeg",
+  "LeftToeBase": "LeftFoot"
+ },
+ "bone_len": {
+  "LeftArm": null,
+  "LeftForeArm": null,
+  "LeftHand": null,
+  "LeftUpLeg": null,
+  "LeftLeg": null
+ },
+ "skinCluster": [
+  "skinCluster1"
+ ],
+ "influences": 183,
+ "influence_sample": [
+  "Root",
+  "Center",
+  "Groove",
+  "Hips",
+  "Spine",
+  "Spine1",
+  "Neck",
+  "Head",
+  "headFBXASC032eyebrowFBXASC0321FBXASC046R",
+  "headFBXASC032eyebrowFBXASC0322FBXASC046R"
+ ],
+ "vtx100_weights_nonzero": [
+  1.0
+ ],
+ "mesh_transform": {
+  "translate": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "rotate": [
+   -90.0,
+   -0.0,
+   0.0
+  ],
+  "scale": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "parent": null
+ },
+ "armature_root": [
+  "MakotoFBXASC032Yuki_arm"
+ ],
+ "armature_transform": {
+  "translate": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "rotate": [
+   -90.0,
+   0.0,
+   0.0
+  ],
+  "scale": [
+   100.0,
+   100.0,
+   100.0
+  ]
+ }
+}

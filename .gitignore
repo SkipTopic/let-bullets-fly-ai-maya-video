@@ -1,0 +1,12 @@
+# Original reference video is intentionally not distributed.
+原视频素材.mp4
+**/原视频素材.mp4
+
+# Local caches and generated Python bytecode.
+__pycache__/
+*.py[cod]
+
+# OS metadata.
+.DS_Store
+Thumbs.db
+desktop.ini

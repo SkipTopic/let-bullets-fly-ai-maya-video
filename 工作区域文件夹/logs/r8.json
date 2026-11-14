@@ -1,0 +1,29 @@
+{
+ "errors": [
+  "Traceback (most recent call last):\n  File \"C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\cmd\\run_cmd_ver.py\", line 9, in <module>\n    OUT[g] = len(cmds.listRelatives(g, children=True) or []) if cmds.objExists(g) else None\nValueError: 与名称匹配的对象不止一个: SET\n"
+ ],
+ "refs": [],
+ "top": [
+  "persp",
+  "top",
+  "front",
+  "side",
+  "Ma_MakotoFBXASC032Yuki_mesh",
+  "Ma_mmd_sdef_c",
+  "Ma_mmd_sdef_r0",
+  "Ma_mmd_sdef_r1",
+  "Huang_AragakiFBXASC032Shinjiro_mesh",
+  "Huang_mmd_sdef_c",
+  "Huang_mmd_sdef_r0",
+  "Huang_mmd_sdef_r1",
+  "Shiye_JunpeiFBXASC032Iori_mesh",
+  "Shiye_mmd_sdef_c",
+  "Shiye_mmd_sdef_r0",
+  "Shiye_mmd_sdef_r1",
+  "|SET",
+  "|LIGHTS",
+  "SCENE"
+ ],
+ "CHARS": 3,
+ "CAMERAS": 71
+}

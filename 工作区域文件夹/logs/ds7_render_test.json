@@ -1,0 +1,25 @@
+{
+ "errors": [],
+ "docs": {
+  "ogsRender": ""
+ },
+ "panels": [
+  "modelPanel1",
+  "modelPanel2",
+  "modelPanel3",
+  "modelPanel4"
+ ],
+ "visible": [
+  "modelPanel4"
+ ],
+ "panel": "modelPanel4",
+ "cam": "DS_S001_CAM1",
+ "focal_before": 57.95,
+ "panel_cam_after_lookthru": "|DS_PRODUCTION_CAMERAS|DS_S001_CAM1",
+ "pb_58": [
+  "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\test\\pb_58mm.0000.png"
+ ],
+ "pb_18": [
+  "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\ds_stills\\test\\pb_18mm.0000.png"
+ ]
+}

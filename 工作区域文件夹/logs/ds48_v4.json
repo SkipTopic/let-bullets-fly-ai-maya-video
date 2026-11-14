@@ -1,0 +1,41 @@
+{
+ "errors": [],
+ "done": [
+  {
+   "id": "S067",
+   "frames": 77,
+   "black_found": 77,
+   "black_fixed": 0,
+   "sec": 205.5
+  },
+  {
+   "id": "S068",
+   "frames": 125,
+   "black_found": 125,
+   "black_fixed": 0,
+   "sec": 286.6
+  },
+  {
+   "id": "S069",
+   "frames": 116,
+   "black_found": 116,
+   "black_fixed": 0,
+   "sec": 323.9
+  },
+  {
+   "id": "S070",
+   "frames": 24,
+   "black_found": 24,
+   "black_fixed": 0,
+   "sec": 57.5
+  },
+  {
+   "id": "S071",
+   "frames": 45,
+   "black_found": 45,
+   "black_fixed": 0,
+   "sec": 125.3
+  }
+ ],
+ "ok": true
+}

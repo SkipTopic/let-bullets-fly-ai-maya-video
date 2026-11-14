@@ -1,0 +1,18 @@
+{
+ "models": {
+  "Aragaki Shinjiro": {
+   "bones_renamed": 58,
+   "sk_renamed": 27,
+   "height_m": 1.893,
+   "n_verts": 10284,
+   "ok": true
+  },
+  "Junpei Iori": {
+   "bones_renamed": 58,
+   "sk_renamed": 27,
+   "height_m": 1.84,
+   "n_verts": 7231,
+   "ok": true
+  }
+ }
+}

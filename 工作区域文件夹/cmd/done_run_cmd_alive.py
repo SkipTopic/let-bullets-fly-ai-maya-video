@@ -1,0 +1,1 @@
+open(r"C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/logs/ping_alive.txt","w").write("alive")

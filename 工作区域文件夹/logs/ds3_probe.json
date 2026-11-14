@@ -1,0 +1,1115 @@
+{
+ "errors": [],
+ "set_children": [
+  "SET_back_0",
+  "SET_back_1",
+  "SET_back_2",
+  "SET_bottle",
+  "SET_bowl_0",
+  "SET_col_0",
+  "SET_col_1",
+  "SET_col_2",
+  "SET_col_3",
+  "SET_col_4",
+  "SET_col_5",
+  "SET_contact_shadow",
+  "SET_cup_0",
+  "SET_floor",
+  "SET_house_body",
+  "SET_house_eave",
+  "SET_leg_0",
+  "SET_leg_1",
+  "SET_leg_2",
+  "SET_lowwall_L",
+  "SET_lowwall_R",
+  "SET_roof",
+  "SET_seat_0",
+  "SET_seat_1",
+  "SET_seat_2",
+  "SET_sky1",
+  "SET_step",
+  "SET_table_top",
+  "SET_tree_0",
+  "SET_tree_1"
+ ],
+ "set_detail": {
+  "SET_back_0": {
+   "bbox": [
+    -23.0,
+    45.0,
+    -124.5,
+    23.0,
+    99.0,
+    -119.5
+   ],
+   "mesh": true
+  },
+  "SET_back_1": {
+   "bbox": [
+    92.0,
+    45.0,
+    39.8,
+    119.3,
+    99.0,
+    82.2
+   ],
+   "mesh": true
+  },
+  "SET_back_2": {
+   "bbox": [
+    -119.3,
+    45.0,
+    39.8,
+    -92.0,
+    99.0,
+    82.2
+   ],
+   "mesh": true
+  },
+  "SET_bottle": {
+   "bbox": [
+    23.6,
+    75.0,
+    -8.4,
+    28.4,
+    87.0,
+    -3.6
+   ],
+   "mesh": true
+  },
+  "SET_bowl_0": {
+   "bbox": [
+    -41.0,
+    75.0,
+    1.0,
+    -27.0,
+    78.2,
+    15.0
+   ],
+   "mesh": true
+  },
+  "SET_col_0": {
+   "bbox": [
+    -231.0,
+    0.0,
+    -291.0,
+    -209.0,
+    300.0,
+    -269.0
+   ],
+   "mesh": true
+  },
+  "SET_col_1": {
+   "bbox": [
+    -143.0,
+    0.0,
+    -291.0,
+    -121.0,
+    300.0,
+    -269.0
+   ],
+   "mesh": true
+  },
+  "SET_col_2": {
+   "bbox": [
+    -55.0,
+    0.0,
+    -291.0,
+    -33.0,
+    300.0,
+    -269.0
+   ],
+   "mesh": true
+  },
+  "SET_col_3": {
+   "bbox": [
+    33.0,
+    0.0,
+    -291.0,
+    55.0,
+    300.0,
+    -269.0
+   ],
+   "mesh": true
+  },
+  "SET_col_4": {
+   "bbox": [
+    121.0,
+    0.0,
+    -291.0,
+    143.0,
+    300.0,
+    -269.0
+   ],
+   "mesh": true
+  },
+  "SET_col_5": {
+   "bbox": [
+    209.0,
+    0.0,
+    -291.0,
+    231.0,
+    300.0,
+    -269.0
+   ],
+   "mesh": true
+  },
+  "SET_contact_shadow": {
+   "bbox": [
+    -150.0,
+    0.2,
+    -150.0,
+    150.0,
+    0.6,
+    150.0
+   ],
+   "mesh": true
+  },
+  "SET_cup_0": {
+   "bbox": [
+    -14.6,
+    75.9,
+    19.5,
+    -9.4,
+    82.9,
+    24.5
+   ],
+   "mesh": true
+  },
+  "SET_floor": {
+   "bbox": [
+    -700.0,
+    0.0,
+    -700.0,
+    700.0,
+    0.0,
+    700.0
+   ],
+   "mesh": true
+  },
+  "SET_house_body": {
+   "bbox": [
+    -280.0,
+    0.0,
+    -560.0,
+    280.0,
+    300.0,
+    -300.0
+   ],
+   "mesh": true
+  },
+  "SET_house_eave": {
+   "bbox": [
+    -320.0,
+    293.0,
+    -595.0,
+    320.0,
+    319.0,
+    -265.0
+   ],
+   "mesh": true
+  },
+  "SET_leg_0": {
+   "bbox": [
+    -5.0,
+    -0.5,
+    59.0,
+    5.0,
+    72.5,
+    69.0
+   ],
+   "mesh": true
+  },
+  "SET_leg_1": {
+   "bbox": [
+    -60.4,
+    -0.5,
+    -37.0,
+    -50.4,
+    72.5,
+    -27.0
+   ],
+   "mesh": true
+  },
+  "SET_leg_2": {
+   "bbox": [
+    50.4,
+    -0.5,
+    -37.0,
+    60.4,
+    72.5,
+    -27.0
+   ],
+   "mesh": true
+  },
+  "SET_lowwall_L": {
+   "bbox": [
+    -429.0,
+    -0.5,
+    -380.0,
+    -411.0,
+    94.5,
+    140.0
+   ],
+   "mesh": true
+  },
+  "SET_lowwall_R": {
+   "bbox": [
+    411.0,
+    -0.5,
+    -380.0,
+    429.0,
+    94.5,
+    140.0
+   ],
+   "mesh": true
+  },
+  "SET_roof": {
+   "bbox": [
+    -300.0,
+    317.0,
+    -580.0,
+    300.0,
+    407.0,
+    -280.0
+   ],
+   "mesh": true
+  },
+  "SET_seat_0": {
+   "bbox": [
+    -23.0,
+    41.5,
+    -124.0,
+    23.0,
+    46.5,
+    -80.0
+   ],
+   "mesh": true
+  },
+  "SET_seat_1": {
+   "bbox": [
+    57.8,
+    41.5,
+    20.1,
+    118.9,
+    46.5,
+    81.9
+   ],
+   "mesh": true
+  },
+  "SET_seat_2": {
+   "bbox": [
+    -118.9,
+    41.5,
+    20.1,
+    -57.8,
+    46.5,
+    81.9
+   ],
+   "mesh": true
+  },
+  "SET_sky1": {
+   "bbox": [
+    -900.0,
+    -900.0,
+    -900.0,
+    900.0,
+    900.0,
+    900.0
+   ],
+   "mesh": true
+  },
+  "SET_step": {
+   "bbox": [
+    -280.0,
+    0.0,
+    -295.0,
+    280.0,
+    16.0,
+    -175.0
+   ],
+   "mesh": true
+  },
+  "SET_table_top": {
+   "bbox": [
+    -88.0,
+    71.2,
+    -88.0,
+    88.0,
+    75.8,
+    88.0
+   ],
+   "mesh": true
+  },
+  "SET_tree_0": {
+   "bbox": [
+    -370.0,
+    -21.0,
+    -368.2,
+    -230.0,
+    140.0,
+    -231.8
+   ],
+   "mesh": true
+  },
+  "SET_tree_1": {
+   "bbox": [
+    200.0,
+    -24.0,
+    -398.0,
+    360.0,
+    160.0,
+    -242.0
+   ],
+   "mesh": true
+  }
+ },
+ "lights": [
+  {
+   "light": "LGT_ambShape",
+   "transform": "LGT_amb",
+   "type": "ambientLight",
+   "intensity": 0.25,
+   "color": [
+    0.75,
+    0.78,
+    0.85
+   ],
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ ],
+ "shading": {
+  "Huang_AragakiFBXASC032Shinjiro_meshShape": {
+   "verts": 10284,
+   "materials": [
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_0",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_0",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_1",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_1",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_2",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_2",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_3",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_3",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_4",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_4",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_5",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_5",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_6",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_6",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_7",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_7",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_8",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_8",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_9",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_9",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_10",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_10",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_11",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_11",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_12",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_12",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_13",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_13",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_14",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_14",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_15",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_15",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_16",
+    "M_Huang_AragakiFBXASC032Shinjiro_meshShape_16"
+   ]
+  },
+  "Huang_mmd_sdef_cShape": {
+   "verts": 10284,
+   "materials": [
+    "lambert1"
+   ]
+  },
+  "Huang_mmd_sdef_r0Shape": {
+   "verts": 10284,
+   "materials": [
+    "lambert1"
+   ]
+  },
+  "Huang_mmd_sdef_r1Shape": {
+   "verts": 10284,
+   "materials": [
+    "lambert1"
+   ]
+  },
+  "NH_MaleM_140_LOD0Shape": {
+   "verts": 28575,
+   "materials": [
+    "MI_NH_MaleM_140Hair",
+    "MI_NH_MaleM_140Hair",
+    "MI_NH_MaleM_140Face",
+    "MI_NH_MaleM_140Face",
+    "MI_NH_MaleM_140Up",
+    "MI_NH_MaleM_140Up",
+    "MI_NH_MaleM_140Down",
+    "MI_NH_MaleM_140Down",
+    "MI_NH_MaleM_140Hand",
+    "MI_NH_MaleM_140Hand",
+    "MI_NH_MaleM_140Eye",
+    "MI_NH_MaleM_140Eye"
+   ]
+  },
+  "SET_back_0Shape": {
+   "verts": 8,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_back_1Shape": {
+   "verts": 8,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_back_2Shape": {
+   "verts": 8,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_bottleShape": {
+   "verts": 36,
+   "materials": [
+    "SET_porcelain"
+   ]
+  },
+  "SET_bowl_0Shape": {
+   "verts": 48,
+   "materials": [
+    "SET_porcelain"
+   ]
+  },
+  "SET_col_0Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_col_1Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_col_2Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_col_3Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_col_4Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_col_5Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_contact_shadowShape": {
+   "verts": 96,
+   "materials": [
+    "SET_shadow"
+   ]
+  },
+  "SET_cup_0Shape": {
+   "verts": 28,
+   "materials": [
+    "SET_porcelain"
+   ]
+  },
+  "SET_floorShape": {
+   "verts": 4,
+   "materials": [
+    "SET_earth"
+   ]
+  },
+  "SET_house_bodyShape": {
+   "verts": 8,
+   "materials": [
+    "SET_plaster"
+   ]
+  },
+  "SET_house_eaveShape": {
+   "verts": 8,
+   "materials": [
+    "SET_tile"
+   ]
+  },
+  "SET_leg_0Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_leg_1Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_leg_2Shape": {
+   "verts": 24,
+   "materials": [
+    "SET_wood_dark"
+   ]
+  },
+  "SET_lowwall_LShape": {
+   "verts": 8,
+   "materials": [
+    "SET_stone"
+   ]
+  },
+  "SET_lowwall_RShape": {
+   "verts": 8,
+   "materials": [
+    "SET_stone"
+   ]
+  },
+  "SET_roofShape": {
+   "verts": 8,
+   "materials": [
+    "SET_tile"
+   ]
+  },
+  "SET_seat_0Shape": {
+   "verts": 8,
+   "materials": [
+    "SET_cloth"
+   ]
+  },
+  "SET_seat_1Shape": {
+   "verts": 8,
+   "materials": [
+    "SET_cloth"
+   ]
+  },
+  "SET_seat_2Shape": {
+   "verts": 8,
+   "materials": [
+    "SET_cloth"
+   ]
+  },
+  "SET_sky1Shape": {
+   "verts": 266,
+   "materials": [
+    "SET_sky_unlit"
+   ]
+  },
+  "SET_stepShape": {
+   "verts": 8,
+   "materials": [
+    "SET_stone"
+   ]
+  },
+  "SET_table_topShape": {
+   "verts": 96,
+   "materials": [
+    "SET_wood"
+   ]
+  },
+  "SET_tree_0Shape": {
+   "verts": 128,
+   "materials": [
+    "SET_foliage"
+   ]
+  },
+  "SET_tree_1Shape": {
+   "verts": 128,
+   "materials": [
+    "SET_foliage"
+   ]
+  },
+  "Shiye_JunpeiFBXASC032Iori_meshShape": {
+   "verts": 7227,
+   "materials": [
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_0",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_0",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_1",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_1",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_2",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_2",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_3",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_3",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_4",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_4",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_5",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_5",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_6",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_6",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_7",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_7",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_8",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_8",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_9",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_9",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_10",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_10",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_11",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_11",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_12",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_12",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_13",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_13",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_14",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_14",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_15",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_15",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_16",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_16",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_17",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_17",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_18",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_18",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_19",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_19",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_20",
+    "M_Shiye_JunpeiFBXASC032Iori_meshShape_20"
+   ]
+  },
+  "Shiye_mmd_sdef_cShape": {
+   "verts": 7227,
+   "materials": [
+    "lambert1"
+   ]
+  },
+  "Shiye_mmd_sdef_r0Shape": {
+   "verts": 7227,
+   "materials": [
+    "lambert1"
+   ]
+  },
+  "Shiye_mmd_sdef_r1Shape": {
+   "verts": 7227,
+   "materials": [
+    "lambert1"
+   ]
+  }
+ },
+ "render": {
+  "width": 960,
+  "height": 540,
+  "aspect": 1.7777776718139648,
+  "engine": "arnold"
+ },
+ "panels": [
+  "modelPanel1",
+  "modelPanel2",
+  "modelPanel3",
+  "modelPanel4"
+ ],
+ "visible_panel_cam": {
+  "modelPanel1": "|top",
+  "modelPanel2": "|side",
+  "modelPanel3": "|front",
+  "modelPanel4": "|POSE_REVIEW_CAMERAS|REVIEW_Scene_front1"
+ },
+ "cameras": [
+  {
+   "shape": "REVIEW_Huang_front1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Huang_left1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Huang_right1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Huang_top1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Ma_front1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Ma_left1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Ma_right1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Ma_top1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Scene_front1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Scene_left1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Scene_right1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Scene_top1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Shiye_front1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Shiye_left1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Shiye_right1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "REVIEW_Shiye_top1",
+   "transform": "POSE_REVIEW_CAMERAS",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    1.0,
+    2200.0
+   ]
+  },
+  {
+   "shape": "front",
+   "transform": "front",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    0.0,
+    1000.1
+   ],
+   "parent": null,
+   "near_far": [
+    0.1,
+    10000.0
+   ]
+  },
+  {
+   "shape": "persp",
+   "transform": "persp",
+   "focal": 34.99999999999999,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": false,
+   "world": [
+    28.0,
+    21.0,
+    28.0
+   ],
+   "parent": null,
+   "near_far": [
+    0.1,
+    10000.0
+   ]
+  },
+  {
+   "shape": "side",
+   "transform": "side",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    1000.1,
+    0.0,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    0.1,
+    10000.0
+   ]
+  },
+  {
+   "shape": "top",
+   "transform": "top",
+   "focal": 35.0,
+   "haperture": 1.4173200000000001,
+   "vaperture": 0.94488,
+   "fit": 1,
+   "ortho": true,
+   "world": [
+    0.0,
+    1000.1,
+    0.0
+   ],
+   "parent": null,
+   "near_far": [
+    0.1,
+    10000.0
+   ]
+  }
+ ],
+ "top_level": [
+  "NH_MaleM_140_LOD0",
+  "POSE_REVIEW_CAMERAS",
+  "SCENE",
+  "front",
+  "persp",
+  "side",
+  "top"
+ ]
+}

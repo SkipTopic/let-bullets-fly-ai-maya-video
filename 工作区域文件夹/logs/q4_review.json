@@ -1,0 +1,122 @@
+{
+ "errors": [],
+ "images": {
+  "Scene_front": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_front.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_front.0000.png"
+   ]
+  },
+  "Scene_left": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_left.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_left.0000.png"
+   ]
+  },
+  "Scene_right": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_right.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_right.0000.png"
+   ]
+  },
+  "Scene_top": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_top.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Scene_top.0000.png"
+   ]
+  },
+  "Ma_front": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_front.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_front.0000.png"
+   ]
+  },
+  "Ma_left": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_left.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_left.0000.png"
+   ]
+  },
+  "Ma_right": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_right.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_right.0000.png"
+   ]
+  },
+  "Ma_top": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_top.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Ma_top.0000.png"
+   ]
+  },
+  "Huang_front": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_front.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_front.0000.png"
+   ]
+  },
+  "Huang_left": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_left.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_left.0000.png"
+   ]
+  },
+  "Huang_right": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_right.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_right.0000.png"
+   ]
+  },
+  "Huang_top": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_top.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Huang_top.0000.png"
+   ]
+  },
+  "Shiye_front": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_front.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_front.0000.png"
+   ]
+  },
+  "Shiye_left": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_left.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_left.0000.png"
+   ]
+  },
+  "Shiye_right": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_right.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_right.0000.png"
+   ]
+  },
+  "Shiye_top": {
+   "returned": "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_top.####.png",
+   "matches": [
+    "C:\\Users\\admin\\Desktop\\MayaProject\\让子弹飞分镜测试\\工作区域文件夹\\_摆姿验收\\v7\\Shiye_top.0000.png"
+   ]
+  }
+ },
+ "camera_map": {
+  "Scene_front": "REVIEW_Scene_front1",
+  "Scene_left": "REVIEW_Scene_left1",
+  "Scene_right": "REVIEW_Scene_right1",
+  "Scene_top": "REVIEW_Scene_top1",
+  "Ma_front": "REVIEW_Ma_front1",
+  "Ma_left": "REVIEW_Ma_left1",
+  "Ma_right": "REVIEW_Ma_right1",
+  "Ma_top": "REVIEW_Ma_top1",
+  "Huang_front": "REVIEW_Huang_front1",
+  "Huang_left": "REVIEW_Huang_left1",
+  "Huang_right": "REVIEW_Huang_right1",
+  "Huang_top": "REVIEW_Huang_top1",
+  "Shiye_front": "REVIEW_Shiye_front1",
+  "Shiye_left": "REVIEW_Shiye_left1",
+  "Shiye_right": "REVIEW_Shiye_right1",
+  "Shiye_top": "REVIEW_Shiye_top1"
+ },
+ "saved_camera_count": 16,
+ "saved_scene": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/摆姿重建_v7.mb",
+ "ok": true
+}

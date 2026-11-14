@@ -1,0 +1,334 @@
+{
+ "LeftHand": {
+  "chain": [
+   "MakotoFBXASC032Yuki_arm",
+   "Root",
+   "Center",
+   "Groove",
+   "Hips",
+   "Spine",
+   "Spine1",
+   "LeftShoulder",
+   "LeftArm",
+   "FBXASC232FBXASC133FBXASC149FBXASC230FBXASC141FBXASC169FBXASC046L",
+   "LeftForeArm",
+   "FBXASC230FBXASC137FBXASC139FBXASC230FBXASC141FBXASC169FBXASC046L",
+   "LeftHand"
+  ],
+  "world": {
+   "LeftHand": [
+    10.23,
+    143.06,
+    -4.78
+   ],
+   "FBXASC230FBXASC137FBXASC139FBXASC230FBXASC141FBXASC169FBXASC046L": [
+    17.96,
+    141.64,
+    -7.17
+   ],
+   "LeftForeArm": [
+    33.19,
+    138.95,
+    -11.86
+   ],
+   "FBXASC232FBXASC133FBXASC149FBXASC230FBXASC141FBXASC169FBXASC046L": [
+    22.65,
+    140.83,
+    -8.51
+   ],
+   "LeftArm": [
+    12.08,
+    142.72,
+    -5.25
+   ],
+   "LeftShoulder": [
+    1.91,
+    144.53,
+    -2.06
+   ],
+   "Spine1": [
+    -0.0,
+    127.52,
+    -4.95
+   ],
+   "Spine": [
+    -0.0,
+    107.12,
+    -4.95
+   ],
+   "Hips": [
+    0.0,
+    99.45,
+    -5.13
+   ],
+   "Groove": [
+    0.0,
+    68.8,
+    0.0
+   ],
+   "Center": [
+    0.0,
+    68.0,
+    0.0
+   ],
+   "Root": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "MakotoFBXASC032Yuki_arm": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "LeftFoot": {
+  "chain": [
+   "MakotoFBXASC032Yuki_arm",
+   "Root",
+   "Center",
+   "Groove",
+   "Hips",
+   "LowerBody",
+   "FBXASC232FBXASC133FBXASC176FBXASC227FBXASC130FBXASC173FBXASC227FBXASC131FBXASC163FBXASC227FBXASC131FBXASC179FBXASC227FBXASC130FBXASC187FBXASC227FBXASC131FBXASC171FBXASC046L",
+   "LeftUpLeg",
+   "LeftLeg",
+   "LeftFoot"
+  ],
+  "world": {
+   "LeftFoot": [
+    6.94,
+    34.35,
+    57.42
+   ],
+   "LeftLeg": [
+    6.94,
+    68.11,
+    28.49
+   ],
+   "LeftUpLeg": [
+    6.94,
+    98.27,
+    2.64
+   ],
+   "FBXASC232FBXASC133FBXASC176FBXASC227FBXASC130FBXASC173FBXASC227FBXASC131FBXASC163FBXASC227FBXASC131FBXASC179FBXASC227FBXASC130FBXASC187FBXASC227FBXASC131FBXASC171FBXASC046L": [
+    6.94,
+    98.34,
+    2.57
+   ],
+   "LowerBody": [
+    -0.0,
+    106.96,
+    -4.82
+   ],
+   "Hips": [
+    0.0,
+    99.45,
+    -5.13
+   ],
+   "Groove": [
+    0.0,
+    68.8,
+    0.0
+   ],
+   "Center": [
+    0.0,
+    68.0,
+    0.0
+   ],
+   "Root": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "MakotoFBXASC032Yuki_arm": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "Head": {
+  "chain": [
+   "MakotoFBXASC032Yuki_arm",
+   "Root",
+   "Center",
+   "Groove",
+   "Hips",
+   "Spine",
+   "Spine1",
+   "Neck",
+   "Head"
+  ],
+  "world": {
+   "Head": [
+    -0.0,
+    156.81,
+    -4.55
+   ],
+   "Neck": [
+    -0.0,
+    146.1,
+    -4.55
+   ],
+   "Spine1": [
+    -0.0,
+    127.52,
+    -4.95
+   ],
+   "Spine": [
+    -0.0,
+    107.12,
+    -4.95
+   ],
+   "Hips": [
+    0.0,
+    99.45,
+    -5.13
+   ],
+   "Groove": [
+    0.0,
+    68.8,
+    0.0
+   ],
+   "Center": [
+    0.0,
+    68.0,
+    0.0
+   ],
+   "Root": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "MakotoFBXASC032Yuki_arm": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "left_hand_effect": [
+  [
+   "LeftHand",
+   226.16
+  ],
+  [
+   "FBXASC230FBXASC137FBXASC139FBXASC230FBXASC141FBXASC169FBXASC046L",
+   223.4
+  ],
+  [
+   "LeftForeArm",
+   218.8
+  ],
+  [
+   "FBXASC232FBXASC133FBXASC149FBXASC230FBXASC141FBXASC169FBXASC046L",
+   221.9
+  ],
+  [
+   "LeftArm",
+   218.84
+  ],
+  [
+   "LeftShoulder",
+   216.37
+  ],
+  [
+   "Spine1",
+   214.91
+  ],
+  [
+   "Spine",
+   213.28
+  ],
+  [
+   "Hips",
+   213.17
+  ],
+  [
+   "Groove",
+   215.46
+  ],
+  [
+   "Center",
+   215.35
+  ],
+  [
+   "Root",
+   234.86
+  ]
+ ],
+ "left_foot_effect": [
+  [
+   "LeftFoot",
+   179.39
+  ],
+  [
+   "LeftLeg",
+   163.33
+  ],
+  [
+   "LeftUpLeg",
+   158.44
+  ],
+  [
+   "FBXASC232FBXASC133FBXASC176FBXASC227FBXASC130FBXASC173FBXASC227FBXASC131FBXASC163FBXASC227FBXASC131FBXASC179FBXASC227FBXASC130FBXASC187FBXASC227FBXASC131FBXASC171FBXASC046L",
+   158.44
+  ],
+  [
+   "LowerBody",
+   165.24
+  ],
+  [
+   "Hips",
+   165.93
+  ],
+  [
+   "Groove",
+   172.16
+  ],
+  [
+   "Center",
+   171.93
+  ],
+  [
+   "Root",
+   202.07
+  ]
+ ],
+ "head_effect": [
+  [
+   "Head",
+   0.0
+  ],
+  [
+   "Neck",
+   10.71
+  ],
+  [
+   "Spine1",
+   29.29
+  ],
+  [
+   "Spine",
+   49.69
+  ],
+  [
+   "Hips",
+   57.36
+  ],
+  [
+   "Groove",
+   88.01
+  ],
+  [
+   "Center",
+   87.21
+  ],
+  [
+   "Root",
+   155.21
+  ]
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "errors": [],
+ "lights": [
+  {
+   "name": "DS_KEY",
+   "shape": "DS_KEY_LShape2",
+   "transform": "DS_KEY_L2"
+  },
+  {
+   "name": "DS_FILL",
+   "shape": "DS_FILL_LShape",
+   "transform": "DS_FILL_L"
+  },
+  {
+   "name": "DS_RIM",
+   "shape": "DS_RIM_LShape",
+   "transform": "DS_RIM_L"
+  },
+  {
+   "name": "DS_AMB",
+   "shape": "DS_AMB_LShape",
+   "transform": "DS_AMB_L"
+  }
+ ],
+ "steps": [
+  "created DS_KEY",
+  "created DS_FILL",
+  "created DS_RIM",
+  "created DS_AMB"
+ ],
+ "panel": "modelPanel4",
+ "ok": true
+}

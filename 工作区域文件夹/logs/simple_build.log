@@ -1,0 +1,70 @@
+chunks=12
+CLEAN+RT: cleaned=80
+SIMPLE_RUNTIME_READY
+simp 0 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 21, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S1_aimConstraint1']
+
+CHUNK_FAIL
+simp 1 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 21, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S2_aimConstraint1']
+
+CHUNK_FAIL
+simp 2 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 21, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S3_aimConstraint1']
+
+CHUNK_FAIL
+simp 3 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 21, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S4_aimConstraint1']
+
+CHUNK_FAIL
+simp 4 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 21, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S5_aimConstraint1']
+
+CHUNK_FAIL
+simp 5 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 21, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S6_aimConstraint1']
+
+CHUNK_FAIL
+simp 6 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 21, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S7_aimConstraint1']
+
+CHUNK_FAIL
+simp 11 FAIL:
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "<string>", line 93, in <module>
+ValueError: 没有与名称匹配的对象: ['CAM_S36_aimConstraint1']
+
+CHUNK_FAIL
+simple ok=4 fail=8 [0, 1, 2, 3, 4, 5]
+Traceback (most recent call last):
+  File "C:\Users\admin\Desktop\MayaProject\让子弹飞分镜测试\工作区域文件夹\scripts\p4_simple_build.py", line 221, in <module>
+    "import maya.cmds as cmds\nimport io\nP = print\n"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ...<12 lines>...
+    "cmds.file(save=True, force=True, type=\"mayaBinary\")\n"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    "print(\"SIMPLE_DONE\")\n" % W, timeout=900)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+TypeError: not enough arguments for format string

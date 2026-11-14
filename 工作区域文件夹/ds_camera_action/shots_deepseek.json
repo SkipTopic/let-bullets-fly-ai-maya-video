@@ -1,0 +1,3455 @@
+{
+ "version": 2,
+ "method": "direct-placement + aim solve",
+ "near_duplicates": [
+  [
+   "S002",
+   "S048",
+   16.7,
+   1.9
+  ],
+  [
+   "S003",
+   "S029",
+   11.9,
+   5.5
+  ],
+  [
+   "S005",
+   "S009",
+   20.3,
+   0.8
+  ],
+  [
+   "S005",
+   "S058",
+   11.3,
+   5.1
+  ],
+  [
+   "S006",
+   "S008",
+   17.0,
+   1.2
+  ],
+  [
+   "S007",
+   "S060",
+   21.0,
+   1.7
+  ],
+  [
+   "S009",
+   "S012",
+   21.8,
+   5.5
+  ],
+  [
+   "S009",
+   "S056",
+   17.9,
+   5.0
+  ],
+  [
+   "S009",
+   "S058",
+   15.1,
+   4.4
+  ],
+  [
+   "S010",
+   "S055",
+   4.7,
+   4.4
+  ],
+  [
+   "S010",
+   "S059",
+   20.3,
+   4.2
+  ],
+  [
+   "S012",
+   "S031",
+   15.1,
+   3.8
+  ],
+  [
+   "S012",
+   "S056",
+   13.3,
+   0.5
+  ],
+  [
+   "S012",
+   "S058",
+   7.0,
+   1.2
+  ],
+  [
+   "S012",
+   "S060",
+   12.4,
+   2.7
+  ],
+  [
+   "S012",
+   "S067",
+   10.9,
+   2.9
+  ],
+  [
+   "S013",
+   "S040",
+   20.7,
+   4.1
+  ],
+  [
+   "S014",
+   "S023",
+   9.8,
+   5.7
+  ],
+  [
+   "S014",
+   "S035",
+   7.6,
+   4.5
+  ],
+  [
+   "S014",
+   "S069",
+   12.5,
+   0.6
+  ],
+  [
+   "S016",
+   "S069",
+   12.9,
+   5.3
+  ],
+  [
+   "S018",
+   "S022",
+   8.4,
+   1.3
+  ],
+  [
+   "S022",
+   "S068",
+   21.4,
+   1.7
+  ],
+  [
+   "S023",
+   "S035",
+   3.5,
+   1.2
+  ],
+  [
+   "S023",
+   "S037",
+   11.9,
+   3.6
+  ],
+  [
+   "S023",
+   "S069",
+   18.7,
+   5.1
+  ],
+  [
+   "S028",
+   "S052",
+   15.3,
+   5.6
+  ],
+  [
+   "S029",
+   "S069",
+   10.4,
+   1.1
+  ],
+  [
+   "S030",
+   "S032",
+   21.5,
+   0.5
+  ],
+  [
+   "S030",
+   "S057",
+   16.6,
+   0.1
+  ],
+  [
+   "S030",
+   "S066",
+   21.1,
+   2.8
+  ],
+  [
+   "S031",
+   "S058",
+   21.8,
+   2.6
+  ],
+  [
+   "S032",
+   "S057",
+   8.0,
+   0.6
+  ],
+  [
+   "S032",
+   "S066",
+   9.5,
+   2.3
+  ],
+  [
+   "S034",
+   "S048",
+   21.4,
+   1.2
+  ],
+  [
+   "S034",
+   "S063",
+   10.6,
+   2.9
+  ],
+  [
+   "S035",
+   "S037",
+   13.4,
+   4.8
+  ],
+  [
+   "S035",
+   "S069",
+   18.5,
+   3.9
+  ],
+  [
+   "S036",
+   "S038",
+   7.3,
+   1.1
+  ],
+  [
+   "S041",
+   "S053",
+   15.8,
+   1.1
+  ],
+  [
+   "S044",
+   "S065",
+   18.5,
+   2.5
+  ],
+  [
+   "S044",
+   "S070",
+   21.7,
+   1.9
+  ],
+  [
+   "S047",
+   "S062",
+   8.5,
+   0.4
+  ],
+  [
+   "S055",
+   "S059",
+   20.0,
+   0.2
+  ],
+  [
+   "S056",
+   "S058",
+   12.4,
+   0.6
+  ],
+  [
+   "S056",
+   "S060",
+   5.3,
+   3.2
+  ],
+  [
+   "S057",
+   "S066",
+   10.9,
+   2.9
+  ],
+  [
+   "S058",
+   "S060",
+   10.5,
+   3.8
+  ],
+  [
+   "S058",
+   "S067",
+   15.2,
+   4.0
+  ],
+  [
+   "S060",
+   "S067",
+   19.5,
+   0.2
+  ],
+  [
+   "S061",
+   "S063",
+   20.0,
+   1.4
+  ],
+  [
+   "S065",
+   "S070",
+   17.8,
+   0.6
+  ]
+ ],
+ "shots": [
+  {
+   "id": "S001",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    42.94,
+    101.64,
+    92.0
+   ],
+   "aim": [
+    4.53,
+    110.13,
+    -106.39
+   ],
+   "focal": 56.96,
+   "projection": {
+    "Ma": {
+     "fx": 0.464,
+     "fy": 0.459,
+     "dist": 202.1,
+     "head_frac": 0.331
+    },
+    "Huang": {
+     "fx": 3.244,
+     "fy": -1.323,
+     "dist": 31.3,
+     "head_frac": 1.959
+    },
+    "Shiye": {
+     "fx": -2.431,
+     "fy": -0.316,
+     "dist": 65.9,
+     "head_frac": 0.946
+    }
+   },
+   "frame_range": [
+    1,
+    56
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "马某人这个县长，买来的",
+   "film_action": "马县长看着黄四郎，边比着大拇指指向自己的心边说",
+   "film_camera_move": "除马县长外两人中间开始向右移动"
+  },
+  {
+   "id": "S002",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -133.14,
+    110.72,
+    -29.0
+   ],
+   "aim": [
+    90.61,
+    119.62,
+    51.8
+   ],
+   "focal": 69.63,
+   "projection": {
+    "Ma": {
+     "fx": -1.776,
+     "fy": 0.548,
+     "dist": 99.4,
+     "head_frac": 0.825
+    },
+    "Huang": {
+     "fx": 0.501,
+     "fy": 0.448,
+     "dist": 238.0,
+     "head_frac": 0.323
+    },
+    "Shiye": {
+     "fx": 2.199,
+     "fy": -0.008,
+     "dist": 69.1,
+     "head_frac": 1.11
+    }
+   },
+   "frame_range": [
+    57,
+    103
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "买官就是为了挣钱",
+   "film_action": "黄四郎右手拿酒杯，嬉笑看着马县长边点头边小喝一口酒",
+   "film_camera_move": "除黄四郎外两人中间开始向右移动"
+  },
+  {
+   "id": "S003",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -243.27,
+    106.33,
+    145.53
+   ],
+   "aim": [
+    2.65,
+    110.02,
+    -102.76
+   ],
+   "focal": 96.65,
+   "projection": {
+    "Ma": {
+     "fx": 0.472,
+     "fy": 0.459,
+     "dist": 349.4,
+     "head_frac": 0.326
+    },
+    "Huang": {
+     "fx": 2.024,
+     "fy": 0.284,
+     "dist": 301.5,
+     "head_frac": 0.354
+    },
+    "Shiye": {
+     "fx": 1.161,
+     "fy": 0.084,
+     "dist": 175.5,
+     "head_frac": 0.61
+    }
+   },
+   "frame_range": [
+    104,
+    193
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "马某人不喜欢挣穷人的钱",
+   "film_action": "马县长看向左侧师爷说话再看向右侧黄四郎；吃着晚餐的师爷抬头看向马县长",
+   "film_camera_move": "镜1位置再右移一点，师爷头在画面右侧前景，向右移到前景"
+  },
+  {
+   "id": "S004",
+   "type": "ots",
+   "subject": "Huang",
+   "foreground": "Ma",
+   "eye": [
+    -186.32,
+    118.18,
+    -220.43
+   ],
+   "aim": [
+    91.72,
+    120.61,
+    50.57
+   ],
+   "focal": 107.38,
+   "projection": {
+    "Ma": {
+     "fx": -0.164,
+     "fy": 0.66,
+     "dist": 213.8,
+     "head_frac": 0.591
+    },
+    "Huang": {
+     "fx": 0.514,
+     "fy": 0.465,
+     "dist": 388.2,
+     "head_frac": 0.306
+    },
+    "Shiye": {
+     "fx": 1.959,
+     "fy": 0.425,
+     "dist": 259.3,
+     "head_frac": 0.459
+    }
+   },
+   "frame_range": [
+    194,
+    251
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "挣谁的钱呢？",
+   "film_action": "黄四郎在桌子右侧，看着马县长右手比向马县长边问，右手收回碰到桌面",
+   "film_camera_move": "后侧开始（马县长画面左侧前景四成多）向右移到前景"
+  },
+  {
+   "id": "S005",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -39.03,
+    99.86,
+    120.15
+   ],
+   "aim": [
+    -4.93,
+    109.61,
+    -106.3
+   ],
+   "focal": 64.6,
+   "projection": {
+    "Ma": {
+     "fx": 0.54,
+     "fy": 0.452,
+     "dist": 229.0,
+     "head_frac": 0.332
+    },
+    "Huang": {
+     "fx": 2.911,
+     "fy": -0.214,
+     "dist": 87.7,
+     "head_frac": 0.806
+    },
+    "Shiye": {
+     "fx": -1.247,
+     "fy": -0.591,
+     "dist": 61.5,
+     "head_frac": 1.146
+    }
+   },
+   "frame_range": [
+    252,
+    288
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "谁有钱就挣谁的",
+   "film_action": "马县长边说边看向左侧师爷后看向右侧黄四郎",
+   "film_camera_move": "除马县长外两人中间偏左向右移到两人中间"
+  },
+  {
+   "id": "S006",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -108.75,
+    120.03,
+    -90.56
+   ],
+   "aim": [
+    89.95,
+    120.92,
+    52.53
+   ],
+   "focal": 71.53,
+   "projection": {
+    "Ma": {
+     "fx": -1.383,
+     "fy": 0.822,
+     "dist": 79.7,
+     "head_frac": 1.058
+    },
+    "Huang": {
+     "fx": 0.494,
+     "fy": 0.467,
+     "dist": 244.8,
+     "head_frac": 0.323
+    },
+    "Shiye": {
+     "fx": 2.586,
+     "fy": 0.389,
+     "dist": 98.8,
+     "head_frac": 0.802
+    }
+   },
+   "frame_range": [
+    289,
+    314
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "那谁有钱？",
+   "film_action": "黄四郎看着马县长问",
+   "film_camera_move": "师爷左侧开始向右移动"
+  },
+  {
+   "id": "S007",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -32.99,
+    115.34,
+    84.01
+   ],
+   "aim": [
+    1.98,
+    110.82,
+    -104.87
+   ],
+   "focal": 53.91,
+   "projection": {
+    "Ma": {
+     "fx": 0.484,
+     "fy": 0.469,
+     "dist": 192.1,
+     "head_frac": 0.33
+    },
+    "Huang": {
+     "fx": 3.71,
+     "fy": 0.049,
+     "dist": 53.9,
+     "head_frac": 1.111
+    },
+    "Shiye": {
+     "fx": -3.731,
+     "fy": -0.565,
+     "dist": 21.7,
+     "head_frac": 2.783
+    }
+   },
+   "frame_range": [
+    315,
+    336
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "你有钱",
+   "film_action": "马县长右手边指几下黄四郎边说",
+   "film_camera_move": "接镜5位置向右移动"
+  },
+  {
+   "id": "S008",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -100.02,
+    116.75,
+    -104.78
+   ],
+   "aim": [
+    93.15,
+    120.8,
+    48.61
+   ],
+   "focal": 72.75,
+   "projection": {
+    "Ma": {
+     "fx": -1.121,
+     "fy": 0.729,
+     "dist": 78.0,
+     "head_frac": 1.099
+    },
+    "Huang": {
+     "fx": 0.535,
+     "fy": 0.465,
+     "dist": 246.6,
+     "head_frac": 0.326
+    },
+    "Shiye": {
+     "fx": 2.71,
+     "fy": 0.33,
+     "dist": 105.7,
+     "head_frac": 0.762
+    }
+   },
+   "frame_range": [
+    337,
+    370
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "哈哈哈哈",
+   "film_action": "黄四郎眯眼大笑，右手竖大拇指向前伸直",
+   "film_camera_move": "接镜6位置向右移动"
+  },
+  {
+   "id": "S009",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -19.52,
+    101.39,
+    114.71
+   ],
+   "aim": [
+    1.04,
+    110.87,
+    -105.26
+   ],
+   "focal": 63.82,
+   "projection": {
+    "Ma": {
+     "fx": 0.492,
+     "fy": 0.469,
+     "dist": 221.1,
+     "head_frac": 0.339
+    },
+    "Huang": {
+     "fx": 2.993,
+     "fy": -0.298,
+     "dist": 73.7,
+     "head_frac": 0.947
+    },
+    "Shiye": {
+     "fx": -1.822,
+     "fy": -0.578,
+     "dist": 57.5,
+     "head_frac": 1.211
+    }
+   },
+   "frame_range": [
+    371,
+    395
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "爽快",
+   "film_action": "马县长右手收回，笑着",
+   "film_camera_move": "接镜7位置向右移动"
+  },
+  {
+   "id": "S010",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    60.58,
+    114.4,
+    -49.82
+   ],
+   "aim": [
+    -87.54,
+    120.19,
+    54.12
+   ],
+   "focal": 54.63,
+   "projection": {
+    "Ma": {
+     "fx": 7.375,
+     "fy": 0.792,
+     "dist": 17.7,
+     "head_frac": 3.648
+    },
+    "Huang": {
+     "fx": -3.944,
+     "fy": -0.106,
+     "dist": 34.3,
+     "head_frac": 1.749
+    },
+    "Shiye": {
+     "fx": 0.527,
+     "fy": 0.451,
+     "dist": 180.9,
+     "head_frac": 0.334
+    }
+   },
+   "frame_range": [
+    396,
+    427
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "县长..",
+   "film_action": "师爷笑着看黄四郎，眨下眼后看着前方思考",
+   "film_camera_move": "除师爷外两人中间偏左开始向右移动"
+  },
+  {
+   "id": "S011",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -148.89,
+    112.11,
+    5.35
+   ],
+   "aim": [
+    90.17,
+    120.02,
+    53.74
+   ],
+   "focal": 68.01,
+   "projection": {
+    "Ma": {
+     "fx": -1.602,
+     "fy": 0.583,
+     "dist": 124.0,
+     "head_frac": 0.646
+    },
+    "Huang": {
+     "fx": 0.485,
+     "fy": 0.456,
+     "dist": 244.0,
+     "head_frac": 0.308
+    },
+    "Shiye": {
+     "fx": 1.425,
+     "fy": 0.046,
+     "dist": 68.0,
+     "head_frac": 1.104
+    }
+   },
+   "frame_range": [
+    428,
+    479
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "看上什么了，随便拿",
+   "film_action": "黄四郎右手向右指着家里边说，眼睛由看家里转向马县长",
+   "film_camera_move": "接镜8位置向右移动"
+  },
+  {
+   "id": "S012",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -39.61,
+    107.73,
+    109.01
+   ],
+   "aim": [
+    -4.05,
+    109.87,
+    -106.07
+   ],
+   "focal": 58.3,
+   "projection": {
+    "Ma": {
+     "fx": 0.531,
+     "fy": 0.458,
+     "dist": 217.9,
+     "head_frac": 0.315
+    },
+    "Huang": {
+     "fx": 2.978,
+     "fy": -0.044,
+     "dist": 77.7,
+     "head_frac": 0.828
+    },
+    "Shiye": {
+     "fx": -1.43,
+     "fy": -0.399,
+     "dist": 48.9,
+     "head_frac": 1.316
+    }
+   },
+   "frame_range": [
+    480,
+    536
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "哼哈哈哈",
+   "film_action": "马县长严肃看黄四郎，笑起来后看向师爷持续笑",
+   "film_camera_move": "接镜9位置向右移动"
+  },
+  {
+   "id": "S013",
+   "type": "medium",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    100.83,
+    122.52,
+    -111.83
+   ],
+   "aim": [
+    -85.6,
+    119.5,
+    55.57
+   ],
+   "focal": 50.85,
+   "projection": {
+    "Ma": {
+     "fx": 1.609,
+     "fy": 0.769,
+     "dist": 79.5,
+     "head_frac": 0.752
+    },
+    "Huang": {
+     "fx": -0.885,
+     "fy": 0.455,
+     "dist": 117.1,
+     "head_frac": 0.48
+    },
+    "Shiye": {
+     "fx": 0.531,
+     "fy": 0.46,
+     "dist": 250.4,
+     "head_frac": 0.225
+    }
+   },
+   "frame_range": [
+    537,
+    560
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "哈哈哈哈",
+   "film_action": "师爷看着马县长也跟着笑",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S014",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -274.36,
+    116.51,
+    155.56
+   ],
+   "aim": [
+    2.59,
+    107.37,
+    -102.45
+   ],
+   "focal": 89.42,
+   "projection": {
+    "Ma": {
+     "fx": 0.475,
+     "fy": 0.434,
+     "dist": 378.5,
+     "head_frac": 0.278
+    },
+    "Huang": {
+     "fx": 1.772,
+     "fy": 0.306,
+     "dist": 337.3,
+     "head_frac": 0.293
+    },
+    "Shiye": {
+     "fx": 1.102,
+     "fy": 0.244,
+     "dist": 206.3,
+     "head_frac": 0.481
+    }
+   },
+   "frame_range": [
+    561,
+    609
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "我不是土匪",
+   "film_action": "马县长笑着看师爷，上半身向前，身体回来时变严肃看黄四郎说",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S015",
+   "type": "medium",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -146.31,
+    123.37,
+    -116.31
+   ],
+   "aim": [
+    90.82,
+    118.07,
+    51.26
+   ],
+   "focal": 45.96,
+   "projection": {
+    "Ma": {
+     "fx": -0.264,
+     "fy": 0.644,
+     "dist": 126.1,
+     "head_frac": 0.429
+    },
+    "Huang": {
+     "fx": 0.503,
+     "fy": 0.46,
+     "dist": 290.3,
+     "head_frac": 0.175
+    },
+    "Shiye": {
+     "fx": 1.426,
+     "fy": 0.457,
+     "dist": 143.4,
+     "head_frac": 0.355
+    }
+   },
+   "frame_range": [
+    610,
+    635
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "我是县长",
+   "film_action": "黄四郎手肘靠在桌子上看着马县长",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S016",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -252.92,
+    112.93,
+    143.49
+   ],
+   "aim": [
+    7.97,
+    107.47,
+    -97.15
+   ],
+   "focal": 84.67,
+   "projection": {
+    "Ma": {
+     "fx": 0.425,
+     "fy": 0.434,
+     "dist": 354.5,
+     "head_frac": 0.281
+    },
+    "Huang": {
+     "fx": 1.738,
+     "fy": 0.299,
+     "dist": 314.3,
+     "head_frac": 0.298
+    },
+    "Shiye": {
+     "fx": 1.057,
+     "fy": 0.194,
+     "dist": 182.6,
+     "head_frac": 0.514
+    }
+   },
+   "frame_range": [
+    636,
+    749
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "县长挣钱得讲究个名正言顺",
+   "film_action": "马县长看着黄四郎庄重地边说边看向师爷",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S017",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    76.79,
+    114.01,
+    124.9
+   ],
+   "aim": [
+    -2.38,
+    109.14,
+    -104.42
+   ],
+   "focal": 63.63,
+   "projection": {
+    "Ma": {
+     "fx": 0.518,
+     "fy": 0.449,
+     "dist": 242.6,
+     "head_frac": 0.309
+    },
+    "Huang": {
+     "fx": 1.507,
+     "fy": -0.011,
+     "dist": 64.4,
+     "head_frac": 1.096
+    },
+    "Shiye": {
+     "fx": -1.403,
+     "fy": 0.196,
+     "dist": 123.5,
+     "head_frac": 0.572
+    }
+   },
+   "frame_range": [
+    750,
+    810
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "说得好",
+   "film_action": "黄四郎向着马县长竖起大拇指说",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S018",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    112.24,
+    127.15,
+    -90.88
+   ],
+   "aim": [
+    -90.23,
+    119.77,
+    49.82
+   ],
+   "focal": 70.35,
+   "projection": {
+    "Ma": {
+     "fx": 2.257,
+     "fy": 0.977,
+     "dist": 84.3,
+     "head_frac": 0.977
+    },
+    "Huang": {
+     "fx": -1.558,
+     "fy": 0.534,
+     "dist": 99.5,
+     "head_frac": 0.781
+    },
+    "Shiye": {
+     "fx": 0.485,
+     "fy": 0.448,
+     "dist": 246.6,
+     "head_frac": 0.316
+    }
+   },
+   "frame_range": [
+    811,
+    857
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "我们鹅城有两大家族",
+   "film_action": "马县长看着黄四郎；镜头外黄四郎边说右手边比着2",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S019",
+   "type": "medium",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -169.74,
+    120.89,
+    -22.23
+   ],
+   "aim": [
+    91.03,
+    118.1,
+    49.77
+   ],
+   "focal": 43.04,
+   "projection": {
+    "Ma": {
+     "fx": -0.557,
+     "fy": 0.596,
+     "dist": 141.6,
+     "head_frac": 0.358
+    },
+    "Huang": {
+     "fx": 0.51,
+     "fy": 0.46,
+     "dist": 270.4,
+     "head_frac": 0.176
+    },
+    "Shiye": {
+     "fx": 1.109,
+     "fy": 0.421,
+     "dist": 97.2,
+     "head_frac": 0.491
+    }
+   },
+   "frame_range": [
+    858,
+    941
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "都是把人卖到America",
+   "film_action": "师爷看着黄四郎说话边点头；镜头外黄四郎比大拇指指向自己后侧",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S020",
+   "type": "ots",
+   "subject": "Shiye",
+   "foreground": "Huang",
+   "eye": [
+    270.03,
+    118.47,
+    160.33
+   ],
+   "aim": [
+    -86.59,
+    119.03,
+    42.57
+   ],
+   "focal": 91.84,
+   "projection": {
+    "Ma": {
+     "fx": 1.758,
+     "fy": 0.579,
+     "dist": 339.7,
+     "head_frac": 0.318
+    },
+    "Huang": {
+     "fx": 1.082,
+     "fy": 0.402,
+     "dist": 204.6,
+     "head_frac": 0.496
+    },
+    "Shiye": {
+     "fx": 0.438,
+     "fy": 0.446,
+     "dist": 375.3,
+     "head_frac": 0.271
+    }
+   },
+   "frame_range": [
+    942,
+    999
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "挣的都是dollar",
+   "film_action": "黄四郎手指指向自己前侧说修铁路，后看向桌子打响指说挣的都是，再看向师爷说dollar",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S021",
+   "type": "ots",
+   "subject": "Huang",
+   "foreground": "Ma",
+   "eye": [
+    -179.97,
+    116.04,
+    -205.54
+   ],
+   "aim": [
+    94.49,
+    117.87,
+    47.71
+   ],
+   "focal": 96.65,
+   "projection": {
+    "Ma": {
+     "fx": -0.148,
+     "fy": 0.595,
+     "dist": 200.3,
+     "head_frac": 0.568
+    },
+    "Huang": {
+     "fx": 0.542,
+     "fy": 0.432,
+     "dist": 373.3,
+     "head_frac": 0.286
+    },
+    "Shiye": {
+     "fx": 1.918,
+     "fy": 0.376,
+     "dist": 241.0,
+     "head_frac": 0.444
+    }
+   },
+   "frame_range": [
+    1000,
+    1101
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "nononono",
+   "film_action": "马县长左手放桌上皱眉，右手指一下黄四郎收回，左手靠桌上边说；黄四郎摇着手肘",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S022",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    110.32,
+    119.95,
+    -94.74
+   ],
+   "aim": [
+    -88.29,
+    119.88,
+    52.7
+   ],
+   "focal": 69.02,
+   "projection": {
+    "Ma": {
+     "fx": 2.228,
+     "fy": 0.785,
+     "dist": 82.3,
+     "head_frac": 0.987
+    },
+    "Huang": {
+     "fx": -1.463,
+     "fy": 0.392,
+     "dist": 103.4,
+     "head_frac": 0.738
+    },
+    "Shiye": {
+     "fx": 0.512,
+     "fy": 0.45,
+     "dist": 247.3,
+     "head_frac": 0.309
+    }
+   },
+   "frame_range": [
+    1102,
+    1138
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "美国人用的钱，dollar you know",
+   "film_action": "黄四郎身体靠向师爷那边看师爷说，指两下师爷后打响指；前景马县长舒展右手",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S023",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -280.21,
+    109.33,
+    158.85
+   ],
+   "aim": [
+    8.72,
+    110.62,
+    -96.03
+   ],
+   "focal": 95.1,
+   "projection": {
+    "Ma": {
+     "fx": 0.413,
+     "fy": 0.47,
+     "dist": 384.9,
+     "head_frac": 0.291
+    },
+    "Huang": {
+     "fx": 1.749,
+     "fy": 0.329,
+     "dist": 348.7,
+     "head_frac": 0.301
+    },
+    "Shiye": {
+     "fx": 1.064,
+     "fy": 0.206,
+     "dist": 214.4,
+     "head_frac": 0.491
+    }
+   },
+   "frame_range": [
+    1139,
+    1178
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "dollar，到了",
+   "film_action": "师爷看着桌子边思考边说",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S024",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    95.16,
+    120.54,
+    -20.59
+   ],
+   "aim": [
+    -88.23,
+    121.03,
+    53.96
+   ],
+   "focal": 53.71,
+   "projection": {
+    "Ma": {
+     "fx": 3.531,
+     "fy": 0.86,
+     "dist": 56.2,
+     "head_frac": 1.125
+    },
+    "Huang": {
+     "fx": -2.574,
+     "fy": 0.285,
+     "dist": 31.7,
+     "head_frac": 1.872
+    },
+    "Shiye": {
+     "fx": 0.521,
+     "fy": 0.467,
+     "dist": 197.9,
+     "head_frac": 0.301
+    }
+   },
+   "frame_range": [
+    1179,
+    1228
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "黄老爷一来",
+   "film_action": "马县长微微点头思考着看师爷",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S025",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    42.1,
+    115.87,
+    137.27
+   ],
+   "aim": [
+    -3.17,
+    110.39,
+    -104.65
+   ],
+   "focal": 65.61,
+   "projection": {
+    "Ma": {
+     "fx": 0.524,
+     "fy": 0.465,
+     "dist": 246.1,
+     "head_frac": 0.314
+    },
+    "Huang": {
+     "fx": 2.037,
+     "fy": 0.111,
+     "dist": 74.9,
+     "head_frac": 0.971
+    },
+    "Shiye": {
+     "fx": -1.404,
+     "fy": 0.2,
+     "dist": 108.4,
+     "head_frac": 0.672
+    }
+   },
+   "frame_range": [
+    1229,
+    1277
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "钱就到了",
+   "film_action": "师爷曲头笑嘻看黄四郎，右手向上后挥舞向下边说后头遍回来",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S026",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    66.49,
+    116.58,
+    -24.06
+   ],
+   "aim": [
+    -91.18,
+    120.1,
+    47.58
+   ],
+   "focal": 51.31,
+   "projection": {
+    "Ma": {
+     "fx": 5.882,
+     "fy": 0.884,
+     "dist": 26.9,
+     "head_frac": 2.256
+    },
+    "Huang": {
+     "fx": -11.011,
+     "fy": -1.162,
+     "dist": 9.8,
+     "head_frac": 5.724
+    },
+    "Shiye": {
+     "fx": 0.465,
+     "fy": 0.45,
+     "dist": 173.1,
+     "head_frac": 0.328
+    }
+   },
+   "frame_range": [
+    1278,
+    1315
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "哈哈哈哈，咱们",
+   "film_action": "马县长笑着眯眼师爷又看向桌子",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S027",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -16.07,
+    99.37,
+    62.26
+   ],
+   "aim": [
+    -1.0,
+    110.69,
+    -105.53
+   ],
+   "focal": 49.31,
+   "projection": {
+    "Ma": {
+     "fx": 0.508,
+     "fy": 0.466,
+     "dist": 168.8,
+     "head_frac": 0.343
+    },
+    "Huang": {
+     "fx": 7.223,
+     "fy": -2.051,
+     "dist": 21.4,
+     "head_frac": 2.365
+    },
+    "Shiye": {
+     "fx": -16.609,
+     "fy": -9.296,
+     "dist": 5.9,
+     "head_frac": 6.844
+    }
+   },
+   "frame_range": [
+    1316,
+    1374
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "喝一杯吧，好来",
+   "film_action": "师爷笑着双手拿起酒杯身体向前要捧杯",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S028",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -60.56,
+    128.04,
+    -106.55
+   ],
+   "aim": [
+    92.5,
+    119.73,
+    49.76
+   ],
+   "focal": 67.41,
+   "projection": {
+    "Ma": {
+     "fx": -1.309,
+     "fy": 1.512,
+     "dist": 43.9,
+     "head_frac": 1.787
+    },
+    "Huang": {
+     "fx": 0.526,
+     "fy": 0.447,
+     "dist": 218.8,
+     "head_frac": 0.341
+    },
+    "Shiye": {
+     "fx": 3.139,
+     "fy": 0.537,
+     "dist": 92.9,
+     "head_frac": 0.803
+    }
+   },
+   "frame_range": [
+    1375,
+    1424
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "来来来来",
+   "film_action": "马县长右手拿酒杯身体向前看酒杯，三人碰杯后喝口酒",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S029",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -254.66,
+    109.75,
+    146.42
+   ],
+   "aim": [
+    0.9,
+    111.2,
+    -104.37
+   ],
+   "focal": 91.12,
+   "projection": {
+    "Ma": {
+     "fx": 0.491,
+     "fy": 0.477,
+     "dist": 358.0,
+     "head_frac": 0.3
+    },
+    "Huang": {
+     "fx": 1.911,
+     "fy": 0.325,
+     "dist": 312.5,
+     "head_frac": 0.322
+    },
+    "Shiye": {
+     "fx": 1.158,
+     "fy": 0.184,
+     "dist": 184.7,
+     "head_frac": 0.546
+    }
+   },
+   "frame_range": [
+    1425,
+    1471
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "黄老爷",
+   "film_action": "黄四郎随喝酒完的动作放下酒杯，闻声斜头看马县长",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S030",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -94.74,
+    120.41,
+    -29.23
+   ],
+   "aim": [
+    91.75,
+    120.6,
+    48.86
+   ],
+   "focal": 58.77,
+   "projection": {
+    "Ma": {
+     "fx": -2.501,
+     "fy": 0.871,
+     "dist": 58.0,
+     "head_frac": 1.192
+    },
+    "Huang": {
+     "fx": 0.527,
+     "fy": 0.463,
+     "dist": 202.1,
+     "head_frac": 0.322
+    },
+    "Shiye": {
+     "fx": 3.752,
+     "fy": 0.256,
+     "dist": 36.2,
+     "head_frac": 1.797
+    }
+   },
+   "frame_range": [
+    1472,
+    1508
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "客气了",
+   "film_action": "马县长双手顺胸前衣服后双手分开放桌上，看向黄四郎",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S031",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -51.84,
+    116.54,
+    110.08
+   ],
+   "aim": [
+    0.47,
+    108.92,
+    -105.06
+   ],
+   "focal": 62.1,
+   "projection": {
+    "Ma": {
+     "fx": 0.496,
+     "fy": 0.443,
+     "dist": 221.5,
+     "head_frac": 0.33
+    },
+    "Huang": {
+     "fx": 2.888,
+     "fy": 0.167,
+     "dist": 89.9,
+     "head_frac": 0.766
+    },
+    "Shiye": {
+     "fx": -1.305,
+     "fy": -0.05,
+     "dist": 48.0,
+     "head_frac": 1.443
+    }
+   },
+   "frame_range": [
+    1509,
+    1617
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "整个南国",
+   "film_action": "黄四郎皱眉眨眼看着马县长",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S032",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -83.96,
+    121.52,
+    -10.7
+   ],
+   "aim": [
+    89.83,
+    120.73,
+    53.49
+   ],
+   "focal": 58.24,
+   "projection": {
+    "Ma": {
+     "fx": -3.637,
+     "fy": 1.017,
+     "dist": 46.1,
+     "head_frac": 1.487
+    },
+    "Huang": {
+     "fx": 0.485,
+     "fy": 0.462,
+     "dist": 185.2,
+     "head_frac": 0.348
+    },
+    "Shiye": {
+     "fx": 6.357,
+     "fy": 0.146,
+     "dist": 16.6,
+     "head_frac": 3.894
+    }
+   },
+   "frame_range": [
+    1618,
+    1683
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "在鹅城，你黄四郎是老大",
+   "film_action": "马县长说到在鹅城时身体向前看黄四郎，后身体向右手向前对黄四郎竖大拇指",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S033",
+   "type": "ots",
+   "subject": "Shiye",
+   "foreground": "Huang",
+   "eye": [
+    262.55,
+    120.1,
+    137.17
+   ],
+   "aim": [
+    -88.84,
+    119.92,
+    49.76
+   ],
+   "focal": 107.67,
+   "projection": {
+    "Ma": {
+     "fx": 2.141,
+     "fy": 0.617,
+     "dist": 313.3,
+     "head_frac": 0.405
+    },
+    "Huang": {
+     "fx": 1.157,
+     "fy": 0.41,
+     "dist": 187.7,
+     "head_frac": 0.634
+    },
+    "Shiye": {
+     "fx": 0.486,
+     "fy": 0.448,
+     "dist": 362.1,
+     "head_frac": 0.33
+    }
+   },
+   "frame_range": [
+    1684,
+    1753
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "老大往往是空架子",
+   "film_action": "黄四郎笑着边说同时右手向右划过后靠在桌上",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S034",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -151.35,
+    125.61,
+    -28.35
+   ],
+   "aim": [
+    90.8,
+    118.96,
+    50.51
+   ],
+   "focal": 72.68,
+   "projection": {
+    "Ma": {
+     "fx": -1.512,
+     "fy": 0.781,
+     "dist": 120.4,
+     "head_frac": 0.709
+    },
+    "Huang": {
+     "fx": 0.511,
+     "fy": 0.44,
+     "dist": 254.7,
+     "head_frac": 0.316
+    },
+    "Shiye": {
+     "fx": 1.863,
+     "fy": 0.497,
+     "dist": 83.8,
+     "head_frac": 0.961
+    }
+   },
+   "frame_range": [
+    1754,
+    1815
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "每天眼一挣，几百人",
+   "film_action": "师爷嘴巴边嚼着边看黄四郎说话",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S035",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -280.21,
+    112.86,
+    158.85
+   ],
+   "aim": [
+    2.63,
+    109.1,
+    -102.47
+   ],
+   "focal": 93.92,
+   "projection": {
+    "Ma": {
+     "fx": 0.474,
+     "fy": 0.452,
+     "dist": 385.0,
+     "head_frac": 0.287
+    },
+    "Huang": {
+     "fx": 1.809,
+     "fy": 0.316,
+     "dist": 344.7,
+     "head_frac": 0.301
+    },
+    "Shiye": {
+     "fx": 1.12,
+     "fy": 0.223,
+     "dist": 213.1,
+     "head_frac": 0.489
+    }
+   },
+   "frame_range": [
+    1816,
+    1875
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "吃喝拉撒都要等着我伺候",
+   "film_action": "黄四郎右手指着边说",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S036",
+   "type": "ots",
+   "subject": "Huang",
+   "foreground": "Shiye",
+   "eye": [
+    -245.01,
+    124.35,
+    -42.71
+   ],
+   "aim": [
+    87.51,
+    121.51,
+    62.04
+   ],
+   "focal": 96.0,
+   "projection": {
+    "Ma": {
+     "fx": -1.153,
+     "fy": 0.71,
+     "dist": 215.0,
+     "head_frac": 0.525
+    },
+    "Huang": {
+     "fx": 0.419,
+     "fy": 0.477,
+     "dist": 348.3,
+     "head_frac": 0.305
+    },
+    "Shiye": {
+     "fx": 1.147,
+     "fy": 0.484,
+     "dist": 176.9,
+     "head_frac": 0.601
+    }
+   },
+   "frame_range": [
+    1876,
+    1963
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "真正落到我嘴里的能有几口",
+   "film_action": "马县长看着黄四郎说话；前景师爷点头",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S037",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -290.13,
+    105.71,
+    164.43
+   ],
+   "aim": [
+    5.64,
+    108.28,
+    -99.33
+   ],
+   "focal": 98.67,
+   "projection": {
+    "Ma": {
+     "fx": 0.444,
+     "fy": 0.441,
+     "dist": 396.1,
+     "head_frac": 0.293
+    },
+    "Huang": {
+     "fx": 1.792,
+     "fy": 0.294,
+     "dist": 359.0,
+     "head_frac": 0.304
+    },
+    "Shiye": {
+     "fx": 1.1,
+     "fy": 0.147,
+     "dist": 225.3,
+     "head_frac": 0.485
+    }
+   },
+   "frame_range": [
+    1964,
+    2091
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "如果县长真的急着挣钱",
+   "film_action": "黄四郎看马县长说边把右手碰桌指桌，身体向前皱眉",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S038",
+   "type": "ots",
+   "subject": "Huang",
+   "foreground": "Shiye",
+   "eye": [
+    -246.52,
+    117.77,
+    -39.83
+   ],
+   "aim": [
+    89.07,
+    121.51,
+    56.83
+   ],
+   "focal": 94.94,
+   "projection": {
+    "Ma": {
+     "fx": -1.081,
+     "fy": 0.651,
+     "dist": 218.7,
+     "head_frac": 0.511
+    },
+    "Huang": {
+     "fx": 0.461,
+     "fy": 0.477,
+     "dist": 349.2,
+     "head_frac": 0.301
+    },
+    "Shiye": {
+     "fx": 1.159,
+     "fy": 0.398,
+     "dist": 176.5,
+     "head_frac": 0.596
+    }
+   },
+   "frame_range": [
+    2092,
+    2156
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "哦？请讲",
+   "film_action": "马县长等黄四郎说完便看师爷舒展左手，身体向前坐直双手放到桌边说",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S039",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Huang",
+   "eye": [
+    86.83,
+    106.43,
+    244.88
+   ],
+   "aim": [
+    7.34,
+    107.12,
+    -107.16
+   ],
+   "focal": 83.03,
+   "projection": {
+    "Ma": {
+     "fx": 0.452,
+     "fy": 0.433,
+     "dist": 360.7,
+     "head_frac": 0.271
+    },
+    "Huang": {
+     "fx": 1.066,
+     "fy": 0.141,
+     "dist": 187.5,
+     "head_frac": 0.489
+    },
+    "Shiye": {
+     "fx": -0.808,
+     "fy": 0.2,
+     "dist": 227.6,
+     "head_frac": 0.404
+    }
+   },
+   "frame_range": [
+    2157,
+    2204
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "黄四郎看师爷转头看马县长边逐字说",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S040",
+   "type": "medium",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    97.19,
+    119.01,
+    -91.8
+   ],
+   "aim": [
+    -89.55,
+    119.42,
+    51.04
+   ],
+   "focal": 46.8,
+   "projection": {
+    "Ma": {
+     "fx": 1.813,
+     "fy": 0.704,
+     "dist": 69.0,
+     "head_frac": 0.798
+    },
+    "Huang": {
+     "fx": -1.042,
+     "fy": 0.4,
+     "dist": 92.7,
+     "head_frac": 0.558
+    },
+    "Shiye": {
+     "fx": 0.497,
+     "fy": 0.46,
+     "dist": 235.0,
+     "head_frac": 0.221
+    }
+   },
+   "frame_range": [
+    2205,
+    2238
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "马县长仿佛定住般盯着黄四郎",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S041",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -77.61,
+    112.82,
+    -80.65
+   ],
+   "aim": [
+    90.1,
+    121.02,
+    52.41
+   ],
+   "focal": 60.7,
+   "projection": {
+    "Ma": {
+     "fx": -2.001,
+     "fy": 0.599,
+     "dist": 45.5,
+     "head_frac": 1.571
+    },
+    "Huang": {
+     "fx": 0.495,
+     "fy": 0.47,
+     "dist": 214.2,
+     "head_frac": 0.313
+    },
+    "Shiye": {
+     "fx": 3.043,
+     "fy": 0.178,
+     "dist": 73.3,
+     "head_frac": 0.913
+    }
+   },
+   "frame_range": [
+    2239,
+    2263
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "师爷看前方愣住后看向马县长",
+   "film_camera_move": "向上移动"
+  },
+  {
+   "id": "S042",
+   "type": "close",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -47.44,
+    122.7,
+    -59.41
+   ],
+   "aim": [
+    90.39,
+    121.84,
+    51.87
+   ],
+   "focal": 79.56,
+   "projection": {
+    "Ma": {
+     "fx": -17.191,
+     "fy": 5.117,
+     "dist": 8.2,
+     "head_frac": 11.387
+    },
+    "Huang": {
+     "fx": 0.5,
+     "fy": 0.47,
+     "dist": 177.1,
+     "head_frac": 0.497
+    },
+    "Shiye": {
+     "fx": 7.199,
+     "fy": 0.397,
+     "dist": 37.1,
+     "head_frac": 2.377
+    }
+   },
+   "frame_range": [
+    2264,
+    2272
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "黄四郎微眯眼盯着马县长",
+   "film_camera_move": "向右移动"
+  },
+  {
+   "id": "S043",
+   "type": "title",
+   "eye": [
+    -30.0,
+    62.0,
+    118.0
+   ],
+   "aim": [
+    10.0,
+    74.0,
+    -35.0
+   ],
+   "focal": 70.0,
+   "note": "低机位贴桌面，看瓶子与桌面剪影",
+   "projection": {},
+   "frame_range": [
+    2273,
+    2291
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "狗腿子看武举人吹口气（幻想段，无模型，用暗色桌面道具剪影替代）",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S044",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    58.14,
+    125.21,
+    -71.54
+   ],
+   "aim": [
+    -91.33,
+    120.78,
+    48.78
+   ],
+   "focal": 59.83,
+   "projection": {
+    "Ma": {
+     "fx": 4.768,
+     "fy": 1.904,
+     "dist": 24.4,
+     "head_frac": 2.853
+    },
+    "Huang": {
+     "fx": -3.198,
+     "fy": 0.546,
+     "dist": 52.3,
+     "head_frac": 1.264
+    },
+    "Shiye": {
+     "fx": 0.471,
+     "fy": 0.458,
+     "dist": 191.8,
+     "head_frac": 0.346
+    }
+   },
+   "frame_range": [
+    2292,
+    2312
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "武举人摇头撞向卖凉粉的（幻想段，黑场+镜号替代）",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S045",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    64.95,
+    124.96,
+    -110.75
+   ],
+   "aim": [
+    -90.74,
+    121.09,
+    49.89
+   ],
+   "focal": 63.83,
+   "projection": {
+    "Ma": {
+     "fx": 2.037,
+     "fy": 1.206,
+     "dist": 49.3,
+     "head_frac": 1.517
+    },
+    "Huang": {
+     "fx": -1.852,
+     "fy": 0.502,
+     "dist": 99.1,
+     "head_frac": 0.712
+    },
+    "Shiye": {
+     "fx": 0.483,
+     "fy": 0.466,
+     "dist": 223.7,
+     "head_frac": 0.316
+    }
+   },
+   "frame_range": [
+    2313,
+    2342
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "师爷听声吓一跳顺着看向那边猛地站起",
+   "film_camera_move": "向上移动"
+  },
+  {
+   "id": "S046",
+   "type": "title",
+   "eye": [
+    0.0,
+    120.0,
+    120.0
+   ],
+   "aim": [
+    0.0,
+    70.0,
+    0.0
+   ],
+   "focal": 50.0,
+   "note": "黑场+镜号，机位仅占位",
+   "projection": {},
+   "frame_range": [
+    2343,
+    2369
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "真死了",
+   "film_action": "跪着三人中间卖凉粉的被刀刺（暴力内容，黑场+镜号替代）",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S047",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    20.87,
+    106.78,
+    124.85
+   ],
+   "aim": [
+    1.51,
+    110.39,
+    -105.45
+   ],
+   "focal": 65.79,
+   "projection": {
+    "Ma": {
+     "fx": 0.488,
+     "fy": 0.463,
+     "dist": 231.1,
+     "head_frac": 0.335
+    },
+    "Huang": {
+     "fx": 2.552,
+     "fy": -0.244,
+     "dist": 67.1,
+     "head_frac": 1.079
+    },
+    "Shiye": {
+     "fx": -1.788,
+     "fy": -0.106,
+     "dist": 82.7,
+     "head_frac": 0.879
+    }
+   },
+   "frame_range": [
+    2370,
+    2405
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "",
+   "film_action": "地板溅血（暴力内容，黑场+镜号替代）",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S048",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -136.81,
+    119.3,
+    -42.79
+   ],
+   "aim": [
+    90.92,
+    120.0,
+    50.73
+   ],
+   "focal": 71.52,
+   "projection": {
+    "Ma": {
+     "fx": -1.62,
+     "fy": 0.725,
+     "dist": 102.8,
+     "head_frac": 0.819
+    },
+    "Huang": {
+     "fx": 0.51,
+     "fy": 0.454,
+     "dist": 246.1,
+     "head_frac": 0.321
+    },
+    "Shiye": {
+     "fx": 2.217,
+     "fy": 0.325,
+     "dist": 79.8,
+     "head_frac": 0.993
+    }
+   },
+   "frame_range": [
+    2406,
+    2453
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "黄四郎看手部（特写，桌面道具替代）",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S049",
+   "type": "medium",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    115.93,
+    118.2,
+    -152.51
+   ],
+   "aim": [
+    -89.26,
+    118.93,
+    51.43
+   ],
+   "focal": 51.38,
+   "projection": {
+    "Ma": {
+     "fx": 1.095,
+     "fy": 0.62,
+     "dist": 115.5,
+     "head_frac": 0.524
+    },
+    "Huang": {
+     "fx": -0.617,
+     "fy": 0.428,
+     "dist": 162.2,
+     "head_frac": 0.35
+    },
+    "Shiye": {
+     "fx": 0.5,
+     "fy": 0.46,
+     "dist": 289.2,
+     "head_frac": 0.197
+    }
+   },
+   "frame_range": [
+    2454,
+    2489
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "",
+   "film_action": "黄四郎看着沾了红色的手",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S050",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -22.2,
+    113.11,
+    141.26
+   ],
+   "aim": [
+    0.12,
+    110.04,
+    -105.23
+   ],
+   "focal": 66.24,
+   "projection": {
+    "Ma": {
+     "fx": 0.499,
+     "fy": 0.46,
+     "dist": 247.5,
+     "head_frac": 0.315
+    },
+    "Huang": {
+     "fx": 2.433,
+     "fy": 0.126,
+     "dist": 99.0,
+     "head_frac": 0.74
+    },
+    "Shiye": {
+     "fx": -1.152,
+     "fy": 0.052,
+     "dist": 83.4,
+     "head_frac": 0.882
+    }
+   },
+   "frame_range": [
+    2490,
+    2526
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "",
+   "film_action": "师爷眨眼吧唧嘴害怕地看着黄四郎",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S051",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    29.21,
+    102.03,
+    112.71
+   ],
+   "aim": [
+    -1.68,
+    109.43,
+    -105.19
+   ],
+   "focal": 57.67,
+   "projection": {
+    "Ma": {
+     "fx": 0.512,
+     "fy": 0.453,
+     "dist": 220.1,
+     "head_frac": 0.308
+    },
+    "Huang": {
+     "fx": 2.615,
+     "fy": -0.556,
+     "dist": 52.3,
+     "head_frac": 1.203
+    },
+    "Shiye": {
+     "fx": -1.73,
+     "fy": -0.188,
+     "dist": 78.0,
+     "head_frac": 0.812
+    }
+   },
+   "frame_range": [
+    2527,
+    2549
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "马县长盯着黄四郎眨了眼",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S052",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -64.84,
+    114.83,
+    -100.18
+   ],
+   "aim": [
+    90.48,
+    120.92,
+    51.9
+   ],
+   "focal": 61.82,
+   "projection": {
+    "Ma": {
+     "fx": -1.469,
+     "fy": 0.713,
+     "dist": 42.7,
+     "head_frac": 1.706
+    },
+    "Huang": {
+     "fx": 0.5,
+     "fy": 0.468,
+     "dist": 217.4,
+     "head_frac": 0.314
+    },
+    "Shiye": {
+     "fx": 2.923,
+     "fy": 0.288,
+     "dist": 88.8,
+     "head_frac": 0.769
+    }
+   },
+   "frame_range": [
+    2550,
+    2571
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "黄四郎挥一下头发甩头",
+   "film_camera_move": "移动"
+  },
+  {
+   "id": "S053",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -86.37,
+    116.0,
+    -67.87
+   ],
+   "aim": [
+    93.23,
+    120.72,
+    47.82
+   ],
+   "focal": 59.65,
+   "projection": {
+    "Ma": {
+     "fx": -1.977,
+     "fy": 0.731,
+     "dist": 52.3,
+     "head_frac": 1.345
+    },
+    "Huang": {
+     "fx": 0.538,
+     "fy": 0.466,
+     "dist": 213.5,
+     "head_frac": 0.309
+    },
+    "Shiye": {
+     "fx": 3.205,
+     "fy": 0.211,
+     "dist": 62.3,
+     "head_frac": 1.058
+    }
+   },
+   "frame_range": [
+    2572,
+    2642
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "狗腿子翻白眼吧唧嘴（幻想段，黑场+镜号替代）",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S054",
+   "type": "title",
+   "eye": [
+    10.0,
+    120.0,
+    150.0
+   ],
+   "aim": [
+    -20.0,
+    90.0,
+    -60.0
+   ],
+   "focal": 55.0,
+   "note": "窗格光影暗转，机位仅占位",
+   "projection": {},
+   "frame_range": [
+    2643,
+    2657
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "",
+   "film_action": "黄四郎吧唧嘴后右手拿筷子敲两下桌上玻璃瓶",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S055",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    56.57,
+    113.04,
+    -47.87
+   ],
+   "aim": [
+    -90.5,
+    119.77,
+    49.85
+   ],
+   "focal": 50.27,
+   "projection": {
+    "Ma": {
+     "fx": 7.697,
+     "fy": 0.592,
+     "dist": 15.3,
+     "head_frac": 3.863
+    },
+    "Huang": {
+     "fx": -4.687,
+     "fy": -0.326,
+     "dist": 27.4,
+     "head_frac": 2.002
+    },
+    "Shiye": {
+     "fx": 0.484,
+     "fy": 0.448,
+     "dist": 176.6,
+     "head_frac": 0.315
+    }
+   },
+   "frame_range": [
+    2658,
+    2687
+   ],
+   "shot_size_text": "中景",
+   "dialogue": "",
+   "film_action": "跪着三人前的窗帘落下（幻想段收尾，用窗格光影暗转替代）",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S056",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -28.49,
+    114.42,
+    106.23
+   ],
+   "aim": [
+    4.73,
+    109.71,
+    -104.58
+   ],
+   "focal": 58.84,
+   "projection": {
+    "Ma": {
+     "fx": 0.464,
+     "fy": 0.455,
+     "dist": 213.3,
+     "head_frac": 0.325
+    },
+    "Huang": {
+     "fx": 2.974,
+     "fy": 0.082,
+     "dist": 72.0,
+     "head_frac": 0.906
+    },
+    "Shiye": {
+     "fx": -2.014,
+     "fy": -0.156,
+     "dist": 44.5,
+     "head_frac": 1.471
+    }
+   },
+   "frame_range": [
+    2688,
+    2736
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "师爷看窗帘落下身体微微向下",
+   "film_camera_move": "稍微向下移动"
+  },
+  {
+   "id": "S057",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -85.13,
+    126.27,
+    -17.03
+   ],
+   "aim": [
+    89.4,
+    119.66,
+    54.24
+   ],
+   "focal": 58.83,
+   "projection": {
+    "Ma": {
+     "fx": -3.552,
+     "fy": 1.235,
+     "dist": 45.9,
+     "head_frac": 1.494
+    },
+    "Huang": {
+     "fx": 0.478,
+     "fy": 0.446,
+     "dist": 188.5,
+     "head_frac": 0.345
+    },
+    "Shiye": {
+     "fx": 5.279,
+     "fy": 0.762,
+     "dist": 22.2,
+     "head_frac": 2.929
+    }
+   },
+   "frame_range": [
+    2737,
+    2796
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "张麻子？",
+   "film_action": "马县长强调语气说着边看黄四郎",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S058",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -33.86,
+    104.33,
+    111.09
+   ],
+   "aim": [
+    1.46,
+    110.5,
+    -105.12
+   ],
+   "focal": 59.45,
+   "projection": {
+    "Ma": {
+     "fx": 0.489,
+     "fy": 0.466,
+     "dist": 219.1,
+     "head_frac": 0.319
+    },
+    "Huang": {
+     "fx": 2.865,
+     "fy": -0.119,
+     "dist": 79.0,
+     "head_frac": 0.827
+    },
+    "Shiye": {
+     "fx": -1.599,
+     "fy": -0.531,
+     "dist": 50.5,
+     "head_frac": 1.29
+    }
+   },
+   "frame_range": [
+    2797,
+    2841
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "对，张麻子",
+   "film_action": "黄四郎拿着酒杯边说",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S059",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    47.58,
+    118.47,
+    -64.84
+   ],
+   "aim": [
+    -90.79,
+    121.32,
+    49.59
+   ],
+   "focal": 50.47,
+   "projection": {
+    "Ma": {
+     "fx": 8.462,
+     "fy": 1.789,
+     "dist": 10.8,
+     "head_frac": 5.537
+    },
+    "Huang": {
+     "fx": -3.464,
+     "fy": 0.256,
+     "dist": 41.5,
+     "head_frac": 1.344
+    },
+    "Shiye": {
+     "fx": 0.481,
+     "fy": 0.47,
+     "dist": 179.5,
+     "head_frac": 0.311
+    }
+   },
+   "frame_range": [
+    2842,
+    2877
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "那么这个张麻子",
+   "film_action": "马县长看着黄四郎说着看向桌子",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S060",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -28.5,
+    109.72,
+    103.78
+   ],
+   "aim": [
+    -1.87,
+    108.84,
+    -105.56
+   ],
+   "focal": 55.61,
+   "projection": {
+    "Ma": {
+     "fx": 0.514,
+     "fy": 0.445,
+     "dist": 210.9,
+     "head_frac": 0.31
+    },
+    "Huang": {
+     "fx": 3.09,
+     "fy": -0.068,
+     "dist": 66.4,
+     "head_frac": 0.926
+    },
+    "Shiye": {
+     "fx": -1.832,
+     "fy": -0.365,
+     "dist": 44.3,
+     "head_frac": 1.394
+    }
+   },
+   "frame_range": [
+    2878,
+    2945
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "是跟我们..",
+   "film_action": "师爷思考着眨了眨眼",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S061",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -150.68,
+    115.96,
+    0.32
+   ],
+   "aim": [
+    91.33,
+    120.97,
+    47.77
+   ],
+   "focal": 74.22,
+   "projection": {
+    "Ma": {
+     "fx": -1.644,
+     "fy": 0.658,
+     "dist": 127.5,
+     "head_frac": 0.686
+    },
+    "Huang": {
+     "fx": 0.535,
+     "fy": 0.467,
+     "dist": 246.6,
+     "head_frac": 0.333
+    },
+    "Shiye": {
+     "fx": 1.622,
+     "fy": 0.182,
+     "dist": 70.3,
+     "head_frac": 1.168
+    }
+   },
+   "frame_range": [
+    2946,
+    2971
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "有关系呢还是跟钱有关系",
+   "film_action": "马县长看着桌子说着又看黄四郎",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S062",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    18.73,
+    99.24,
+    128.08
+   ],
+   "aim": [
+    -1.34,
+    110.71,
+    -105.27
+   ],
+   "focal": 65.36,
+   "projection": {
+    "Ma": {
+     "fx": 0.51,
+     "fy": 0.468,
+     "dist": 234.5,
+     "head_frac": 0.328
+    },
+    "Huang": {
+     "fx": 2.496,
+     "fy": -0.434,
+     "dist": 70.9,
+     "head_frac": 1.004
+    },
+    "Shiye": {
+     "fx": -1.613,
+     "fy": -0.245,
+     "dist": 86.8,
+     "head_frac": 0.824
+    }
+   },
+   "frame_range": [
+    2972,
+    3023
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "都有关系",
+   "film_action": "黄四郎斜着微仰头说，手放下靠着桌子",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S063",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -152.55,
+    123.69,
+    -17.99
+   ],
+   "aim": [
+    89.99,
+    119.27,
+    53.24
+   ],
+   "focal": 75.63,
+   "projection": {
+    "Ma": {
+     "fx": -1.682,
+     "fy": 0.761,
+     "dist": 122.0,
+     "head_frac": 0.729
+    },
+    "Huang": {
+     "fx": 0.488,
+     "fy": 0.442,
+     "dist": 252.8,
+     "head_frac": 0.331
+    },
+    "Shiye": {
+     "fx": 1.774,
+     "fy": 0.444,
+     "dist": 80.3,
+     "head_frac": 1.044
+    }
+   },
+   "frame_range": [
+    3024,
+    3040
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "哦？莫非他在鹅城",
+   "film_action": "马县长看着桌子说着又看黄四郎",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S064",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -159.57,
+    116.86,
+    83.57
+   ],
+   "aim": [
+    -0.65,
+    109.55,
+    -105.74
+   ],
+   "focal": 65.82,
+   "projection": {
+    "Ma": {
+     "fx": 0.506,
+     "fy": 0.454,
+     "dist": 247.2,
+     "head_frac": 0.313
+    },
+    "Huang": {
+     "fx": 2.193,
+     "fy": 0.292,
+     "dist": 184.7,
+     "head_frac": 0.395
+    },
+    "Shiye": {
+     "fx": 1.371,
+     "fy": 0.094,
+     "dist": 69.7,
+     "head_frac": 1.05
+    }
+   },
+   "frame_range": [
+    3041,
+    3064
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "在",
+   "film_action": "黄四郎边点头边说",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S065",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    75.82,
+    126.86,
+    -66.41
+   ],
+   "aim": [
+    -91.69,
+    119.51,
+    47.76
+   ],
+   "focal": 57.28,
+   "projection": {
+    "Ma": {
+     "fx": 3.386,
+     "fy": 1.345,
+     "dist": 41.2,
+     "head_frac": 1.617
+    },
+    "Huang": {
+     "fx": -2.583,
+     "fy": 0.587,
+     "dist": 54.7,
+     "head_frac": 1.157
+    },
+    "Shiye": {
+     "fx": 0.466,
+     "fy": 0.445,
+     "dist": 202.7,
+     "head_frac": 0.313
+    }
+   },
+   "frame_range": [
+    3065,
+    3087
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "马县长看着黄四郎",
+   "film_camera_move": "定镜"
+  },
+  {
+   "id": "S066",
+   "type": "single",
+   "subject": "Huang",
+   "foreground": null,
+   "eye": [
+    -92.35,
+    125.46,
+    -8.85
+   ],
+   "aim": [
+    89.56,
+    119.26,
+    54.2
+   ],
+   "focal": 55.96,
+   "projection": {
+    "Ma": {
+     "fx": -2.863,
+     "fy": 1.023,
+     "dist": 56.1,
+     "head_frac": 1.167
+    },
+    "Huang": {
+     "fx": 0.48,
+     "fy": 0.444,
+     "dist": 192.5,
+     "head_frac": 0.321
+    },
+    "Shiye": {
+     "fx": 4.317,
+     "fy": 0.65,
+     "dist": 22.8,
+     "head_frac": 2.72
+    }
+   },
+   "frame_range": [
+    3088,
+    3125
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "师爷也看黄四郎等着黄四郎讲话",
+   "film_camera_move": "稍微向上动"
+  },
+  {
+   "id": "S067",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -46.31,
+    101.88,
+    102.69
+   ],
+   "aim": [
+    -2.01,
+    109.78,
+    -105.87
+   ],
+   "focal": 55.43,
+   "projection": {
+    "Ma": {
+     "fx": 0.515,
+     "fy": 0.458,
+     "dist": 213.3,
+     "head_frac": 0.306
+    },
+    "Huang": {
+     "fx": 2.905,
+     "fy": -0.139,
+     "dist": 78.9,
+     "head_frac": 0.77
+    },
+    "Shiye": {
+     "fx": -1.426,
+     "fy": -0.806,
+     "dist": 42.1,
+     "head_frac": 1.434
+    }
+   },
+   "frame_range": [
+    3126,
+    3202
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "也不在",
+   "film_action": "黄四郎看师爷边转头微仰头看马县长边说",
+   "film_camera_move": "稍微向下动"
+  },
+  {
+   "id": "S068",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    92.33,
+    111.32,
+    -87.08
+   ],
+   "aim": [
+    -88.67,
+    119.83,
+    52.38
+   ],
+   "focal": 67.31,
+   "projection": {
+    "Ma": {
+     "fx": 2.631,
+     "fy": 0.531,
+     "dist": 62.1,
+     "head_frac": 1.277
+    },
+    "Huang": {
+     "fx": -1.848,
+     "fy": 0.168,
+     "dist": 86.7,
+     "head_frac": 0.854
+    },
+    "Shiye": {
+     "fx": 0.509,
+     "fy": 0.447,
+     "dist": 228.6,
+     "head_frac": 0.326
+    }
+   },
+   "frame_range": [
+    3203,
+    3327
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "哈哈哈哈",
+   "film_action": "马县长看着黄四郎憋着笑",
+   "film_camera_move": "稍微向上动"
+  },
+  {
+   "id": "S069",
+   "type": "ots",
+   "subject": "Ma",
+   "foreground": "Shiye",
+   "eye": [
+    -264.11,
+    112.41,
+    149.79
+   ],
+   "aim": [
+    2.52,
+    107.41,
+    -102.67
+   ],
+   "focal": 90.0,
+   "projection": {
+    "Ma": {
+     "fx": 0.476,
+     "fy": 0.432,
+     "dist": 367.1,
+     "head_frac": 0.289
+    },
+    "Huang": {
+     "fx": 1.83,
+     "fy": 0.292,
+     "dist": 324.6,
+     "head_frac": 0.307
+    },
+    "Shiye": {
+     "fx": 1.127,
+     "fy": 0.186,
+     "dist": 194.5,
+     "head_frac": 0.513
+    }
+   },
+   "frame_range": [
+    3328,
+    3443
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "黄老爷这话还挺有玄机",
+   "film_action": "师爷看黄四郎大笑向前伸长脖子，拿酒杯站起来顺势边倒酒边笑边说；马县长右手扶酒杯向前坐直左手靠桌看师爷说",
+   "film_camera_move": "跟镜头向上，倒酒时晃动"
+  },
+  {
+   "id": "S070",
+   "type": "single",
+   "subject": "Shiye",
+   "foreground": null,
+   "eye": [
+    75.97,
+    120.39,
+    -83.0
+   ],
+   "aim": [
+    -89.95,
+    119.44,
+    50.54
+   ],
+   "focal": 57.88,
+   "projection": {
+    "Ma": {
+     "fx": 2.807,
+     "fy": 0.951,
+     "dist": 45.3,
+     "head_frac": 1.505
+    },
+    "Huang": {
+     "fx": -2.002,
+     "fy": 0.378,
+     "dist": 73.3,
+     "head_frac": 0.873
+    },
+    "Shiye": {
+     "fx": 0.492,
+     "fy": 0.446,
+     "dist": 212.9,
+     "head_frac": 0.301
+    }
+   },
+   "frame_range": [
+    3444,
+    3467
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "",
+   "film_action": "师爷倒完酒坐回椅子，马县长向前坐直左手靠桌看着师爷说话",
+   "film_camera_move": "轻微晃动"
+  },
+  {
+   "id": "S071",
+   "type": "single",
+   "subject": "Ma",
+   "foreground": null,
+   "eye": [
+    -65.9,
+    114.14,
+    133.64
+   ],
+   "aim": [
+    0.79,
+    110.72,
+    -105.02
+   ],
+   "focal": 73.29,
+   "projection": {
+    "Ma": {
+     "fx": 0.493,
+     "fy": 0.466,
+     "dist": 247.8,
+     "head_frac": 0.348
+    },
+    "Huang": {
+     "fx": 2.668,
+     "fy": 0.179,
+     "dist": 120.7,
+     "head_frac": 0.672
+    },
+    "Shiye": {
+     "fx": -0.746,
+     "fy": -0.015,
+     "dist": 72.8,
+     "head_frac": 1.117
+    }
+   },
+   "frame_range": [
+    3468,
+    3512
+   ],
+   "shot_size_text": "近景",
+   "dialogue": "听黄爷",
+   "film_action": "师爷放回酒，看着马县长",
+   "film_camera_move": "向右移动"
+  }
+ ]
+}

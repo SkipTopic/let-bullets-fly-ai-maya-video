@@ -1,0 +1,17 @@
+{
+ "errors": [],
+ "scene": "C:/Users/admin/Desktop/MayaProject/让子弹飞分镜测试/工作区域文件夹/scenes/DS_相机动作_v01.mb",
+ "ds_camera_count": 71,
+ "review_camera_count": 16,
+ "time_unit": "23.976fps",
+ "playback": [
+  1.0,
+  3512.0
+ ],
+ "anim_curves": 0,
+ "ds_lights": 0,
+ "group_exists": true,
+ "references": [],
+ "missing_samples": [],
+ "ok": true
+}

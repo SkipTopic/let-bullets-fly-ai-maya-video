@@ -1,0 +1,408 @@
+{
+ "attrs": {
+  "caching": false,
+  "frozen": false,
+  "isHistoricallyInteresting": 2,
+  "nodeState": 0,
+  "isCollapsed": false,
+  "blackBox": false,
+  "isHierarchicalConnection": [
+   []
+  ],
+  "publishedNodeInfo": [
+   []
+  ],
+  "viewMode": 2,
+  "templateVersion": 0,
+  "uiTreatment": 0,
+  "visibility": true,
+  "intermediateObject": false,
+  "template": false,
+  "instObjGroups": [
+   [
+    0.0
+   ]
+  ],
+  "objectColorRGB": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "objectColorR": 0.0,
+  "objectColorG": 0.0,
+  "objectColorB": 0.0,
+  "wireColorRGB": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "wireColorR": 0.0,
+  "wireColorG": 0.0,
+  "wireColorB": 0.0,
+  "useObjectColor": 0,
+  "objectColor": 0,
+  "overrideDisplayType": 0,
+  "overrideLevelOfDetail": 0,
+  "overrideShading": true,
+  "overrideTexturing": true,
+  "overridePlayback": true,
+  "overrideEnabled": false,
+  "overrideVisibility": true,
+  "hideOnPlayback": false,
+  "overrideRGBColors": false,
+  "overrideColor": 0,
+  "overrideColorRGB": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "overrideColorR": 0.0,
+  "overrideColorG": 0.0,
+  "overrideColorB": 0.0,
+  "overrideColorA": 1.0,
+  "lodVisibility": true,
+  "selectionChildHighlighting": true,
+  "renderInfo": [
+   [
+    0.0,
+    1.0,
+    0.0
+   ]
+  ],
+  "identification": 0,
+  "layerRenderable": true,
+  "layerOverrideColor": 0,
+  "renderLayerInfo": [
+   []
+  ],
+  "ghosting": false,
+  "ghostingMode": 0,
+  "ghostCustomSteps": [
+   [
+    3,
+    3,
+    1
+   ]
+  ],
+  "ghostPreFrames": 3,
+  "ghostPostFrames": 3,
+  "ghostsStep": 1,
+  "ghostOpacityRange": [
+   [
+    0.15000000596046448,
+    0.5
+   ]
+  ],
+  "ghostFarOpacity": 0.15000000596046448,
+  "ghostNearOpacity": 0.5,
+  "ghostColorPre": [
+   [
+    0.44699999690055847,
+    1.0,
+    1.0
+   ]
+  ],
+  "ghostColorPreR": 0.44699999690055847,
+  "ghostColorPreG": 1.0,
+  "ghostColorPreB": 1.0,
+  "ghostColorPost": [
+   [
+    0.878000020980835,
+    0.6779999732971191,
+    0.6629999876022339
+   ]
+  ],
+  "ghostColorPostR": 0.878000020980835,
+  "ghostColorPostG": 0.6779999732971191,
+  "ghostColorPostB": 0.6629999876022339,
+  "ghostUseDriver": false,
+  "hiddenInOutliner": false,
+  "useOutlinerColor": false,
+  "outlinerColor": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "outlinerColorR": 0.0,
+  "outlinerColorG": 0.0,
+  "outlinerColorB": 0.0,
+  "renderable": true,
+  "cameraAperture": [
+   [
+    36.0,
+    20.25
+   ]
+  ],
+  "horizontalFilmAperture": 36.0,
+  "verticalFilmAperture": 20.25,
+  "shakeOverscan": 1.0,
+  "shakeOverscanEnabled": false,
+  "filmOffset": [
+   [
+    0.0,
+    0.0
+   ]
+  ],
+  "horizontalFilmOffset": 0.0,
+  "verticalFilmOffset": 0.0,
+  "shakeEnabled": false,
+  "shake": [
+   [
+    0.0,
+    0.0
+   ]
+  ],
+  "horizontalShake": 0.0,
+  "verticalShake": 0.0,
+  "stereoHorizontalImageTranslateEnabled": false,
+  "stereoHorizontalImageTranslate": 0.0,
+  "preScale": 1.0,
+  "filmTranslate": [
+   [
+    0.0,
+    0.0
+   ]
+  ],
+  "filmTranslateH": 0.0,
+  "filmTranslateV": 0.0,
+  "filmRollPivot": [
+   [
+    0.0,
+    0.0
+   ]
+  ],
+  "horizontalRollPivot": 0.0,
+  "verticalRollPivot": 0.0,
+  "filmRollValue": 0.0,
+  "filmRollOrder": 0,
+  "postScale": 1.0,
+  "filmFit": 1,
+  "filmFitOffset": 0.0,
+  "overscan": 1.0,
+  "panZoomEnabled": false,
+  "renderPanZoom": false,
+  "pan": [
+   [
+    0.0,
+    0.0
+   ]
+  ],
+  "horizontalPan": 0.0,
+  "verticalPan": 0.0,
+  "zoom": 1.0,
+  "focalLength": 57.95,
+  "lensSqueezeRatio": 1.0,
+  "cameraScale": 1.0,
+  "triggerUpdate": 0.0,
+  "nearClipPlane": 5.0,
+  "farClipPlane": 2200.0,
+  "fStop": 5.6,
+  "focusDistance": 5.0,
+  "shutterAngle": 144.0,
+  "centerOfInterest": 5.0,
+  "orthographicWidth": 10.0,
+  "tumblePivot": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "tumblePivotX": 0.0,
+  "tumblePivotY": 0.0,
+  "tumblePivotZ": 0.0,
+  "autoSetPivot": false,
+  "usePivotAsLocalSpace": false,
+  "locatorScale": 1.0,
+  "displayGateMaskOpacity": 0.699999988079071,
+  "displayGateMask": true,
+  "bookmarksEnabled": true,
+  "displayFilmGate": false,
+  "displayResolution": false,
+  "displaySafeAction": false,
+  "displaySafeTitle": false,
+  "displayFieldChart": false,
+  "displayFilmPivot": false,
+  "displayFilmOrigin": false,
+  "clippingPlanes": true,
+  "bestFitClippingPlanes": true,
+  "depthOfField": false,
+  "motionBlur": false,
+  "orthographic": false,
+  "journalCommand": false,
+  "image": true,
+  "depth": false,
+  "transparencyBasedDepth": true,
+  "threshold": 0.9,
+  "depthType": 1,
+  "useExploreDepthFormat": false,
+  "mask": true,
+  "displayGateMaskColor": [
+   [
+    0.5,
+    0.5,
+    0.5
+   ]
+  ],
+  "displayGateMaskColorR": 0.5,
+  "displayGateMaskColorG": 0.5,
+  "displayGateMaskColorB": 0.5,
+  "backgroundColor": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "backgroundColorR": 0.0,
+  "backgroundColorG": 0.0,
+  "backgroundColorB": 0.0,
+  "focusRegionScale": 1.0,
+  "displayCameraNearClip": false,
+  "displayCameraFarClip": false,
+  "displayCameraFrustum": false,
+  "aiPosition": [
+   []
+  ],
+  "aiLookAt": [
+   []
+  ],
+  "aiUp": [
+   []
+  ],
+  "aiHandedness": 0,
+  "aiNearClip": 9.999999747378752e-05,
+  "aiFarClip": 1.0000000150474662e+30,
+  "aiScreenWindowMin": [
+   []
+  ],
+  "aiScreenWindowMax": [
+   []
+  ],
+  "aiShutterStart": 0.0,
+  "aiShutterEnd": 0.0,
+  "aiShutterType": 0,
+  "aiShutterCurve": [
+   []
+  ],
+  "aiRollingShutter": 0,
+  "aiRollingShutterDuration": 0.0,
+  "aiMotionStart": 0.0,
+  "aiMotionEnd": 1.0,
+  "aiExposure": 0.0,
+  "aiOffset": 0.10000000149011612,
+  "aiGridSize": 16,
+  "aiUOffset": 0.0,
+  "aiVOffset": 0.0,
+  "aiUScale": 1.0,
+  "aiVScale": 1.0,
+  "aiExtendEdges": true,
+  "aiRayOrigin": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "aiRayOriginX": 0.0,
+  "aiRayOriginY": 0.0,
+  "aiRayOriginZ": 0.0,
+  "aiRayDirection": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "aiRayDirectionX": 0.0,
+  "aiRayDirectionY": 0.0,
+  "aiRayDirectionZ": 0.0,
+  "aiUseGlobalShutter": true,
+  "aiProjective": true,
+  "aiHorizontalFov": 60.0,
+  "aiVerticalFov": 90.0,
+  "aiMode": 0,
+  "aiProjection": 0,
+  "aiEyeSeparation": 0.6499999761581421,
+  "aiEyeToNeck": 0.0,
+  "aiTopMergeMode": 1,
+  "aiTopMergeAngle": 90.0,
+  "aiBottomMergeMode": 1,
+  "aiBottomMergeAngle": 90.0,
+  "aiMergeShader": 0.0,
+  "aiFocusDistance": 5.0,
+  "aiApertureSize": 0.0,
+  "aiApertureBlades": 0,
+  "aiApertureBladeCurvature": 0.0,
+  "aiApertureRotation": 0.0,
+  "aiApertureAspectRatio": 1.0,
+  "aiEnableDOF": false,
+  "aiUvRemapA": 1.0,
+  "aiUvRemap": [
+   [
+    0.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "aiUvRemapR": 0.0,
+  "aiUvRemapG": 0.0,
+  "aiUvRemapB": 0.0,
+  "aiRadialDistortion": 0.0,
+  "aiRadialDistortionType": 0,
+  "aiLensTiltAngle": [
+   [
+    0.0,
+    0.0
+   ]
+  ],
+  "aiLensTiltAngleX": 0.0,
+  "aiLensTiltAngleY": 0.0,
+  "aiLensShift": [
+   [
+    0.0,
+    0.0
+   ]
+  ],
+  "aiLensShiftX": 0.0,
+  "aiLensShiftY": 0.0,
+  "motionBlurOverride": 0,
+  "aiFov": 90.0,
+  "aiAutocrop": false
+ },
+ "errors": [],
+ "diff_vs_default": {
+  "renderable": {
+   "ds": true,
+   "default": false
+  },
+  "horizontalFilmAperture": {
+   "ds": 36.0,
+   "default": 1.4173200000000001
+  },
+  "verticalFilmAperture": {
+   "ds": 20.25,
+   "default": 0.94488
+  },
+  "focalLength": {
+   "ds": 57.95,
+   "default": 35.0
+  },
+  "nearClipPlane": {
+   "ds": 5.0,
+   "default": 0.1
+  },
+  "farClipPlane": {
+   "ds": 2200.0,
+   "default": 10000.0
+  }
+ }
+}
